@@ -9,7 +9,7 @@ function App() {
   const [search, setSearch] = useState('');
   const [showMultiple, setShowMultiple] = useState(false);
   const [maxRecipes, setMaxRecipes] = useState(5);
-  const [searchMode, setSearchMode] = useState('bfs'); // bfs or dfs
+  const [searchMode, setSearchMode] = useState('bfs'); 
 
   const handleSelect = (element) => {
     setSelectedElement(element);
