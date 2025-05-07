@@ -12,6 +12,9 @@ export default function ElementList({ onSelect, search }) {
       .then((data) => setElements(data))
       .catch((err) => console.error('Failed to load elements:', err));
   }, []);
+  useEffect(() => {
+    setCurrentPage(1); 
+  }, [search]);
 
   const filteredElements = elements.filter((el) =>
     el.Name.toLowerCase().includes(search.toLowerCase())

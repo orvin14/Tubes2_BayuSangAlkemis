@@ -12,28 +12,32 @@ type RecipeRequest struct {
 	Algorithm string `json:"algorithm"` // "bfs" or "dfs"
 	MaxRecipe int    `json:"maxRecipe"`
 }
+type RecipeResponse struct {
+	Results     []map[string][][]string `json:"results"`
+	Duration    float64                 `json:"duration"`
+	VisitedNode int                     `json:"visitedNode"`
+}
 
 func enableCORS(w http.ResponseWriter) {
 	w.Header().Set("Access-Control-Allow-Origin", "*")
 	w.Header().Set("Access-Control-Allow-Methods", "POST, GET, OPTIONS")
 	w.Header().Set("Access-Control-Allow-Headers", "Content-Type")
 }
-func exploreRecipes(element string, algorithm string, maxRecipe int, currentDepth int) map[string][][]string {
-	if currentDepth >= maxRecipe {
-		return nil
-	}
-	var result map[string][][]string
+func exploreRecipes(element string, algorithm string, maxRecipe int) ([]map[string][][]string, float64, int) {
+	var result []map[string][][]string
+	var duration float64
+	var visitedNode int
 	switch algorithm {
 	case "bfs":
-		result = search.BFS(element, maxRecipe)
+		result, duration, visitedNode = search.BFS(element, maxRecipe)
 	case "dfs":
-		result = search.DFS(element, maxRecipe)
+		result, duration, visitedNode = search.DFS(element, maxRecipe)
 	default:
-		return nil
+		return nil,0,0
 	}
-
-	return result
+	return result, duration, visitedNode
 }
+
 
 func handleRecipe(w http.ResponseWriter, r *http.Request) {
 	enableCORS(w)
@@ -53,9 +57,14 @@ func handleRecipe(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	result := exploreRecipes(req.Element, req.Algorithm, req.MaxRecipe, 0)
+	result, duration, visitedNode := exploreRecipes(req.Element, req.Algorithm, req.MaxRecipe)
+	response := RecipeResponse{
+		Results:     result,
+		Duration:    duration,
+		VisitedNode: visitedNode,
+	}
 	w.Header().Set("Content-Type", "application/json")
-	json.NewEncoder(w).Encode(result)
+	json.NewEncoder(w).Encode(response)
 }
 
 func main() {

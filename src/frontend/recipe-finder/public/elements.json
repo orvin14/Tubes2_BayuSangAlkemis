@@ -1,2882 +1,2882 @@
 [
   {
     "Name": "Air",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/03/Air_2.svg/revision/latest?cb=20210827121954"
+    "ImageURL": "/images/Air.svg"
   },
   {
     "Name": "Earth",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/21/Earth_2.svg/revision/latest?cb=20210827132928"
+    "ImageURL": "/images/Earth.svg"
   },
   {
     "Name": "Fire",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/01/Fire_2.svg/revision/latest?cb=20210827122013"
+    "ImageURL": "/images/Fire.svg"
   },
   {
     "Name": "Water",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f4/Water_2.svg/revision/latest?cb=20210827124229"
+    "ImageURL": "/images/Water.svg"
   },
   {
     "Name": "Time",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/63/Time_2.svg/revision/latest?cb=20210827124225"
+    "ImageURL": "/images/Time.svg"
   },
   {
     "Name": "Dust",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a4/Dust_2.svg/revision/latest?cb=20210827130147"
+    "ImageURL": "/images/Dust.svg"
   },
   {
     "Name": "Energy",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ed/Energy_2.svg/revision/latest?cb=20210827224722"
+    "ImageURL": "/images/Energy.svg"
   },
   {
     "Name": "Land",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9b/Land_2.svg/revision/latest?cb=20210827132944"
+    "ImageURL": "/images/Land.svg"
   },
   {
     "Name": "Lava",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/85/Lava_2.svg/revision/latest?cb=20210830114616"
+    "ImageURL": "/images/Lava.svg"
   },
   {
     "Name": "Mist",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e3/Mist_2.svg/revision/latest?cb=20210827122019"
+    "ImageURL": "/images/Mist.svg"
   },
   {
     "Name": "Mud",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8b/Mud_2.svg/revision/latest?cb=20210827231218"
+    "ImageURL": "/images/Mud.svg"
   },
   {
     "Name": "Pressure",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7a/Pressure_2.svg/revision/latest?cb=20210828104218"
+    "ImageURL": "/images/Pressure.svg"
   },
   {
     "Name": "Puddle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c3/Puddle_2.svg/revision/latest?cb=20210827132946"
+    "ImageURL": "/images/Puddle.svg"
   },
   {
     "Name": "Smoke",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/32/Smoke_2.svg/revision/latest?cb=20210827122035"
+    "ImageURL": "/images/Smoke.svg"
   },
   {
     "Name": "Steam",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/95/Steam_2.svg/revision/latest?cb=20210828104228"
+    "ImageURL": "/images/Steam.svg"
   },
   {
     "Name": "Brick",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/64/Brick_2.svg/revision/latest?cb=20210829004252"
+    "ImageURL": "/images/Brick.svg"
   },
   {
     "Name": "Continent",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4d/Continent_2.svg/revision/latest?cb=20210827132923"
+    "ImageURL": "/images/Continent.svg"
   },
   {
     "Name": "Earthquake",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/51/Earthquake_2.svg/revision/latest?cb=20210827231104"
+    "ImageURL": "/images/Earthquake.svg"
   },
   {
     "Name": "Eruption",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e1/Eruption_2.svg/revision/latest?cb=20210830114613"
+    "ImageURL": "/images/Eruption.svg"
   },
   {
     "Name": "Geyser",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e0/Geyser_2.svg/revision/latest?cb=20210902171449"
+    "ImageURL": "/images/Geyser.svg"
   },
   {
     "Name": "Granite",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/38/Granite_2.svg/revision/latest?cb=20210831023009"
+    "ImageURL": "/images/Granite.svg"
   },
   {
     "Name": "Gunpowder",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c3/Gunpowder_2.svg/revision/latest?cb=20210828134754"
+    "ImageURL": "/images/Gunpowder.svg"
   },
   {
     "Name": "Heat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e0/Heat_2.svg/revision/latest?cb=20210828145419"
+    "ImageURL": "/images/Heat.svg"
   },
   {
     "Name": "Obsidian",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3a/Obsidian_2.svg/revision/latest?cb=20210902102216"
+    "ImageURL": "/images/Obsidian.svg"
   },
   {
     "Name": "Pond",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/75/Pond_2.svg/revision/latest?cb=20210827124216"
+    "ImageURL": "/images/Pond.svg"
   },
   {
     "Name": "Stone",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/eb/Stone_2.svg/revision/latest?cb=20210828104229"
+    "ImageURL": "/images/Stone.svg"
   },
   {
     "Name": "Volcano",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a6/Volcano_2.svg/revision/latest?cb=20210830114632"
+    "ImageURL": "/images/Volcano.svg"
   },
   {
     "Name": "Wind",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bb/Wind_2.svg/revision/latest?cb=20210828104241"
+    "ImageURL": "/images/Wind.svg"
   },
   {
     "Name": "Chimney",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/74/Chimney_2.svg/revision/latest?cb=20210829004313"
+    "ImageURL": "/images/Chimney.svg"
   },
   {
     "Name": "Clay",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/55/Clay_2.svg/revision/latest?cb=20210828111121"
+    "ImageURL": "/images/Clay.svg"
   },
   {
     "Name": "Explosion",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8b/Explosion_2.svg/revision/latest?cb=20210827224723"
+    "ImageURL": "/images/Explosion.svg"
   },
   {
     "Name": "Lake",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b4/Lake_2.svg/revision/latest?cb=20210827124207"
+    "ImageURL": "/images/Lake.svg"
   },
   {
     "Name": "Metal",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/df/Metal_2.svg/revision/latest?cb=20210827122017"
+    "ImageURL": "/images/Metal.svg"
   },
   {
     "Name": "Mountain",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3f/Mountain_2.svg/revision/latest?cb=20210827130156"
+    "ImageURL": "/images/Mountain.svg"
   },
   {
     "Name": "Planet",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8a/Planet_2.svg/revision/latest?cb=20210827224737"
+    "ImageURL": "/images/Planet.svg"
   },
   {
     "Name": "Plasma",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/86/Plasma_2.svg/revision/latest?cb=20210902171507"
+    "ImageURL": "/images/Plasma.svg"
   },
   {
     "Name": "Sand",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/01/Sand_2.svg/revision/latest?cb=20210828104225"
+    "ImageURL": "/images/Sand.svg"
   },
   {
     "Name": "Tornado",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8e/Tornado_2.svg/revision/latest?cb=20210828104234"
+    "ImageURL": "/images/Tornado.svg"
   },
   {
     "Name": "Wall",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/49/Wall_2.svg/revision/latest?cb=20210828104237"
+    "ImageURL": "/images/Wall.svg"
   },
   {
     "Name": "Warmth",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/83/Warmth_2.svg/revision/latest?cb=20210904141718"
+    "ImageURL": "/images/Warmth.svg"
   },
   {
     "Name": "Atmosphere",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5d/Atmosphere_2.svg/revision/latest?cb=20210827224704"
+    "ImageURL": "/images/Atmosphere.svg"
   },
   {
     "Name": "Atomic bomb",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/69/Atomic_bomb_2.svg/revision/latest?cb=20210827224705"
+    "ImageURL": "/images/Atomic_bomb.svg"
   },
   {
     "Name": "Avalanche",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/90/Avalanche_2.svg/revision/latest?cb=20210827231027"
+    "ImageURL": "/images/Avalanche.svg"
   },
   {
     "Name": "Beach",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/45/Beach_2.svg/revision/latest?cb=20210827132922"
+    "ImageURL": "/images/Beach.svg"
   },
   {
     "Name": "Blade",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5e/Blade_2.svg/revision/latest?cb=20210827231049"
+    "ImageURL": "/images/Blade.svg"
   },
   {
     "Name": "Boiler",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/96/Boiler_2.svg/revision/latest?cb=20210828104159"
+    "ImageURL": "/images/Boiler.svg"
   },
   {
     "Name": "Bullet",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0a/Bullet_2.svg/revision/latest?cb=20210827224711"
+    "ImageURL": "/images/Bullet.svg"
   },
   {
     "Name": "Dam",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d5/Dam_2.svg/revision/latest?cb=20210828104205"
+    "ImageURL": "/images/Dam.svg"
   },
   {
     "Name": "Desert",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7b/Desert_2.svg/revision/latest?cb=20210827132927"
+    "ImageURL": "/images/Desert.svg"
   },
   {
     "Name": "Dune",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2d/Dune_2.svg/revision/latest?cb=20210828145412"
+    "ImageURL": "/images/Dune.svg"
   },
   {
     "Name": "Firewall",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2d/Firewall_2.svg/revision/latest?cb=20210909182838"
+    "ImageURL": "/images/Firewall.svg"
   },
   {
     "Name": "Glass",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/88/Glass_2.svg/revision/latest?cb=20210827132937"
+    "ImageURL": "/images/Glass.svg"
   },
   {
     "Name": "Gold",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/88/Gold_2.svg/revision/latest?cb=20210827124201"
+    "ImageURL": "/images/Gold.svg"
   },
   {
     "Name": "Grenade",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ed/Grenade_2.svg/revision/latest?cb=20210831023013"
+    "ImageURL": "/images/Grenade.svg"
   },
   {
     "Name": "House",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5a/House_2.svg/revision/latest?cb=20210827132940"
+    "ImageURL": "/images/House.svg"
   },
   {
     "Name": "Mercury",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0d/Mercury_2.svg/revision/latest?cb=20210827124212"
+    "ImageURL": "/images/Mercury.svg"
   },
   {
     "Name": "Moon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1c/Moon_2.svg/revision/latest?cb=20210827224730"
+    "ImageURL": "/images/Moon.svg"
   },
   {
     "Name": "Mountain range",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ee/Mountain_range_2.svg/revision/latest?cb=20210827130158"
+    "ImageURL": "/images/Mountain_range.svg"
   },
   {
     "Name": "Plow",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4b/Plow_2.svg/revision/latest?cb=20210830145957"
+    "ImageURL": "/images/Plow.svg"
   },
   {
     "Name": "River",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3d/River_2.svg/revision/latest?cb=20210827130201"
+    "ImageURL": "/images/River.svg"
   },
   {
     "Name": "Rust",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/49/Rust_2.svg/revision/latest?cb=20210901142445"
+    "ImageURL": "/images/Rust.svg"
   },
   {
     "Name": "Sandstone",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a1/Sandstone_2.svg/revision/latest?cb=20210903150042"
+    "ImageURL": "/images/Sandstone.svg"
   },
   {
     "Name": "Sandstorm",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a7/Sandstorm_2.svg/revision/latest?cb=20210829125345"
+    "ImageURL": "/images/Sandstorm.svg"
   },
   {
     "Name": "Sea",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/32/Sea_2.svg/revision/latest?cb=20210827224741"
+    "ImageURL": "/images/Sea.svg"
   },
   {
     "Name": "Solar system",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/75/Solar_system_2.svg/revision/latest?cb=20210827124219"
+    "ImageURL": "/images/Solar_system.svg"
   },
   {
     "Name": "Sun",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c1/Sun_2.svg/revision/latest?cb=20210827124223"
+    "ImageURL": "/images/Sun.svg"
   },
   {
     "Name": "Venus",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b3/Venus_2.svg/revision/latest?cb=20210827124226"
+    "ImageURL": "/images/Venus.svg"
   },
   {
     "Name": "Waterfall",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/57/Waterfall_2.svg/revision/latest?cb=20210904141722"
+    "ImageURL": "/images/Waterfall.svg"
   },
   {
     "Name": "Wave",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/db/Wave_2.svg/revision/latest?cb=20210827231238"
+    "ImageURL": "/images/Wave.svg"
   },
   {
     "Name": "Aquarium",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9b/Aquarium_2.svg/revision/latest?cb=20210827132919"
+    "ImageURL": "/images/Aquarium.svg"
   },
   {
     "Name": "Aurora",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/34/Aurora_2.svg/revision/latest?cb=20210827224707"
+    "ImageURL": "/images/Aurora.svg"
   },
   {
     "Name": "Bank",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8d/Bank_2.svg/revision/latest?cb=20210827231044"
+    "ImageURL": "/images/Bank.svg"
   },
   {
     "Name": "Black hole",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/ff/Black_hole_2.svg/revision/latest?cb=20210828104104"
+    "ImageURL": "/images/Black_hole.svg"
   },
   {
     "Name": "Blender",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5b/Blender_2.svg/revision/latest?cb=20210828104108"
+    "ImageURL": "/images/Blender.svg"
   },
   {
     "Name": "Bridge",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bb/Bridge_2.svg/revision/latest?cb=20210828111115"
+    "ImageURL": "/images/Bridge.svg"
   },
   {
     "Name": "Cloud",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b9/Cloud_2.svg/revision/latest?cb=20210827122005"
+    "ImageURL": "/images/Cloud.svg"
   },
   {
     "Name": "Current",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c6/Current_2.svg/revision/latest?cb=20210829104334"
+    "ImageURL": "/images/Current.svg"
   },
   {
     "Name": "Eclipse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6b/Eclipse_2.svg/revision/latest?cb=20210830114609"
+    "ImageURL": "/images/Eclipse.svg"
   },
   {
     "Name": "Factory",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/11/Factory_2.svg/revision/latest?cb=20210910114329"
+    "ImageURL": "/images/Factory.svg"
   },
   {
     "Name": "Field",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/74/Field_2.svg/revision/latest?cb=20210827231110"
+    "ImageURL": "/images/Field.svg"
   },
   {
     "Name": "Fireworks",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/43/Fireworks_2.svg/revision/latest?cb=20210830145939"
+    "ImageURL": "/images/Fireworks.svg"
   },
   {
     "Name": "Flood",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c5/Flood_2.svg/revision/latest?cb=20210830145941"
+    "ImageURL": "/images/Flood.svg"
   },
   {
     "Name": "Galaxy",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/72/Galaxy_2.svg/revision/latest?cb=20210827124158"
+    "ImageURL": "/images/Galaxy.svg"
   },
   {
     "Name": "Glasses",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/dd/Glasses_2.svg/revision/latest?cb=20210831023006"
+    "ImageURL": "/images/Glasses.svg"
   },
   {
     "Name": "Gun",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1a/Gun_2.svg/revision/latest?cb=20210827231115"
+    "ImageURL": "/images/Gun.svg"
   },
   {
     "Name": "Hourglass",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/25/Hourglass_2.svg/revision/latest?cb=20210831120904"
+    "ImageURL": "/images/Hourglass.svg"
   },
   {
     "Name": "Hurricane",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ef/Hurricane_2.svg/revision/latest?cb=20210828104216"
+    "ImageURL": "/images/Hurricane.svg"
   },
   {
     "Name": "Island",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/07/Island_2.svg/revision/latest?cb=20210827224727"
+    "ImageURL": "/images/Island.svg"
   },
   {
     "Name": "Katana",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/22/Katana_2.svg/revision/latest?cb=20210831154318"
+    "ImageURL": "/images/Katana.svg"
   },
   {
     "Name": "Mars",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fe/Mars_2.svg/revision/latest?cb=20210827124210"
+    "ImageURL": "/images/Mars.svg"
   },
   {
     "Name": "Meteoroid",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/ab/Meteoroid_2.svg/revision/latest?cb=20210901142433"
+    "ImageURL": "/images/Meteoroid.svg"
   },
   {
     "Name": "Mirror",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9b/Mirror_2.svg/revision/latest?cb=20210829104354"
+    "ImageURL": "/images/Mirror.svg"
   },
   {
     "Name": "Oasis",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ee/Oasis_2.svg/revision/latest?cb=20210902102215"
+    "ImageURL": "/images/Oasis.svg"
   },
   {
     "Name": "Ocean",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/89/Ocean_2.svg/revision/latest?cb=20210827224734"
+    "ImageURL": "/images/Ocean.svg"
   },
   {
     "Name": "Primordial soup",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/af/Primordial_soup_2.svg/revision/latest?cb=20210827231225"
+    "ImageURL": "/images/Primordial_soup.svg"
   },
   {
     "Name": "Pyramid",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/01/Pyramid_2.svg/revision/latest?cb=20210901142444"
+    "ImageURL": "/images/Pyramid.svg"
   },
   {
     "Name": "Rainbow",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/26/Rainbow_2.svg/revision/latest?cb=20210828134759"
+    "ImageURL": "/images/Rainbow.svg"
   },
   {
     "Name": "Rocket",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/97/Rocket_2.svg/revision/latest?cb=20210827224738"
+    "ImageURL": "/images/Rocket.svg"
   },
   {
     "Name": "Safe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/04/Safe_2.svg/revision/latest?cb=20210827231227"
+    "ImageURL": "/images/Safe.svg"
   },
   {
     "Name": "Salt",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8a/Salt_2.svg/revision/latest?cb=20210829004327"
+    "ImageURL": "/images/Salt.svg"
   },
   {
     "Name": "Scissors",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/32/Scissors_2.svg/revision/latest?cb=20210828111149"
+    "ImageURL": "/images/Scissors.svg"
   },
   {
     "Name": "Sky",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6c/Sky_2.svg/revision/latest?cb=20210827224743"
+    "ImageURL": "/images/Sky.svg"
   },
   {
     "Name": "Solar cell",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/53/Solar_cell_2.svg/revision/latest?cb=20210830114629"
+    "ImageURL": "/images/Solar_cell.svg"
   },
   {
     "Name": "Sound",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/77/Sound_2.svg/revision/latest?cb=20210827124220"
+    "ImageURL": "/images/Sound.svg"
   },
   {
     "Name": "Space station",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/39/Space_station_2.svg/revision/latest?cb=20210827224746"
+    "ImageURL": "/images/Space_station.svg"
   },
   {
     "Name": "Supernova",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/64/Supernova_2.svg/revision/latest?cb=20210831023025"
+    "ImageURL": "/images/Supernova.svg"
   },
   {
     "Name": "Swimming pool",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/56/Swimming_pool_2.svg/revision/latest?cb=20210827132957"
+    "ImageURL": "/images/Swimming_pool.svg"
   },
   {
     "Name": "Sword",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c5/Sword_2.svg/revision/latest?cb=20210827231232"
+    "ImageURL": "/images/Sword.svg"
   },
   {
     "Name": "Telescope",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e9/Telescope_2.svg/revision/latest?cb=20210903150050"
+    "ImageURL": "/images/Telescope.svg"
   },
   {
     "Name": "Tide",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f3/Tide_2.svg/revision/latest?cb=20210902102222"
+    "ImageURL": "/images/Tide.svg"
   },
   {
     "Name": "Tsunami",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/07/Tsunami_2.svg/revision/latest?cb=20210830150002"
+    "ImageURL": "/images/Tsunami.svg"
   },
   {
     "Name": "Village",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/99/Village_2.svg/revision/latest?cb=20210829010145"
+    "ImageURL": "/images/Village.svg"
   },
   {
     "Name": "Windmill",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/17/Windmill_2.svg/revision/latest?cb=20210828104244"
+    "ImageURL": "/images/Windmill.svg"
   },
   {
     "Name": "Acid rain",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1d/Acid_rain_2.svg/revision/latest?cb=20210827120128"
+    "ImageURL": "/images/Acid_rain.svg"
   },
   {
     "Name": "Archipelago",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d9/Archipelago_2.svg/revision/latest?cb=20210827224653"
+    "ImageURL": "/images/Archipelago.svg"
   },
   {
     "Name": "Barn",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1f/Barn_2.svg/revision/latest?cb=20210827231046"
+    "ImageURL": "/images/Barn.svg"
   },
   {
     "Name": "Bayonet",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/18/Bayonet_2.svg/revision/latest?cb=20210902171448"
+    "ImageURL": "/images/Bayonet.svg"
   },
   {
     "Name": "Bell",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/33/Bell_2.svg/revision/latest?cb=20210827124152"
+    "ImageURL": "/images/Bell.svg"
   },
   {
     "Name": "Binoculars",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/50/Binoculars_2.svg/revision/latest?cb=20210909182835"
+    "ImageURL": "/images/Binoculars.svg"
   },
   {
     "Name": "City",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c8/City_2.svg/revision/latest?cb=20210827122002"
+    "ImageURL": "/images/City.svg"
   },
   {
     "Name": "Day",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0f/Day_2.svg/revision/latest?cb=20210829125312"
+    "ImageURL": "/images/Day.svg"
   },
   {
     "Name": "Double rainbow!",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/87/Double_rainbow%21_2.svg/revision/latest?cb=20210828134753"
+    "ImageURL": "/images/Double_rainbow!.svg"
   },
   {
     "Name": "Electricity",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7c/Electricity_2.svg/revision/latest?cb=20210827224719"
+    "ImageURL": "/images/Electricity.svg"
   },
   {
     "Name": "Excalibur",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/36/Excalibur_2.svg/revision/latest?cb=20210830114614"
+    "ImageURL": "/images/Excalibur.svg"
   },
   {
     "Name": "Fence",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/23/Fence_2.svg/revision/latest?cb=20210830145935"
+    "ImageURL": "/images/Fence.svg"
   },
   {
     "Name": "Flamethrower",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/34/Flamethrower_2.svg/revision/latest?cb=20210830145940"
+    "ImageURL": "/images/Flamethrower.svg"
   },
   {
     "Name": "Fog",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a5/Fog_2.svg/revision/latest?cb=20210829125329"
+    "ImageURL": "/images/Fog.svg"
   },
   {
     "Name": "Galaxy cluster",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9b/Galaxy_cluster_2.svg/revision/latest?cb=20210827124159"
+    "ImageURL": "/images/Galaxy_cluster.svg"
   },
   {
     "Name": "Hangar",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3c/Hangar_2.svg/revision/latest?cb=20210831120857"
+    "ImageURL": "/images/Hangar.svg"
   },
   {
     "Name": "Horizon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/97/Horizon_2.svg/revision/latest?cb=20210831120902"
+    "ImageURL": "/images/Horizon.svg"
   },
   {
     "Name": "Jupiter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/30/Jupiter_2.svg/revision/latest?cb=20210827124206"
+    "ImageURL": "/images/Jupiter.svg"
   },
   {
     "Name": "Life",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0f/Life_2.svg/revision/latest?cb=20210827124209"
+    "ImageURL": "/images/Life.svg"
   },
   {
     "Name": "Light sword",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/59/Light_sword_2.svg/revision/latest?cb=20210830145953"
+    "ImageURL": "/images/Light_sword.svg"
   },
   {
     "Name": "Lightning",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/37/Lightning_2.svg/revision/latest?cb=20210830114617"
+    "ImageURL": "/images/Lightning.svg"
   },
   {
     "Name": "Meteor",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/83/Meteor_2.svg/revision/latest?cb=20210901142432"
+    "ImageURL": "/images/Meteor.svg"
   },
   {
     "Name": "Night",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/60/Night_2.svg/revision/latest?cb=20210828145427"
+    "ImageURL": "/images/Night.svg"
   },
   {
     "Name": "Paint",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/57/Paint_2.svg/revision/latest?cb=20210828134757"
+    "ImageURL": "/images/Paint.svg"
   },
   {
     "Name": "Park",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/50/Park_2.svg/revision/latest?cb=20210902171456"
+    "ImageURL": "/images/Park.svg"
   },
   {
     "Name": "Prism",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2a/Prism_2.svg/revision/latest?cb=20210902171513"
+    "ImageURL": "/images/Prism.svg"
   },
   {
     "Name": "Rain",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/18/Rain_2.svg/revision/latest?cb=20210827122025"
+    "ImageURL": "/images/Rain.svg"
   },
   {
     "Name": "Ruins",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f0/Ruins_2.svg/revision/latest?cb=20210903114747"
+    "ImageURL": "/images/Ruins.svg"
   },
   {
     "Name": "Safety glasses",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8a/Safety_glasses_2.svg/revision/latest?cb=20210901142446"
+    "ImageURL": "/images/Safety_glasses.svg"
   },
   {
     "Name": "Skyscraper",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/69/Skyscraper_2.svg/revision/latest?cb=20210827231231"
+    "ImageURL": "/images/Skyscraper.svg"
   },
   {
     "Name": "Space",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/02/Space_2.svg/revision/latest?cb=20210827124221"
+    "ImageURL": "/images/Space.svg"
   },
   {
     "Name": "Storm",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/68/Storm_2.svg/revision/latest?cb=20210828104231"
+    "ImageURL": "/images/Storm.svg"
   },
   {
     "Name": "Stun gun",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/ce/Stun_gun_2.svg/revision/latest?cb=20210904021104"
+    "ImageURL": "/images/Stun_gun.svg"
   },
   {
     "Name": "Sunglasses",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7e/Sunglasses_2.svg/revision/latest?cb=20210903161945"
+    "ImageURL": "/images/Sunglasses.svg"
   },
   {
     "Name": "Swim goggles",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/eb/Swim_goggles_2.svg/revision/latest?cb=20210904021107"
+    "ImageURL": "/images/Swim_goggles.svg"
   },
   {
     "Name": "Water gun",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d6/Water_gun_2.svg/revision/latest?cb=20210904141720"
+    "ImageURL": "/images/Water_gun.svg"
   },
   {
     "Name": "Alien",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ee/Alien_2.svg/revision/latest?cb=20210827124151"
+    "ImageURL": "/images/Alien.svg"
   },
   {
     "Name": "Animal",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/53/Animal_2.svg/revision/latest?cb=20210827132909"
+    "ImageURL": "/images/Animal.svg"
   },
   {
     "Name": "Bacteria",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4a/Bacteria_2.svg/revision/latest?cb=20210827231033"
+    "ImageURL": "/images/Bacteria.svg"
   },
   {
     "Name": "Clock",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0a/Clock_2.svg/revision/latest?cb=20210827124153"
+    "ImageURL": "/images/Clock.svg"
   },
   {
     "Name": "Darkness",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/07/Darkness_2.svg/revision/latest?cb=20210828104207"
+    "ImageURL": "/images/Darkness.svg"
   },
   {
     "Name": "Dawn",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9d/Dawn_2.svg/revision/latest?cb=20210827124155"
+    "ImageURL": "/images/Dawn.svg"
   },
   {
     "Name": "Death",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0d/Death_2.svg/revision/latest?cb=20210829104338"
+    "ImageURL": "/images/Death.svg"
   },
   {
     "Name": "Farm",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ef/Farm_2.svg/revision/latest?cb=20210827132932"
+    "ImageURL": "/images/Farm.svg"
   },
   {
     "Name": "Human",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b5/Human_2.svg/revision/latest?cb=20210827124203"
+    "ImageURL": "/images/Human.svg"
   },
   {
     "Name": "Light bulb",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8e/Light_bulb_2.svg/revision/latest?cb=20210829010130"
+    "ImageURL": "/images/Light_bulb.svg"
   },
   {
     "Name": "Magic",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a7/Magic_2.svg/revision/latest?cb=20210829104350"
+    "ImageURL": "/images/Magic.svg"
   },
   {
     "Name": "Ozone",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/73/Ozone_2.svg/revision/latest?cb=20210902102220"
+    "ImageURL": "/images/Ozone.svg"
   },
   {
     "Name": "Phoenix",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/54/Phoenix_2.svg/revision/latest?cb=20210830114624"
+    "ImageURL": "/images/Phoenix.svg"
   },
   {
     "Name": "Plankton",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/97/Plankton_2.svg/revision/latest?cb=20210902171506"
+    "ImageURL": "/images/Plankton.svg"
   },
   {
     "Name": "Robot",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6d/Robot_2.svg/revision/latest?cb=20210829104357"
+    "ImageURL": "/images/Robot.svg"
   },
   {
     "Name": "Smog",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5d/Smog_2.svg/revision/latest?cb=20210827122031"
+    "ImageURL": "/images/Smog.svg"
   },
   {
     "Name": "Snow",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/07/Snow_2.svg/revision/latest?cb=20210827132952"
+    "ImageURL": "/images/Snow.svg"
   },
   {
     "Name": "Soil",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/44/Soil_2.svg/revision/latest?cb=20210827132953"
+    "ImageURL": "/images/Soil.svg"
   },
   {
     "Name": "Spaceship",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c4/Spaceship_2.svg/revision/latest?cb=20210827224748"
+    "ImageURL": "/images/Spaceship.svg"
   },
   {
     "Name": "Star",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f6/Star_2.svg/revision/latest?cb=20210828104226"
+    "ImageURL": "/images/Star.svg"
   },
   {
     "Name": "Twilight",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fe/Twilight_2.svg/revision/latest?cb=20210829125351"
+    "ImageURL": "/images/Twilight.svg"
   },
   {
     "Name": "Universe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d0/Universe_2.svg/revision/latest?cb=20210828104235"
+    "ImageURL": "/images/Universe.svg"
   },
   {
     "Name": "Wind turbine",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9a/Wind_turbine_2.svg/revision/latest?cb=20210828104243"
+    "ImageURL": "/images/Wind_turbine.svg"
   },
   {
     "Name": "Wire",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8c/Wire_2.svg/revision/latest?cb=20210828111155"
+    "ImageURL": "/images/Wire.svg"
   },
   {
     "Name": "Alarm clock",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/40/Alarm_clock_2.svg/revision/latest?cb=20210827124145"
+    "ImageURL": "/images/Alarm_clock.svg"
   },
   {
     "Name": "Alchemist",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f0/Alchemist_2.svg/revision/latest?cb=20210827124147"
+    "ImageURL": "/images/Alchemist.svg"
   },
   {
     "Name": "Allergy",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f6/Allergy_2.svg/revision/latest?cb=20210827130134"
+    "ImageURL": "/images/Allergy.svg"
   },
   {
     "Name": "Antarctica",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/78/Antarctica_2.svg/revision/latest?cb=20210827132914"
+    "ImageURL": "/images/Antarctica.svg"
   },
   {
     "Name": "Archeologist",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/91/Archeologist_2.svg/revision/latest?cb=20210827224652"
+    "ImageURL": "/images/Archeologist.svg"
   },
   {
     "Name": "Astronaut",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/36/Astronaut_2.svg/revision/latest?cb=20210827224702"
+    "ImageURL": "/images/Astronaut.svg"
   },
   {
     "Name": "Astronomer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/25/Astronomer_2.svg/revision/latest?cb=20210909182830"
+    "ImageURL": "/images/Astronomer.svg"
   },
   {
     "Name": "Beaver",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/62/Beaver_2.svg/revision/latest?cb=20210828104052"
+    "ImageURL": "/images/Beaver.svg"
   },
   {
     "Name": "Bird",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/99/Bird_2.svg/revision/latest?cb=20210827121958"
+    "ImageURL": "/images/Bird.svg"
   },
   {
     "Name": "Blizzard",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5c/Blizzard_2.svg/revision/latest?cb=20210828104141"
+    "ImageURL": "/images/Blizzard.svg"
   },
   {
     "Name": "Blood",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d6/Blood_2.svg/revision/latest?cb=20210827231052"
+    "ImageURL": "/images/Blood.svg"
   },
   {
     "Name": "Butterfly",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/21/Butterfly_2.svg/revision/latest?cb=20210828134748"
+    "ImageURL": "/images/Butterfly.svg"
   },
   {
     "Name": "Cable car",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/17/Cable_car_2.svg/revision/latest?cb=20210828145348"
+    "ImageURL": "/images/Cable_car.svg"
   },
   {
     "Name": "Camel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b2/Camel_2.svg/revision/latest?cb=20210828145351"
+    "ImageURL": "/images/Camel.svg"
   },
   {
     "Name": "Cat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cd/Cat_2.svg/revision/latest?cb=20210827224714"
+    "ImageURL": "/images/Cat.svg"
   },
   {
     "Name": "Chain",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cd/Chain_2.svg/revision/latest?cb=20210828104204"
+    "ImageURL": "/images/Chain.svg"
   },
   {
     "Name": "Cold",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/38/Cold_2.svg/revision/latest?cb=20210827224716"
+    "ImageURL": "/images/Cold.svg"
   },
   {
     "Name": "Constellation",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/02/Constellation_2.svg/revision/latest?cb=20210829101400"
+    "ImageURL": "/images/Constellation.svg"
   },
   {
     "Name": "Corpse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0f/Corpse_2.svg/revision/latest?cb=20210828111122"
+    "ImageURL": "/images/Corpse.svg"
   },
   {
     "Name": "Crystal ball",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/74/Crystal_ball_2.svg/revision/latest?cb=20210829104331"
+    "ImageURL": "/images/Crystal_ball.svg"
   },
   {
     "Name": "Cyborg",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fd/Cyborg_2.svg/revision/latest?cb=20210829104337"
+    "ImageURL": "/images/Cyborg.svg"
   },
   {
     "Name": "Dew",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1f/Dew_2.svg/revision/latest?cb=20210829125313"
+    "ImageURL": "/images/Dew.svg"
   },
   {
     "Name": "Domestication",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5f/Domestication_2.svg/revision/latest?cb=20210829004315"
+    "ImageURL": "/images/Domestication.svg"
   },
   {
     "Name": "Dynamite",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ea/Dynamite_2.svg/revision/latest?cb=20210829125328"
+    "ImageURL": "/images/Dynamite.svg"
   },
   {
     "Name": "Egg",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/df/Egg_2.svg/revision/latest?cb=20210828104210"
+    "ImageURL": "/images/Egg.svg"
   },
   {
     "Name": "Electrician",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8c/Electrician_2.svg/revision/latest?cb=20210829104340"
+    "ImageURL": "/images/Electrician.svg"
   },
   {
     "Name": "Family",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/86/Family_2.svg/revision/latest?cb=20210830145932"
+    "ImageURL": "/images/Family.svg"
   },
   {
     "Name": "Farmer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7f/Farmer_2.svg/revision/latest?cb=20210828104211"
+    "ImageURL": "/images/Farmer.svg"
   },
   {
     "Name": "Firefighter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/57/Firefighter_2.svg/revision/latest?cb=20210829104343"
+    "ImageURL": "/images/Firefighter.svg"
   },
   {
     "Name": "Fish",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e6/Fish_2.svg/revision/latest?cb=20210827132933"
+    "ImageURL": "/images/Fish.svg"
   },
   {
     "Name": "Force knight",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/be/Force_knight_2.svg/revision/latest?cb=20210830145943"
+    "ImageURL": "/images/Force_knight.svg"
   },
   {
     "Name": "Frog",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/be/Frog_2.svg/revision/latest?cb=20210830114616"
+    "ImageURL": "/images/Frog.svg"
   },
   {
     "Name": "Glacier",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6b/Glacier_2.svg/revision/latest?cb=20210827231111"
+    "ImageURL": "/images/Glacier.svg"
   },
   {
     "Name": "Gravestone",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/38/Gravestone_2.svg/revision/latest?cb=20210831023010"
+    "ImageURL": "/images/Gravestone.svg"
   },
   {
     "Name": "Hacker",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f7/Hacker_2.svg/revision/latest?cb=20210829101418"
+    "ImageURL": "/images/Hacker.svg"
   },
   {
     "Name": "Hero",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a3/Hero_2.svg/revision/latest?cb=20210829125334"
+    "ImageURL": "/images/Hero.svg"
   },
   {
     "Name": "Horse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/38/Horse_2.svg/revision/latest?cb=20210827231124"
+    "ImageURL": "/images/Horse.svg"
   },
   {
     "Name": "Idea",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/03/Idea_2.svg/revision/latest?cb=20210828111132"
+    "ImageURL": "/images/Idea.svg"
   },
   {
     "Name": "Igloo",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e7/Igloo_2.svg/revision/latest?cb=20210831153620"
+    "ImageURL": "/images/Igloo.svg"
   },
   {
     "Name": "Lamp",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/70/Lamp_2.svg/revision/latest?cb=20210828145422"
+    "ImageURL": "/images/Lamp.svg"
   },
   {
     "Name": "Light",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/80/Light_2.svg/revision/latest?cb=20210827130153"
+    "ImageURL": "/images/Light.svg"
   },
   {
     "Name": "Livestock",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c4/Livestock_2.svg/revision/latest?cb=20210827231126"
+    "ImageURL": "/images/Livestock.svg"
   },
   {
     "Name": "Lizard",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8c/Lizard_2.svg/revision/latest?cb=20210827130154"
+    "ImageURL": "/images/Lizard.svg"
   },
   {
     "Name": "Love",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/19/Love_2.svg/revision/latest?cb=20210830145954"
+    "ImageURL": "/images/Love.svg"
   },
   {
     "Name": "Meat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/59/Meat_2.svg/revision/latest?cb=20210827232414"
+    "ImageURL": "/images/Meat.svg"
   },
   {
     "Name": "Microscope",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/98/Microscope_2.svg/revision/latest?cb=20210901142434"
+    "ImageURL": "/images/Microscope.svg"
   },
   {
     "Name": "Monarch",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a2/Monarch_2.svg/revision/latest?cb=20210829004321"
+    "ImageURL": "/images/Monarch.svg"
   },
   {
     "Name": "Mummy",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c2/Mummy_2.svg/revision/latest?cb=20210901142441"
+    "ImageURL": "/images/Mummy.svg"
   },
   {
     "Name": "Organic matter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f8/Organic_matter_2.svg/revision/latest?cb=20210829004323"
+    "ImageURL": "/images/Organic_matter.svg"
   },
   {
     "Name": "Painter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e0/Painter_2.svg/revision/latest?cb=20210902171450"
+    "ImageURL": "/images/Painter.svg"
   },
   {
     "Name": "Pig",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1c/Pig_2.svg/revision/latest?cb=20210827231222"
+    "ImageURL": "/images/Pig.svg"
   },
   {
     "Name": "Plant",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2a/Plant_2.svg/revision/latest?cb=20210827124215"
+    "ImageURL": "/images/Plant.svg"
   },
   {
     "Name": "Potter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a6/Potter_2.svg/revision/latest?cb=20210902171511"
+    "ImageURL": "/images/Potter.svg"
   },
   {
     "Name": "Sailor",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/27/Sailor_2.svg/revision/latest?cb=20210827132947"
+    "ImageURL": "/images/Sailor.svg"
   },
   {
     "Name": "Samurai",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3a/Samurai_2.svg/revision/latest?cb=20210909182844"
+    "ImageURL": "/images/Samurai.svg"
   },
   {
     "Name": "Science",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5e/Science_2.svg/revision/latest?cb=20210829104358"
+    "ImageURL": "/images/Science.svg"
   },
   {
     "Name": "Scorpion",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/04/Scorpion_2.svg/revision/latest?cb=20210830114627"
+    "ImageURL": "/images/Scorpion.svg"
   },
   {
     "Name": "Shuriken",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/19/Shuriken_2.svg/revision/latest?cb=20210831154323"
+    "ImageURL": "/images/Shuriken.svg"
   },
   {
     "Name": "Sickness",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/77/Sickness_2.svg/revision/latest?cb=20210827122029"
+    "ImageURL": "/images/Sickness.svg"
   },
   {
     "Name": "Ski goggles",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0f/Ski_goggles_2.svg/revision/latest?cb=20210903161939"
+    "ImageURL": "/images/Ski_goggles.svg"
   },
   {
     "Name": "Skier",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/29/Skier_2.svg/revision/latest?cb=20210831153629"
+    "ImageURL": "/images/Skier.svg"
   },
   {
     "Name": "Sloth",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1c/Sloth_2.svg/revision/latest?cb=20210903161941"
+    "ImageURL": "/images/Sloth.svg"
   },
   {
     "Name": "Snake",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b7/Snake_2.svg/revision/latest?cb=20210829004331"
+    "ImageURL": "/images/Snake.svg"
   },
   {
     "Name": "Snow globe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f0/Snow_globe_2.svg/revision/latest?cb=20210829104401"
+    "ImageURL": "/images/Snow_globe.svg"
   },
   {
     "Name": "Snowball",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/37/Snowball_2.svg/revision/latest?cb=20210903161943"
+    "ImageURL": "/images/Snowball.svg"
   },
   {
     "Name": "Snowman",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a3/Snowman_2.svg/revision/latest?cb=20210828145436"
+    "ImageURL": "/images/Snowman.svg"
   },
   {
     "Name": "Starfish",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/47/Starfish_2.svg/revision/latest?cb=20210904021101"
+    "ImageURL": "/images/Starfish.svg"
   },
   {
     "Name": "Sundial",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/14/Sundial_2.svg/revision/latest?cb=20210829010136"
+    "ImageURL": "/images/Sundial.svg"
   },
   {
     "Name": "Surfer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fc/Surfer_2.svg/revision/latest?cb=20210831153633"
+    "ImageURL": "/images/Surfer.svg"
   },
   {
     "Name": "Swimmer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bd/Swimmer_2.svg/revision/latest?cb=20210829125350"
+    "ImageURL": "/images/Swimmer.svg"
   },
   {
     "Name": "Tool",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/22/Tool_2.svg/revision/latest?cb=20210827231235"
+    "ImageURL": "/images/Tool.svg"
   },
   {
     "Name": "Turtle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/04/Turtle_2.svg/revision/latest?cb=20210829004332"
+    "ImageURL": "/images/Turtle.svg"
   },
   {
     "Name": "Ufo",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/29/Ufo_2.svg/revision/latest?cb=20210904120738"
+    "ImageURL": "/images/Ufo.svg"
   },
   {
     "Name": "Warrior",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1b/Warrior_2.svg/revision/latest?cb=20210828104238"
+    "ImageURL": "/images/Warrior.svg"
   },
   {
     "Name": "Watch",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/96/Watch_2.svg/revision/latest?cb=20210827124227"
+    "ImageURL": "/images/Watch.svg"
   },
   {
     "Name": "Wizard",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/13/Wizard_2.svg/revision/latest?cb=20210829104404"
+    "ImageURL": "/images/Wizard.svg"
   },
   {
     "Name": "Wolf",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/32/Wolf_2.svg/revision/latest?cb=20210828111156"
+    "ImageURL": "/images/Wolf.svg"
   },
   {
     "Name": "Airplane",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e3/Airplane_2.svg/revision/latest?cb=20210827121955"
+    "ImageURL": "/images/Airplane.svg"
   },
   {
     "Name": "Algae",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b2/Algae_2.svg/revision/latest?cb=20210827124149"
+    "ImageURL": "/images/Algae.svg"
   },
   {
     "Name": "Alligator",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3c/Alligator_2.svg/revision/latest?cb=20210827130136"
+    "ImageURL": "/images/Alligator.svg"
   },
   {
     "Name": "Angel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5a/Angel_2.svg/revision/latest?cb=20210827130142"
+    "ImageURL": "/images/Angel.svg"
   },
   {
     "Name": "Arctic",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f7/Arctic_2.svg/revision/latest?cb=20210827224655"
+    "ImageURL": "/images/Arctic.svg"
   },
   {
     "Name": "Ash",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5e/Ash_2.svg/revision/latest?cb=20210827224701"
+    "ImageURL": "/images/Ash.svg"
   },
   {
     "Name": "Bacon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/85/Bacon_2.svg/revision/latest?cb=20210827231032"
+    "ImageURL": "/images/Bacon.svg"
   },
   {
     "Name": "Birdcage",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a3/Birdcage_2.svg/revision/latest?cb=20210828104101"
+    "ImageURL": "/images/Birdcage.svg"
   },
   {
     "Name": "Birdhouse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/99/Birdhouse_2.svg/revision/latest?cb=20210828104103"
+    "ImageURL": "/images/Birdhouse.svg"
   },
   {
     "Name": "Bone",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/88/Bone_2.svg/revision/latest?cb=20210828111108"
+    "ImageURL": "/images/Bone.svg"
   },
   {
     "Name": "Butcher",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b5/Butcher_2.svg/revision/latest?cb=20210828134746"
+    "ImageURL": "/images/Butcher.svg"
   },
   {
     "Name": "Cactus",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b4/Cactus_2.svg/revision/latest?cb=20210828145349"
+    "ImageURL": "/images/Cactus.svg"
   },
   {
     "Name": "Cage",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/83/Cage_2.svg/revision/latest?cb=20210828104202"
+    "ImageURL": "/images/Cage.svg"
   },
   {
     "Name": "Carbon dioxide",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d7/Carbon_dioxide_2.svg/revision/latest?cb=20210828145400"
+    "ImageURL": "/images/Carbon_dioxide.svg"
   },
   {
     "Name": "Carrot",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c8/Carrot_2.svg/revision/latest?cb=20210828145402"
+    "ImageURL": "/images/Carrot.svg"
   },
   {
     "Name": "Castle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/09/Castle_2.svg/revision/latest?cb=20210828145406"
+    "ImageURL": "/images/Castle.svg"
   },
   {
     "Name": "Catnip",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/db/Catnip_2.svg/revision/latest?cb=20210829004254"
+    "ImageURL": "/images/Catnip.svg"
   },
   {
     "Name": "Cave",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a9/Cave_2.svg/revision/latest?cb=20210829004255"
+    "ImageURL": "/images/Cave.svg"
   },
   {
     "Name": "Centaur",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e0/Centaur_2.svg/revision/latest?cb=20210829004258"
+    "ImageURL": "/images/Centaur.svg"
   },
   {
     "Name": "Chameleon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9f/Chameleon_2.svg/revision/latest?cb=20210829004301"
+    "ImageURL": "/images/Chameleon.svg"
   },
   {
     "Name": "Charcoal",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c7/Charcoal_2.svg/revision/latest?cb=20210829004303"
+    "ImageURL": "/images/Charcoal.svg"
   },
   {
     "Name": "Chicken",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/79/Chicken_2.svg/revision/latest?cb=20210829004307"
+    "ImageURL": "/images/Chicken.svg"
   },
   {
     "Name": "Chill",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/99/Chill_2.svg/revision/latest?cb=20210829004311"
+    "ImageURL": "/images/Chill.svg"
   },
   {
     "Name": "Coal",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/17/Coal_2.svg/revision/latest?cb=20210829101325"
+    "ImageURL": "/images/Coal.svg"
   },
   {
     "Name": "Computer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2d/Computer_2.svg/revision/latest?cb=20210829101341"
+    "ImageURL": "/images/Computer.svg"
   },
   {
     "Name": "Cotton",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d3/Cotton_2.svg/revision/latest?cb=20210829104328"
+    "ImageURL": "/images/Cotton.svg"
   },
   {
     "Name": "Cow",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/da/Cow_2.svg/revision/latest?cb=20210827231059"
+    "ImageURL": "/images/Cow.svg"
   },
   {
     "Name": "Crow",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4b/Crow_2.svg/revision/latest?cb=20210827122008"
+    "ImageURL": "/images/Crow.svg"
   },
   {
     "Name": "Cuckoo",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/81/Cuckoo_2.svg/revision/latest?cb=20210829010128"
+    "ImageURL": "/images/Cuckoo.svg"
   },
   {
     "Name": "Dinosaur",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6e/Dinosaur_2.svg/revision/latest?cb=20210828104208"
+    "ImageURL": "/images/Dinosaur.svg"
   },
   {
     "Name": "Dog",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4a/Dog_2.svg/revision/latest?cb=20210827224717"
+    "ImageURL": "/images/Dog.svg"
   },
   {
     "Name": "Don quixote",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8e/Don_quixote_2.svg/revision/latest?cb=20210829125319"
+    "ImageURL": "/images/Don_quixote.svg"
   },
   {
     "Name": "Dragon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/12/Dragon_2.svg/revision/latest?cb=20210829125320"
+    "ImageURL": "/images/Dragon.svg"
   },
   {
     "Name": "Duck",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/af/Duck_2.svg/revision/latest?cb=20210827122010"
+    "ImageURL": "/images/Duck.svg"
   },
   {
     "Name": "Eagle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/50/Eagle_2.svg/revision/latest?cb=20210827122011"
+    "ImageURL": "/images/Eagle.svg"
   },
   {
     "Name": "Egg timer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7c/Egg_timer_2.svg/revision/latest?cb=20210830114610"
+    "ImageURL": "/images/Egg_timer.svg"
   },
   {
     "Name": "Electric eel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5e/Electric_eel_2.svg/revision/latest?cb=20210830114612"
+    "ImageURL": "/images/Electric_eel.svg"
   },
   {
     "Name": "Family tree",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/13/Family_tree_2.svg/revision/latest?cb=20210830145933"
+    "ImageURL": "/images/Family_tree.svg"
   },
   {
     "Name": "Firestation",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b8/Firestation_2.svg/revision/latest?cb=20210830145937"
+    "ImageURL": "/images/Firestation.svg"
   },
   {
     "Name": "Fishing rod",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f9/Fishing_rod_2.svg/revision/latest?cb=20210827132934"
+    "ImageURL": "/images/Fishing_rod.svg"
   },
   {
     "Name": "Flashlight",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/dd/Flashlight_2.svg/revision/latest?cb=20210828145414"
+    "ImageURL": "/images/Flashlight.svg"
   },
   {
     "Name": "Flower",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7c/Flower_2.svg/revision/latest?cb=20210828104213"
+    "ImageURL": "/images/Flower.svg"
   },
   {
     "Name": "Flying fish",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9a/Flying_fish_2.svg/revision/latest?cb=20210830114615"
+    "ImageURL": "/images/Flying_fish.svg"
   },
   {
     "Name": "Fossil",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f7/Fossil_2.svg/revision/latest?cb=20210829104345"
+    "ImageURL": "/images/Fossil.svg"
   },
   {
     "Name": "Frankenstein's monster",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/81/Frankenstein%27s_monster_2.svg/revision/latest?cb=20210830145945"
+    "ImageURL": "/images/Frankenstein's_monster.svg"
   },
   {
     "Name": "Fridge",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e3/Fridge_2.svg/revision/latest?cb=20210830145947"
+    "ImageURL": "/images/Fridge.svg"
   },
   {
     "Name": "Garden",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/40/Garden_2.svg/revision/latest?cb=20210827232412"
+    "ImageURL": "/images/Garden.svg"
   },
   {
     "Name": "Gas",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/06/Gas_2.svg/revision/latest?cb=20210831023003"
+    "ImageURL": "/images/Gas.svg"
   },
   {
     "Name": "Ghost",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/48/Ghost_2.svg/revision/latest?cb=20210831023004"
+    "ImageURL": "/images/Ghost.svg"
   },
   {
     "Name": "Goat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7b/Goat_2.svg/revision/latest?cb=20210827231113"
+    "ImageURL": "/images/Goat.svg"
   },
   {
     "Name": "Grass",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e1/Grass_2.svg/revision/latest?cb=20210827124202"
+    "ImageURL": "/images/Grass.svg"
   },
   {
     "Name": "Grave",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9e/Grave_2.svg/revision/latest?cb=20210829125331"
+    "ImageURL": "/images/Grave.svg"
   },
   {
     "Name": "Graveyard",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/77/Graveyard_2.svg/revision/latest?cb=20210829125332"
+    "ImageURL": "/images/Graveyard.svg"
   },
   {
     "Name": "Greenhouse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/74/Greenhouse_2.svg/revision/latest?cb=20210831023012"
+    "ImageURL": "/images/Greenhouse.svg"
   },
   {
     "Name": "Ham",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bf/Ham_2.svg/revision/latest?cb=20210827231117"
+    "ImageURL": "/images/Ham.svg"
   },
   {
     "Name": "Hammer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5b/Hammer_2.svg/revision/latest?cb=20210828104214"
+    "ImageURL": "/images/Hammer.svg"
   },
   {
     "Name": "Hedge",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7d/Hedge_2.svg/revision/latest?cb=20210831120859"
+    "ImageURL": "/images/Hedge.svg"
   },
   {
     "Name": "Hippo",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5d/Hippo_2.svg/revision/latest?cb=20210831120900"
+    "ImageURL": "/images/Hippo.svg"
   },
   {
     "Name": "Horseshoe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f3/Horseshoe_2.svg/revision/latest?cb=20210828145421"
+    "ImageURL": "/images/Horseshoe.svg"
   },
   {
     "Name": "Hospital",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e8/Hospital_2.svg/revision/latest?cb=20210827130151"
+    "ImageURL": "/images/Hospital.svg"
   },
   {
     "Name": "Hummingbird",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/38/Hummingbird_2.svg/revision/latest?cb=20210827122014"
+    "ImageURL": "/images/Hummingbird.svg"
   },
   {
     "Name": "Ice",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cb/Ice_2.svg/revision/latest?cb=20210827132942"
+    "ImageURL": "/images/Ice.svg"
   },
   {
     "Name": "Iceberg",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f7/Iceberg_2.svg/revision/latest?cb=20210831153618"
+    "ImageURL": "/images/Iceberg.svg"
   },
   {
     "Name": "Ivy",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/08/Ivy_2.svg/revision/latest?cb=20210831153621"
+    "ImageURL": "/images/Ivy.svg"
   },
   {
     "Name": "Jerky",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/be/Jerky_2.svg/revision/latest?cb=20210831153625"
+    "ImageURL": "/images/Jerky.svg"
   },
   {
     "Name": "Knight",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/ff/Knight_2.svg/revision/latest?cb=20210829004320"
+    "ImageURL": "/images/Knight.svg"
   },
   {
     "Name": "Lava lamp",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d7/Lava_lamp_2.svg/revision/latest?cb=20210901125744"
+    "ImageURL": "/images/Lava_lamp.svg"
   },
   {
     "Name": "Leather",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d8/Leather_2.svg/revision/latest?cb=20210829125338"
+    "ImageURL": "/images/Leather.svg"
   },
   {
     "Name": "Lens",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cb/Lens_2.svg/revision/latest?cb=20210831023018"
+    "ImageURL": "/images/Lens.svg"
   },
   {
     "Name": "Lighthouse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/85/Lighthouse_2.svg/revision/latest?cb=20210901125748"
+    "ImageURL": "/images/Lighthouse.svg"
   },
   {
     "Name": "Lion",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6b/Lion_2.svg/revision/latest?cb=20210828145424"
+    "ImageURL": "/images/Lion.svg"
   },
   {
     "Name": "Liquid",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a8/Liquid_2.svg/revision/latest?cb=20210828111135"
+    "ImageURL": "/images/Liquid.svg"
   },
   {
     "Name": "Machine",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0a/Machine_2.svg/revision/latest?cb=20210827122016"
+    "ImageURL": "/images/Machine.svg"
   },
   {
     "Name": "Magma",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c9/Magma_2.svg/revision/latest?cb=20210901142423"
+    "ImageURL": "/images/Magma.svg"
   },
   {
     "Name": "Medusa",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8b/Medusa_2.svg/revision/latest?cb=20210901142431"
+    "ImageURL": "/images/Medusa.svg"
   },
   {
     "Name": "Mermaid",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/86/Mermaid_2.svg/revision/latest?cb=20210901142432"
+    "ImageURL": "/images/Mermaid.svg"
   },
   {
     "Name": "Mineral",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2d/Mineral_2.svg/revision/latest?cb=20210827224729"
+    "ImageURL": "/images/Mineral.svg"
   },
   {
     "Name": "Moss",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cc/Moss_2.svg/revision/latest?cb=20210901142439"
+    "ImageURL": "/images/Moss.svg"
   },
   {
     "Name": "Moth",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8c/Moth_2.svg/revision/latest?cb=20210830114618"
+    "ImageURL": "/images/Moth.svg"
   },
   {
     "Name": "Motion",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f8/Motion_2.svg/revision/latest?cb=20210828104217"
+    "ImageURL": "/images/Motion.svg"
   },
   {
     "Name": "Nest",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a0/Nest_2.svg/revision/latest?cb=20210902102213"
+    "ImageURL": "/images/Nest.svg"
   },
   {
     "Name": "Ninja",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/01/Ninja_2.svg/revision/latest?cb=20210831154322"
+    "ImageURL": "/images/Ninja.svg"
   },
   {
     "Name": "Ninja turtle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/eb/Ninja_turtle_2.svg/revision/latest?cb=20210902102214"
+    "ImageURL": "/images/Ninja_turtle.svg"
   },
   {
     "Name": "Omelette",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6f/Omelette_2.svg/revision/latest?cb=20210902102217"
+    "ImageURL": "/images/Omelette.svg"
   },
   {
     "Name": "Optical fiber",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a2/Optical_fiber_2.svg/revision/latest?cb=20210902102218"
+    "ImageURL": "/images/Optical_fiber.svg"
   },
   {
     "Name": "Ostrich",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d8/Ostrich_2.svg/revision/latest?cb=20210830114619"
+    "ImageURL": "/images/Ostrich.svg"
   },
   {
     "Name": "Owl",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c4/Owl_2.svg/revision/latest?cb=20210827122020"
+    "ImageURL": "/images/Owl.svg"
   },
   {
     "Name": "Oxygen",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/68/Oxygen_2.svg/revision/latest?cb=20210828145428"
+    "ImageURL": "/images/Oxygen.svg"
   },
   {
     "Name": "Peacock",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7d/Peacock_2.svg/revision/latest?cb=20210830114621"
+    "ImageURL": "/images/Peacock.svg"
   },
   {
     "Name": "Pegasus",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1e/Pegasus_2.svg/revision/latest?cb=20210902171459"
+    "ImageURL": "/images/Pegasus.svg"
   },
   {
     "Name": "Penguin",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d5/Penguin_2.svg/revision/latest?cb=20210830114622"
+    "ImageURL": "/images/Penguin.svg"
   },
   {
     "Name": "Philosophy",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5d/Philosophy_2.svg/revision/latest?cb=20210827124213"
+    "ImageURL": "/images/Philosophy.svg"
   },
   {
     "Name": "Pigeon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9f/Pigeon_2.svg/revision/latest?cb=20210827122021"
+    "ImageURL": "/images/Pigeon.svg"
   },
   {
     "Name": "Piggy bank",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9c/Piggy_bank_2.svg/revision/latest?cb=20210902171503"
+    "ImageURL": "/images/Piggy_bank.svg"
   },
   {
     "Name": "Piranha",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/10/Piranha_2.svg/revision/latest?cb=20210830114625"
+    "ImageURL": "/images/Piranha.svg"
   },
   {
     "Name": "Pirate",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fd/Pirate_2.svg/revision/latest?cb=20210902171505"
+    "ImageURL": "/images/Pirate.svg"
   },
   {
     "Name": "Platypus",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/df/Platypus_2.svg/revision/latest?cb=20210902171508"
+    "ImageURL": "/images/Platypus.svg"
   },
   {
     "Name": "Pollen",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/da/Pollen_2.svg/revision/latest?cb=20210827130200"
+    "ImageURL": "/images/Pollen.svg"
   },
   {
     "Name": "Pottery",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/ad/Pottery_2.svg/revision/latest?cb=20210828111146"
+    "ImageURL": "/images/Pottery.svg"
   },
   {
     "Name": "Reed",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/62/Reed_2.svg/revision/latest?cb=20210903114742"
+    "ImageURL": "/images/Reed.svg"
   },
   {
     "Name": "Ring",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/37/Ring_2.svg/revision/latest?cb=20210903114743"
+    "ImageURL": "/images/Ring.svg"
   },
   {
     "Name": "Roe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/29/Roe_2.svg/revision/latest?cb=20210829004326"
+    "ImageURL": "/images/Roe.svg"
   },
   {
     "Name": "Rope",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4c/Rope_2.svg/revision/latest?cb=20210828111147"
+    "ImageURL": "/images/Rope.svg"
   },
   {
     "Name": "Rose",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8a/Rose_2.svg/revision/latest?cb=20210902171514"
+    "ImageURL": "/images/Rose.svg"
   },
   {
     "Name": "Saddle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/16/Saddle_2.svg/revision/latest?cb=20210831120909"
+    "ImageURL": "/images/Saddle.svg"
   },
   {
     "Name": "Seagull",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d0/Seagull_2.svg/revision/latest?cb=20210827122028"
+    "ImageURL": "/images/Seagull.svg"
   },
   {
     "Name": "Seahorse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e5/Seahorse_2.svg/revision/latest?cb=20210903150045"
+    "ImageURL": "/images/Seahorse.svg"
   },
   {
     "Name": "Seasickness",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/20/Seasickness_2.svg/revision/latest?cb=20210903150047"
+    "ImageURL": "/images/Seasickness.svg"
   },
   {
     "Name": "Seaweed",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d8/Seaweed_2.svg/revision/latest?cb=20210903150048"
+    "ImageURL": "/images/Seaweed.svg"
   },
   {
     "Name": "Shark",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b9/Shark_2.svg/revision/latest?cb=20210901142449"
+    "ImageURL": "/images/Shark.svg"
   },
   {
     "Name": "Sheep",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/44/Sheep_2.svg/revision/latest?cb=20210827130203"
+    "ImageURL": "/images/Sheep.svg"
   },
   {
     "Name": "Skeleton",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/83/Skeleton_2.svg/revision/latest?cb=20210829125348"
+    "ImageURL": "/images/Skeleton.svg"
   },
   {
     "Name": "Snowboard",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a2/Snowboard_2.svg/revision/latest?cb=20210903161944"
+    "ImageURL": "/images/Snowboard.svg"
   },
   {
     "Name": "Solid",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/69/Solid_2.svg/revision/latest?cb=20210831153631"
+    "ImageURL": "/images/Solid.svg"
   },
   {
     "Name": "Spotlight",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c5/Spotlight_2.svg/revision/latest?cb=20210901125751"
+    "ImageURL": "/images/Spotlight.svg"
   },
   {
     "Name": "Steak",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/32/Steak_2.svg/revision/latest?cb=20210831153632"
+    "ImageURL": "/images/Steak.svg"
   },
   {
     "Name": "Stethoscope",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/35/Stethoscope_2.svg/revision/latest?cb=20210829125349"
+    "ImageURL": "/images/Stethoscope.svg"
   },
   {
     "Name": "Story",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ec/Story_2.svg/revision/latest?cb=20210828111152"
+    "ImageURL": "/images/Story.svg"
   },
   {
     "Name": "Sunflower",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fb/Sunflower_2.svg/revision/latest?cb=20210902102221"
+    "ImageURL": "/images/Sunflower.svg"
   },
   {
     "Name": "Swordfish",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b9/Swordfish_2.svg/revision/latest?cb=20210830150000"
+    "ImageURL": "/images/Swordfish.svg"
   },
   {
     "Name": "Tobacco",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4f/Tobacco_2.svg/revision/latest?cb=20210829010138"
+    "ImageURL": "/images/Tobacco.svg"
   },
   {
     "Name": "Toolbox",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/47/Toolbox_2.svg/revision/latest?cb=20210829010139"
+    "ImageURL": "/images/Toolbox.svg"
   },
   {
     "Name": "Toucan",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c5/Toucan_2.svg/revision/latest?cb=20210904120730"
+    "ImageURL": "/images/Toucan.svg"
   },
   {
     "Name": "Tree",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bc/Tree_2.svg/revision/latest?cb=20210827224749"
+    "ImageURL": "/images/Tree.svg"
   },
   {
     "Name": "Umbrella",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4a/Umbrella_2.svg/revision/latest?cb=20210829010141"
+    "ImageURL": "/images/Umbrella.svg"
   },
   {
     "Name": "Unicorn",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bf/Unicorn_2.svg/revision/latest?cb=20210830150003"
+    "ImageURL": "/images/Unicorn.svg"
   },
   {
     "Name": "Vampire",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/85/Vampire_2.svg/revision/latest?cb=20210827224751"
+    "ImageURL": "/images/Vampire.svg"
   },
   {
     "Name": "Vegetable",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/50/Vegetable_2.svg/revision/latest?cb=20210828145441"
+    "ImageURL": "/images/Vegetable.svg"
   },
   {
     "Name": "Vulture",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b6/Vulture_2.svg/revision/latest?cb=20210827122053"
+    "ImageURL": "/images/Vulture.svg"
   },
   {
     "Name": "Wand",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/db/Wand_2.svg/revision/latest?cb=20210904141717"
+    "ImageURL": "/images/Wand.svg"
   },
   {
     "Name": "Werewolf",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/35/Werewolf_2.svg/revision/latest?cb=20210901142451"
+    "ImageURL": "/images/Werewolf.svg"
   },
   {
     "Name": "Wheel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1d/Wheel_2.svg/revision/latest?cb=20210828104240"
+    "ImageURL": "/images/Wheel.svg"
   },
   {
     "Name": "Wild boar",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/06/Wild_boar_2.svg/revision/latest?cb=20210901125751"
+    "ImageURL": "/images/Wild_boar.svg"
   },
   {
     "Name": "Windsurfer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/48/Windsurfer_2.svg/revision/latest?cb=20210904141725"
+    "ImageURL": "/images/Windsurfer.svg"
   },
   {
     "Name": "Zombie",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bc/Zombie_2.svg/revision/latest?cb=20210830150004"
+    "ImageURL": "/images/Zombie.svg"
   },
   {
     "Name": "Alpaca",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/eb/Alpaca_2.svg/revision/latest?cb=20210827130139"
+    "ImageURL": "/images/Alpaca.svg"
   },
   {
     "Name": "Angler",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8d/Angler_2.svg/revision/latest?cb=20210827132908"
+    "ImageURL": "/images/Angler.svg"
   },
   {
     "Name": "Ant",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/49/Ant_2.svg/revision/latest?cb=20210827132911"
+    "ImageURL": "/images/Ant.svg"
   },
   {
     "Name": "Battery",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/46/Battery_2.svg/revision/latest?cb=20210827232408"
+    "ImageURL": "/images/Battery.svg"
   },
   {
     "Name": "Bee",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/91/Bee_2.svg/revision/latest?cb=20210828104054"
+    "ImageURL": "/images/Bee.svg"
   },
   {
     "Name": "Bicycle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8f/Bicycle_2.svg/revision/latest?cb=20210828104100"
+    "ImageURL": "/images/Bicycle.svg"
   },
   {
     "Name": "Big",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/08/Big_2.svg/revision/latest?cb=20210827224708"
+    "ImageURL": "/images/Big.svg"
   },
   {
     "Name": "Bonsai tree",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/00/Bonsai_tree_2.svg/revision/latest?cb=20210828111109"
+    "ImageURL": "/images/Bonsai_tree.svg"
   },
   {
     "Name": "Cannon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8d/Cannon_2.svg/revision/latest?cb=20210828145356"
+    "ImageURL": "/images/Cannon.svg"
   },
   {
     "Name": "Car",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/08/Car_2.svg/revision/latest?cb=20210827122001"
+    "ImageURL": "/images/Car.svg"
   },
   {
     "Name": "Cauldron",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c3/Cauldron_2.svg/revision/latest?cb=20210904141713"
+    "ImageURL": "/images/Cauldron.svg"
   },
   {
     "Name": "Caviar",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/72/Caviar_2.svg/revision/latest?cb=20210829004256"
+    "ImageURL": "/images/Caviar.svg"
   },
   {
     "Name": "Chicken coop",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6e/Chicken_coop_2.svg/revision/latest?cb=20210829004309"
+    "ImageURL": "/images/Chicken_coop.svg"
   },
   {
     "Name": "Chicken soup",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/74/Chicken_soup_2.svg/revision/latest?cb=20210829004310"
+    "ImageURL": "/images/Chicken_soup.svg"
   },
   {
     "Name": "Chicken wing",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c5/Chicken_wing_2.svg/revision/latest?cb=20210828134751"
+    "ImageURL": "/images/Chicken_wing.svg"
   },
   {
     "Name": "Christmas tree",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/ba/Christmas_tree_2.svg/revision/latest?cb=20210828145410"
+    "ImageURL": "/images/Christmas_tree.svg"
   },
   {
     "Name": "Coconut",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2f/Coconut_2.svg/revision/latest?cb=20210829101327"
+    "ImageURL": "/images/Coconut.svg"
   },
   {
     "Name": "Combustion engine",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0f/Combustion_engine_2.svg/revision/latest?cb=20210828145411"
+    "ImageURL": "/images/Combustion_engine.svg"
   },
   {
     "Name": "Computer mouse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8d/Computer_mouse_2.svg/revision/latest?cb=20210829101347"
+    "ImageURL": "/images/Computer_mouse.svg"
   },
   {
     "Name": "Container",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3e/Container_2.svg/revision/latest?cb=20210827122007"
+    "ImageURL": "/images/Container.svg"
   },
   {
     "Name": "Cook",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/16/Cook_2.svg/revision/latest?cb=20210827132924"
+    "ImageURL": "/images/Cook.svg"
   },
   {
     "Name": "Coral",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/58/Coral_2.svg/revision/latest?cb=20210829104327"
+    "ImageURL": "/images/Coral.svg"
   },
   {
     "Name": "Cyclist",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8b/Cyclist_2.svg/revision/latest?cb=20210829125311"
+    "ImageURL": "/images/Cyclist.svg"
   },
   {
     "Name": "Diamond",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/ab/Diamond_2.svg/revision/latest?cb=20210829125314"
+    "ImageURL": "/images/Diamond.svg"
   },
   {
     "Name": "Doctor",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/77/Doctor_2.svg/revision/latest?cb=20210827130146"
+    "ImageURL": "/images/Doctor.svg"
   },
   {
     "Name": "Doge",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/34/Doge_2.svg/revision/latest?cb=20210829125317"
+    "ImageURL": "/images/Doge.svg"
   },
   {
     "Name": "Doghouse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cf/Doghouse_2.svg/revision/latest?cb=20210829125318"
+    "ImageURL": "/images/Doghouse.svg"
   },
   {
     "Name": "Drone",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b1/Drone_2.svg/revision/latest?cb=20210829125322"
+    "ImageURL": "/images/Drone.svg"
   },
   {
     "Name": "Dry ice",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8b/Dry_ice_2.svg/revision/latest?cb=20210829125326"
+    "ImageURL": "/images/Dry_ice.svg"
   },
   {
     "Name": "Duckling",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/74/Duckling_2.svg/revision/latest?cb=20210829125327"
+    "ImageURL": "/images/Duckling.svg"
   },
   {
     "Name": "Engineer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/67/Engineer_2.svg/revision/latest?cb=20210829104342"
+    "ImageURL": "/images/Engineer.svg"
   },
   {
     "Name": "Fairy tale",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/63/Fairy_tale_2.svg/revision/latest?cb=20210828111130"
+    "ImageURL": "/images/Fairy_tale.svg"
   },
   {
     "Name": "Faun",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cf/Faun_2.svg/revision/latest?cb=20210830145934"
+    "ImageURL": "/images/Faun.svg"
   },
   {
     "Name": "Fire extinguisher",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d9/Fire_extinguisher_2.svg/revision/latest?cb=20210830145936"
+    "ImageURL": "/images/Fire_extinguisher.svg"
   },
   {
     "Name": "Forest",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/ab/Forest_2.svg/revision/latest?cb=20210827132936"
+    "ImageURL": "/images/Forest.svg"
   },
   {
     "Name": "Fox",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/ec/Fox_2.svg/revision/latest?cb=20210828145416"
+    "ImageURL": "/images/Fox.svg"
   },
   {
     "Name": "Fruit",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bc/Fruit_2.svg/revision/latest?cb=20210827124156"
+    "ImageURL": "/images/Fruit.svg"
   },
   {
     "Name": "Gardener",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2e/Gardener_2.svg/revision/latest?cb=20210831023003"
+    "ImageURL": "/images/Gardener.svg"
   },
   {
     "Name": "Gnome",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9e/Gnome_2.svg/revision/latest?cb=20210831023007"
+    "ImageURL": "/images/Gnome.svg"
   },
   {
     "Name": "Golem",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/41/Golem_2.svg/revision/latest?cb=20210831023008"
+    "ImageURL": "/images/Golem.svg"
   },
   {
     "Name": "Hail",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/74/Hail_2.svg/revision/latest?cb=20210831120856"
+    "ImageURL": "/images/Hail.svg"
   },
   {
     "Name": "Harp",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/10/Harp_2.svg/revision/latest?cb=20210831120858"
+    "ImageURL": "/images/Harp.svg"
   },
   {
     "Name": "Hay",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f2/Hay_2.svg/revision/latest?cb=20210827231118"
+    "ImageURL": "/images/Hay.svg"
   },
   {
     "Name": "Helicopter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/88/Helicopter_2.svg/revision/latest?cb=20210829125333"
+    "ImageURL": "/images/Helicopter.svg"
   },
   {
     "Name": "Husky",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c2/Husky_2.svg/revision/latest?cb=20210829125335"
+    "ImageURL": "/images/Husky.svg"
   },
   {
     "Name": "Internet",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/74/Internet_2.svg/revision/latest?cb=20210829125337"
+    "ImageURL": "/images/Internet.svg"
   },
   {
     "Name": "Jack-o'-lantern",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/30/Jack-o%27-lantern_2.svg/revision/latest?cb=20210831153623"
+    "ImageURL": "/images/Jack-o'-lantern.svg"
   },
   {
     "Name": "Juice",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9a/Juice_2.svg/revision/latest?cb=20210827124205"
+    "ImageURL": "/images/Juice.svg"
   },
   {
     "Name": "Kaiju",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/04/Kaiju_2.svg/revision/latest?cb=20210831154317"
+    "ImageURL": "/images/Kaiju.svg"
   },
   {
     "Name": "Lasso",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/70/Lasso_2.svg/revision/latest?cb=20210901125743"
+    "ImageURL": "/images/Lasso.svg"
   },
   {
     "Name": "Lawn",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8e/Lawn_2.svg/revision/latest?cb=20210831023017"
+    "ImageURL": "/images/Lawn.svg"
   },
   {
     "Name": "Lawn mower",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c2/Lawn_mower_2.svg/revision/latest?cb=20210901125745"
+    "ImageURL": "/images/Lawn_mower.svg"
   },
   {
     "Name": "Leaf",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4f/Leaf_2.svg/revision/latest?cb=20210831120905"
+    "ImageURL": "/images/Leaf.svg"
   },
   {
     "Name": "Legend",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a9/Legend_2.svg/revision/latest?cb=20210828111133"
+    "ImageURL": "/images/Legend.svg"
   },
   {
     "Name": "Lumberjack",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7d/Lumberjack_2.svg/revision/latest?cb=20210827231128"
+    "ImageURL": "/images/Lumberjack.svg"
   },
   {
     "Name": "Manatee",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/76/Manatee_2.svg/revision/latest?cb=20210901142425"
+    "ImageURL": "/images/Manatee.svg"
   },
   {
     "Name": "Milk",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b3/Milk_2.svg/revision/latest?cb=20210827232415"
+    "ImageURL": "/images/Milk.svg"
   },
   {
     "Name": "Minotaur",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7e/Minotaur_2.svg/revision/latest?cb=20210901142435"
+    "ImageURL": "/images/Minotaur.svg"
   },
   {
     "Name": "Mold",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a2/Mold_2.svg/revision/latest?cb=20210901142436"
+    "ImageURL": "/images/Mold.svg"
   },
   {
     "Name": "Monkey",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/96/Monkey_2.svg/revision/latest?cb=20210827231216"
+    "ImageURL": "/images/Monkey.svg"
   },
   {
     "Name": "Mountain goat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/60/Mountain_goat_2.svg/revision/latest?cb=20210827130157"
+    "ImageURL": "/images/Mountain_goat.svg"
   },
   {
     "Name": "Narwhal",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/dd/Narwhal_2.svg/revision/latest?cb=20210902102211"
+    "ImageURL": "/images/Narwhal.svg"
   },
   {
     "Name": "Nessie",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/56/Nessie_2.svg/revision/latest?cb=20210902102212"
+    "ImageURL": "/images/Nessie.svg"
   },
   {
     "Name": "Net",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f5/Net_2.svg/revision/latest?cb=20210828134756"
+    "ImageURL": "/images/Net.svg"
   },
   {
     "Name": "Nuts",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5c/Nuts_2.svg/revision/latest?cb=20210829101420"
+    "ImageURL": "/images/Nuts.svg"
   },
   {
     "Name": "Oil",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/43/Oil_2.svg/revision/latest?cb=20210828111140"
+    "ImageURL": "/images/Oil.svg"
   },
   {
     "Name": "Ore",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c5/Ore_2.svg/revision/latest?cb=20210827232418"
+    "ImageURL": "/images/Ore.svg"
   },
   {
     "Name": "Paleontologist",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d2/Paleontologist_2.svg/revision/latest?cb=20210902171452"
+    "ImageURL": "/images/Paleontologist.svg"
   },
   {
     "Name": "Palm",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5a/Palm_2.svg/revision/latest?cb=20210829101423"
+    "ImageURL": "/images/Palm.svg"
   },
   {
     "Name": "Parachute",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b4/Parachute_2.svg/revision/latest?cb=20210902171454"
+    "ImageURL": "/images/Parachute.svg"
   },
   {
     "Name": "Parrot",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/88/Parrot_2.svg/revision/latest?cb=20210830114620"
+    "ImageURL": "/images/Parrot.svg"
   },
   {
     "Name": "Peat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9f/Peat_2.svg/revision/latest?cb=20210829101426"
+    "ImageURL": "/images/Peat.svg"
   },
   {
     "Name": "Perfume",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/11/Perfume_2.svg/revision/latest?cb=20210828111144"
+    "ImageURL": "/images/Perfume.svg"
   },
   {
     "Name": "Petroleum",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/de/Petroleum_2.svg/revision/latest?cb=20210829101427"
+    "ImageURL": "/images/Petroleum.svg"
   },
   {
     "Name": "Pilot",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4d/Pilot_2.svg/revision/latest?cb=20210827122023"
+    "ImageURL": "/images/Pilot.svg"
   },
   {
     "Name": "Pipe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/32/Pipe_2.svg/revision/latest?cb=20210829125342"
+    "ImageURL": "/images/Pipe.svg"
   },
   {
     "Name": "Pirate ship",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3d/Pirate_ship_2.svg/revision/latest?cb=20210828145430"
+    "ImageURL": "/images/Pirate_ship.svg"
   },
   {
     "Name": "Polar bear",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8e/Polar_bear_2.svg/revision/latest?cb=20210902171509"
+    "ImageURL": "/images/Polar_bear.svg"
   },
   {
     "Name": "Potato",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/25/Potato_2.svg/revision/latest?cb=20210830145958"
+    "ImageURL": "/images/Potato.svg"
   },
   {
     "Name": "Pterodactyl",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/df/Pterodactyl_2.svg/revision/latest?cb=20210828104220"
+    "ImageURL": "/images/Pterodactyl.svg"
   },
   {
     "Name": "Pumpkin",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/52/Pumpkin_2.svg/revision/latest?cb=20210831153628"
+    "ImageURL": "/images/Pumpkin.svg"
   },
   {
     "Name": "Quicksilver",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4d/Quicksilver_2.svg/revision/latest?cb=20210831023020"
+    "ImageURL": "/images/Quicksilver.svg"
   },
   {
     "Name": "Rabbit",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c1/Rabbit_2.svg/revision/latest?cb=20210903114739"
+    "ImageURL": "/images/Rabbit.svg"
   },
   {
     "Name": "Rivulet",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2c/Rivulet_2.svg/revision/latest?cb=20210903114744"
+    "ImageURL": "/images/Rivulet.svg"
   },
   {
     "Name": "Sand castle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b0/Sand_castle_2.svg/revision/latest?cb=20210904163223"
+    "ImageURL": "/images/Sand_castle.svg"
   },
   {
     "Name": "Sap",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7b/Sap_2.svg/revision/latest?cb=20210901142447"
+    "ImageURL": "/images/Sap.svg"
   },
   {
     "Name": "Saturn",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b5/Saturn_2.svg/revision/latest?cb=20210827124217"
+    "ImageURL": "/images/Saturn.svg"
   },
   {
     "Name": "Scalpel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f7/Scalpel_2.svg/revision/latest?cb=20210903150043"
+    "ImageURL": "/images/Scalpel.svg"
   },
   {
     "Name": "Scythe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f1/Scythe_2.svg/revision/latest?cb=20210831023022"
+    "ImageURL": "/images/Scythe.svg"
   },
   {
     "Name": "Seal",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2a/Seal_2.svg/revision/latest?cb=20210903150046"
+    "ImageURL": "/images/Seal.svg"
   },
   {
     "Name": "Seaplane",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/60/Seaplane_2.svg/revision/latest?cb=20210829125347"
+    "ImageURL": "/images/Seaplane.svg"
   },
   {
     "Name": "Seed",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d9/Seed_2.svg/revision/latest?cb=20210829010135"
+    "ImageURL": "/images/Seed.svg"
   },
   {
     "Name": "Skateboard",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e8/Skateboard_2.svg/revision/latest?cb=20210903161937"
+    "ImageURL": "/images/Skateboard.svg"
   },
   {
     "Name": "Small",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d0/Small_2.svg/revision/latest?cb=20210827132949"
+    "ImageURL": "/images/Small.svg"
   },
   {
     "Name": "Snowboarder",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/ad/Snowboarder_2.svg/revision/latest?cb=20210909182847"
+    "ImageURL": "/images/Snowboarder.svg"
   },
   {
     "Name": "Soda",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/44/Soda_2.svg/revision/latest?cb=20210828111150"
+    "ImageURL": "/images/Soda.svg"
   },
   {
     "Name": "Sphinx",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4d/Sphinx_2.svg/revision/latest?cb=20210904021058"
+    "ImageURL": "/images/Sphinx.svg"
   },
   {
     "Name": "Statue",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1a/Statue_2.svg/revision/latest?cb=20210830145959"
+    "ImageURL": "/images/Statue.svg"
   },
   {
     "Name": "Steam engine",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/92/Steam_engine_2.svg/revision/latest?cb=20210827122043"
+    "ImageURL": "/images/Steam_engine.svg"
   },
   {
     "Name": "Steel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1a/Steel_2.svg/revision/latest?cb=20210827122046"
+    "ImageURL": "/images/Steel.svg"
   },
   {
     "Name": "Stream",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c2/Stream_2.svg/revision/latest?cb=20210828104232"
+    "ImageURL": "/images/Stream.svg"
   },
   {
     "Name": "Sushi",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/78/Sushi_2.svg/revision/latest?cb=20210904021105"
+    "ImageURL": "/images/Sushi.svg"
   },
   {
     "Name": "Swamp",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1e/Swamp_2.svg/revision/latest?cb=20210827130204"
+    "ImageURL": "/images/Swamp.svg"
   },
   {
     "Name": "The one ring",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/ff/The_one_ring_2.svg/revision/latest?cb=20210904120728"
+    "ImageURL": "/images/The_one_ring.svg"
   },
   {
     "Name": "Thread",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c2/Thread_2.svg/revision/latest?cb=20210828145439"
+    "ImageURL": "/images/Thread.svg"
   },
   {
     "Name": "Treehouse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e4/Treehouse_2.svg/revision/latest?cb=20210904120734"
+    "ImageURL": "/images/Treehouse.svg"
   },
   {
     "Name": "Trojan horse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/78/Trojan_horse_2.svg/revision/latest?cb=20210904120735"
+    "ImageURL": "/images/Trojan_horse.svg"
   },
   {
     "Name": "Tunnel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d7/Tunnel_2.svg/revision/latest?cb=20210904120736"
+    "ImageURL": "/images/Tunnel.svg"
   },
   {
     "Name": "Tyrannosaurus rex",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a8/Tyrannosaurus_rex_2.svg/revision/latest?cb=20210830114630"
+    "ImageURL": "/images/Tyrannosaurus_rex.svg"
   },
   {
     "Name": "Vase",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/64/Vase_2.svg/revision/latest?cb=20210904120739"
+    "ImageURL": "/images/Vase.svg"
   },
   {
     "Name": "Water lily",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4c/Water_lily_2.svg/revision/latest?cb=20210904141720"
+    "ImageURL": "/images/Water_lily.svg"
   },
   {
     "Name": "Wheat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/43/Wheat_2.svg/revision/latest?cb=20210827124230"
+    "ImageURL": "/images/Wheat.svg"
   },
   {
     "Name": "Wood",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e8/Wood_2.svg/revision/latest?cb=20210827224752"
+    "ImageURL": "/images/Wood.svg"
   },
   {
     "Name": "Woodpecker",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c2/Woodpecker_2.svg/revision/latest?cb=20210830114633"
+    "ImageURL": "/images/Woodpecker.svg"
   },
   {
     "Name": "Wool",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/77/Wool_2.svg/revision/latest?cb=20210828145445"
+    "ImageURL": "/images/Wool.svg"
   },
   {
     "Name": "Yeti",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a7/Yeti_2.svg/revision/latest?cb=20210904141726"
+    "ImageURL": "/images/Yeti.svg"
   },
   {
     "Name": "Zoo",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e9/Zoo_2.svg/revision/latest?cb=20210904141728"
+    "ImageURL": "/images/Zoo.svg"
   },
   {
     "Name": "Alcohol",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c1/Alcohol_2.svg/revision/latest?cb=20210827124148"
+    "ImageURL": "/images/Alcohol.svg"
   },
   {
     "Name": "Ambulance",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f5/Ambulance_2.svg/revision/latest?cb=20210827130140"
+    "ImageURL": "/images/Ambulance.svg"
   },
   {
     "Name": "Ant farm",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c1/Ant_farm_2.svg/revision/latest?cb=20210827132912"
+    "ImageURL": "/images/Ant_farm.svg"
   },
   {
     "Name": "Anthill",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/26/Anthill_2.svg/revision/latest?cb=20210827132915"
+    "ImageURL": "/images/Anthill.svg"
   },
   {
     "Name": "Arrow",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5c/Arrow_2.svg/revision/latest?cb=20210827224659"
+    "ImageURL": "/images/Arrow.svg"
   },
   {
     "Name": "Aviary",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/55/Aviary_2.svg/revision/latest?cb=20210909182831"
+    "ImageURL": "/images/Aviary.svg"
   },
   {
     "Name": "Axe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/61/Axe_2.svg/revision/latest?cb=20210827231029"
+    "ImageURL": "/images/Axe.svg"
   },
   {
     "Name": "Banana",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/98/Banana_2.svg/revision/latest?cb=20210827231037"
+    "ImageURL": "/images/Banana.svg"
   },
   {
     "Name": "Beehive",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0a/Beehive_2.svg/revision/latest?cb=20210828104055"
+    "ImageURL": "/images/Beehive.svg"
   },
   {
     "Name": "Beekeeper",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3c/Beekeeper_2.svg/revision/latest?cb=20210828104057"
+    "ImageURL": "/images/Beekeeper.svg"
   },
   {
     "Name": "Blood bag",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1c/Blood_bag_2.svg/revision/latest?cb=20210828104157"
+    "ImageURL": "/images/Blood_bag.svg"
   },
   {
     "Name": "Boat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5c/Boat_2.svg/revision/latest?cb=20210827122000"
+    "ImageURL": "/images/Boat.svg"
   },
   {
     "Name": "Book",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/09/Book_2.svg/revision/latest?cb=20210828111111"
+    "ImageURL": "/images/Book.svg"
   },
   {
     "Name": "Bottle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9d/Bottle_2.svg/revision/latest?cb=20210828104201"
+    "ImageURL": "/images/Bottle.svg"
   },
   {
     "Name": "Boulder",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6a/Boulder_2.svg/revision/latest?cb=20210828111112"
+    "ImageURL": "/images/Boulder.svg"
   },
   {
     "Name": "Bow",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9c/Bow_2.svg/revision/latest?cb=20210827224710"
+    "ImageURL": "/images/Bow.svg"
   },
   {
     "Name": "Broom",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c9/Broom_2.svg/revision/latest?cb=20210829010121"
+    "ImageURL": "/images/Broom.svg"
   },
   {
     "Name": "Bucket",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5b/Bucket_2.svg/revision/latest?cb=20210828134740"
+    "ImageURL": "/images/Bucket.svg"
   },
   {
     "Name": "Bus",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7d/Bus_2.svg/revision/latest?cb=20210828134743"
+    "ImageURL": "/images/Bus.svg"
   },
   {
     "Name": "Butter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/96/Butter_2.svg/revision/latest?cb=20210828134747"
+    "ImageURL": "/images/Butter.svg"
   },
   {
     "Name": "Butterfly net",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/95/Butterfly_net_2.svg/revision/latest?cb=20210828134750"
+    "ImageURL": "/images/Butterfly_net.svg"
   },
   {
     "Name": "Campfire",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cf/Campfire_2.svg/revision/latest?cb=20210827224713"
+    "ImageURL": "/images/Campfire.svg"
   },
   {
     "Name": "Cart",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/be/Cart_2.svg/revision/latest?cb=20210828145403"
+    "ImageURL": "/images/Cart.svg"
   },
   {
     "Name": "Cashmere",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/ab/Cashmere_2.svg/revision/latest?cb=20210828145405"
+    "ImageURL": "/images/Cashmere.svg"
   },
   {
     "Name": "Cereal",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/ab/Cereal_2.svg/revision/latest?cb=20210828111118"
+    "ImageURL": "/images/Cereal.svg"
   },
   {
     "Name": "Chainsaw",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/05/Chainsaw_2.svg/revision/latest?cb=20210829004259"
+    "ImageURL": "/images/Chainsaw.svg"
   },
   {
     "Name": "Cheese",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/55/Cheese_2.svg/revision/latest?cb=20210829004304"
+    "ImageURL": "/images/Cheese.svg"
   },
   {
     "Name": "Christmas stocking",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a4/Christmas_stocking_2.svg/revision/latest?cb=20210828145408"
+    "ImageURL": "/images/Christmas_stocking.svg"
   },
   {
     "Name": "Closet",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c7/Closet_2.svg/revision/latest?cb=20210829010126"
+    "ImageURL": "/images/Closet.svg"
   },
   {
     "Name": "Coconut milk",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4f/Coconut_milk_2.svg/revision/latest?cb=20210827232409"
+    "ImageURL": "/images/Coconut_milk.svg"
   },
   {
     "Name": "Coffin",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/ba/Coffin_2.svg/revision/latest?cb=20210829101339"
+    "ImageURL": "/images/Coffin.svg"
   },
   {
     "Name": "Cutting board",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/97/Cutting_board_2.svg/revision/latest?cb=20210829104335"
+    "ImageURL": "/images/Cutting_board.svg"
   },
   {
     "Name": "Drum",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/82/Drum_2.svg/revision/latest?cb=20210829125323"
+    "ImageURL": "/images/Drum.svg"
   },
   {
     "Name": "Electric car",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/df/Electric_car_2.svg/revision/latest?cb=20210830114611"
+    "ImageURL": "/images/Electric_car.svg"
   },
   {
     "Name": "Fabric",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c4/Fabric_2.svg/revision/latest?cb=20210827132930"
+    "ImageURL": "/images/Fabric.svg"
   },
   {
     "Name": "Fireplace",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/51/Fireplace_2.svg/revision/latest?cb=20210829004317"
+    "ImageURL": "/images/Fireplace.svg"
   },
   {
     "Name": "Firetruck",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d7/Firetruck_2.svg/revision/latest?cb=20210830145938"
+    "ImageURL": "/images/Firetruck.svg"
   },
   {
     "Name": "Flour",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/68/Flour_2.svg/revision/latest?cb=20210827232410"
+    "ImageURL": "/images/Flour.svg"
   },
   {
     "Name": "Flute",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1c/Flute_2.svg/revision/latest?cb=20210830145942"
+    "ImageURL": "/images/Flute.svg"
   },
   {
     "Name": "Fountain",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/43/Fountain_2.svg/revision/latest?cb=20210830145944"
+    "ImageURL": "/images/Fountain.svg"
   },
   {
     "Name": "French fries",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/18/French_fries_2.svg/revision/latest?cb=20210830145946"
+    "ImageURL": "/images/French_fries.svg"
   },
   {
     "Name": "Fruit tree",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e8/Fruit_tree_2.svg/revision/latest?cb=20210830145950"
+    "ImageURL": "/images/Fruit_tree.svg"
   },
   {
     "Name": "Garage",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4d/Garage_2.svg/revision/latest?cb=20210904120725"
+    "ImageURL": "/images/Garage.svg"
   },
   {
     "Name": "Grim reaper",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d8/Grim_reaper_2.svg/revision/latest?cb=20210829104347"
+    "ImageURL": "/images/Grim_reaper.svg"
   },
   {
     "Name": "Gust",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c6/Gust_2.svg/revision/latest?cb=20210831023015"
+    "ImageURL": "/images/Gust.svg"
   },
   {
     "Name": "Hay bale",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a1/Hay_bale_2.svg/revision/latest?cb=20210827231121"
+    "ImageURL": "/images/Hay_bale.svg"
   },
   {
     "Name": "Hill",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cf/Hill_2.svg/revision/latest?cb=20210827132939"
+    "ImageURL": "/images/Hill.svg"
   },
   {
     "Name": "Honey",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a6/Honey_2.svg/revision/latest?cb=20210831120901"
+    "ImageURL": "/images/Honey.svg"
   },
   {
     "Name": "Ice cream",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/65/Ice_cream_2.svg/revision/latest?cb=20210830145952"
+    "ImageURL": "/images/Ice_cream.svg"
   },
   {
     "Name": "Ice sculpture",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/78/Ice_sculpture_2.svg/revision/latest?cb=20210831153617"
+    "ImageURL": "/images/Ice_sculpture.svg"
   },
   {
     "Name": "Jam",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/05/Jam_2.svg/revision/latest?cb=20210831153624"
+    "ImageURL": "/images/Jam.svg"
   },
   {
     "Name": "Knife",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7d/Knife_2.svg/revision/latest?cb=20210831154321"
+    "ImageURL": "/images/Knife.svg"
   },
   {
     "Name": "Laptop",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fa/Laptop_2.svg/revision/latest?cb=20210909182841"
+    "ImageURL": "/images/Laptop.svg"
   },
   {
     "Name": "Little alchemy (element)",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4a/Little_alchemy_%28element%29_2.svg/revision/latest?cb=20210901125749"
+    "ImageURL": "/images/Little_alchemy_(element).svg"
   },
   {
     "Name": "Log cabin",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e4/Log_cabin_2.svg/revision/latest?cb=20210901125750"
+    "ImageURL": "/images/Log_cabin.svg"
   },
   {
     "Name": "Maple syrup",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/46/Maple_syrup_2.svg/revision/latest?cb=20210901142427"
+    "ImageURL": "/images/Maple_syrup.svg"
   },
   {
     "Name": "Mayonnaise",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8e/Mayonnaise_2.svg/revision/latest?cb=20210901142429"
+    "ImageURL": "/images/Mayonnaise.svg"
   },
   {
     "Name": "Moon rover",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7f/Moon_rover_2.svg/revision/latest?cb=20210827224732"
+    "ImageURL": "/images/Moon_rover.svg"
   },
   {
     "Name": "Motorcycle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5c/Motorcycle_2.svg/revision/latest?cb=20210828145425"
+    "ImageURL": "/images/Motorcycle.svg"
   },
   {
     "Name": "Needle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/70/Needle_2.svg/revision/latest?cb=20210831120907"
+    "ImageURL": "/images/Needle.svg"
   },
   {
     "Name": "Paper",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5b/Paper_2.svg/revision/latest?cb=20210827224735"
+    "ImageURL": "/images/Paper.svg"
   },
   {
     "Name": "Peanut butter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/12/Peanut_butter_2.svg/revision/latest?cb=20210902171457"
+    "ImageURL": "/images/Peanut_butter.svg"
   },
   {
     "Name": "Pebble",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1a/Pebble_2.svg/revision/latest?cb=20210902171458"
+    "ImageURL": "/images/Pebble.svg"
   },
   {
     "Name": "Pencil",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e1/Pencil_2.svg/revision/latest?cb=20210828111142"
+    "ImageURL": "/images/Pencil.svg"
   },
   {
     "Name": "Penicillin",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/12/Penicillin_2.svg/revision/latest?cb=20210902171501"
+    "ImageURL": "/images/Penicillin.svg"
   },
   {
     "Name": "Pinocchio",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4c/Pinocchio_2.svg/revision/latest?cb=20210902171504"
+    "ImageURL": "/images/Pinocchio.svg"
   },
   {
     "Name": "Pitchfork",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f3/Pitchfork_2.svg/revision/latest?cb=20210830145956"
+    "ImageURL": "/images/Pitchfork.svg"
   },
   {
     "Name": "Popsicle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4f/Popsicle_2.svg/revision/latest?cb=20210902171510"
+    "ImageURL": "/images/Popsicle.svg"
   },
   {
     "Name": "Quicksand",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3b/Quicksand_2.svg/revision/latest?cb=20210903114738"
+    "ImageURL": "/images/Quicksand.svg"
   },
   {
     "Name": "Rainforest",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2b/Rainforest_2.svg/revision/latest?cb=20210903114741"
+    "ImageURL": "/images/Rainforest.svg"
   },
   {
     "Name": "Rat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8f/Rat_2.svg/revision/latest?cb=20210831120908"
+    "ImageURL": "/images/Rat.svg"
   },
   {
     "Name": "Reindeer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e8/Reindeer_2.svg/revision/latest?cb=20210828145432"
+    "ImageURL": "/images/Reindeer.svg"
   },
   {
     "Name": "Restaurant",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e2/Restaurant_2.svg/revision/latest?cb=20210909182843"
+    "ImageURL": "/images/Restaurant.svg"
   },
   {
     "Name": "Roller coaster",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c8/Roller_coaster_2.svg/revision/latest?cb=20210903114745"
+    "ImageURL": "/images/Roller_coaster.svg"
   },
   {
     "Name": "Rv",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3b/Rv_2.svg/revision/latest?cb=20210831023021"
+    "ImageURL": "/images/Rv.svg"
   },
   {
     "Name": "Sack",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4d/Sack_2.svg/revision/latest?cb=20210828104223"
+    "ImageURL": "/images/Sack.svg"
   },
   {
     "Name": "Santa",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/86/Santa_2.svg/revision/latest?cb=20210828145435"
+    "ImageURL": "/images/Santa.svg"
   },
   {
     "Name": "Scarecrow",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/90/Scarecrow_2.svg/revision/latest?cb=20210903150044"
+    "ImageURL": "/images/Scarecrow.svg"
   },
   {
     "Name": "Scuba tank",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c1/Scuba_tank_2.svg/revision/latest?cb=20210829125346"
+    "ImageURL": "/images/Scuba_tank.svg"
   },
   {
     "Name": "Sewing machine",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/32/Sewing_machine_2.svg/revision/latest?cb=20210903150049"
+    "ImageURL": "/images/Sewing_machine.svg"
   },
   {
     "Name": "Shovel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/23/Shovel_2.svg/revision/latest?cb=20210903161936"
+    "ImageURL": "/images/Shovel.svg"
   },
   {
     "Name": "Silo",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/aa/Silo_2.svg/revision/latest?cb=20210903161936"
+    "ImageURL": "/images/Silo.svg"
   },
   {
     "Name": "Smoothie",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/43/Smoothie_2.svg/revision/latest?cb=20210829104400"
+    "ImageURL": "/images/Smoothie.svg"
   },
   {
     "Name": "Snowmobile",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/30/Snowmobile_2.svg/revision/latest?cb=20210831023024"
+    "ImageURL": "/images/Snowmobile.svg"
   },
   {
     "Name": "Soap",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/93/Soap_2.svg/revision/latest?cb=20210904021055"
+    "ImageURL": "/images/Soap.svg"
   },
   {
     "Name": "Spider",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/dc/Spider_2.svg/revision/latest?cb=20210827132956"
+    "ImageURL": "/images/Spider.svg"
   },
   {
     "Name": "Squirrel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cc/Squirrel_2.svg/revision/latest?cb=20210904021100"
+    "ImageURL": "/images/Squirrel.svg"
   },
   {
     "Name": "Steamboat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a6/Steamboat_2.svg/revision/latest?cb=20210827122045"
+    "ImageURL": "/images/Steamboat.svg"
   },
   {
     "Name": "Steel wool",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/82/Steel_wool_2.svg/revision/latest?cb=20210904021102"
+    "ImageURL": "/images/Steel_wool.svg"
   },
   {
     "Name": "Sugar",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/aa/Sugar_2.svg/revision/latest?cb=20210828145438"
+    "ImageURL": "/images/Sugar.svg"
   },
   {
     "Name": "Sweater",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/dc/Sweater_2.svg/revision/latest?cb=20210904021106"
+    "ImageURL": "/images/Sweater.svg"
   },
   {
     "Name": "Tailor",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b5/Tailor_2.svg/revision/latest?cb=20210909182850"
+    "ImageURL": "/images/Tailor.svg"
   },
   {
     "Name": "Tank",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/55/Tank_2.svg/revision/latest?cb=20210904120726"
+    "ImageURL": "/images/Tank.svg"
   },
   {
     "Name": "Tea",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e7/Tea_2.svg/revision/latest?cb=20210829104403"
+    "ImageURL": "/images/Tea.svg"
   },
   {
     "Name": "Thermometer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/82/Thermometer_2.svg/revision/latest?cb=20210829101430"
+    "ImageURL": "/images/Thermometer.svg"
   },
   {
     "Name": "Titanic",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/14/Titanic_2.svg/revision/latest?cb=20210904120729"
+    "ImageURL": "/images/Titanic.svg"
   },
   {
     "Name": "Tractor",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cc/Tractor_2.svg/revision/latest?cb=20210830150001"
+    "ImageURL": "/images/Tractor.svg"
   },
   {
     "Name": "Train",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2c/Train_2.svg/revision/latest?cb=20210827122048"
+    "ImageURL": "/images/Train.svg"
   },
   {
     "Name": "Vault",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0d/Vault_2.svg/revision/latest?cb=20210827231237"
+    "ImageURL": "/images/Vault.svg"
   },
   {
     "Name": "Water pipe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8e/Water_pipe_2.svg/revision/latest?cb=20210904141722"
+    "ImageURL": "/images/Water_pipe.svg"
   },
   {
     "Name": "Witch",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/89/Witch_2.svg/revision/latest?cb=20210829004334"
+    "ImageURL": "/images/Witch.svg"
   },
   {
     "Name": "Yogurt",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cb/Yogurt_2.svg/revision/latest?cb=20210828134800"
+    "ImageURL": "/images/Yogurt.svg"
   },
   {
     "Name": "Apron",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e3/Apron_2.svg/revision/latest?cb=20210827132917"
+    "ImageURL": "/images/Apron.svg"
   },
   {
     "Name": "Armor",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/88/Armor_2.svg/revision/latest?cb=20210827224658"
+    "ImageURL": "/images/Armor.svg"
   },
   {
     "Name": "Bandage",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9d/Bandage_2.svg/revision/latest?cb=20210827231042"
+    "ImageURL": "/images/Bandage.svg"
   },
   {
     "Name": "Batter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f7/Batter_2.svg/revision/latest?cb=20210827231047"
+    "ImageURL": "/images/Batter.svg"
   },
   {
     "Name": "Bbq",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/06/Bbq_2.svg/revision/latest?cb=20210828104050"
+    "ImageURL": "/images/Bbq.svg"
   },
   {
     "Name": "Beer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/95/Beer_2.svg/revision/latest?cb=20210828104059"
+    "ImageURL": "/images/Beer.svg"
   },
   {
     "Name": "Box",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/65/Box_2.svg/revision/latest?cb=20210828111114"
+    "ImageURL": "/images/Box.svg"
   },
   {
     "Name": "Candy cane",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5d/Candy_cane_2.svg/revision/latest?cb=20210828145354"
+    "ImageURL": "/images/Candy_cane.svg"
   },
   {
     "Name": "Canvas",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f6/Canvas_2.svg/revision/latest?cb=20210828145357"
+    "ImageURL": "/images/Canvas.svg"
   },
   {
     "Name": "Caramel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/33/Caramel_2.svg/revision/latest?cb=20210828145359"
+    "ImageURL": "/images/Caramel.svg"
   },
   {
     "Name": "Chocolate",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c0/Chocolate_2.svg/revision/latest?cb=20210829010123"
+    "ImageURL": "/images/Chocolate.svg"
   },
   {
     "Name": "Cigarette",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d4/Cigarette_2.svg/revision/latest?cb=20210829010124"
+    "ImageURL": "/images/Cigarette.svg"
   },
   {
     "Name": "Confetti",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/23/Confetti_2.svg/revision/latest?cb=20210829101356"
+    "ImageURL": "/images/Confetti.svg"
   },
   {
     "Name": "Cookbook",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/43/Cookbook_2.svg/revision/latest?cb=20210829101402"
+    "ImageURL": "/images/Cookbook.svg"
   },
   {
     "Name": "Cotton candy",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/a2/Cotton_candy_2.svg/revision/latest?cb=20210829104330"
+    "ImageURL": "/images/Cotton_candy.svg"
   },
   {
     "Name": "Crayon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5d/Crayon_2.svg/revision/latest?cb=20210828111124"
+    "ImageURL": "/images/Crayon.svg"
   },
   {
     "Name": "Cup",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/04/Cup_2.svg/revision/latest?cb=20210829104333"
+    "ImageURL": "/images/Cup.svg"
   },
   {
     "Name": "Diver",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/64/Diver_2.svg/revision/latest?cb=20210829125316"
+    "ImageURL": "/images/Diver.svg"
   },
   {
     "Name": "Dough",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9c/Dough_2.svg/revision/latest?cb=20210827231102"
+    "ImageURL": "/images/Dough.svg"
   },
   {
     "Name": "Drunk",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/da/Drunk_2.svg/revision/latest?cb=20210829125325"
+    "ImageURL": "/images/Drunk.svg"
   },
   {
     "Name": "Excavator",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7e/Excavator_2.svg/revision/latest?cb=20210909182837"
+    "ImageURL": "/images/Excavator.svg"
   },
   {
     "Name": "Flying squirrel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/2f/Flying_squirrel_2.svg/revision/latest?cb=20210905142415"
+    "ImageURL": "/images/Flying_squirrel.svg"
   },
   {
     "Name": "Fork",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7f/Fork_2.svg/revision/latest?cb=20210909182839"
+    "ImageURL": "/images/Fork.svg"
   },
   {
     "Name": "Frozen yogurt",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bf/Frozen_yogurt_2.svg/revision/latest?cb=20210830145948"
+    "ImageURL": "/images/Frozen_yogurt.svg"
   },
   {
     "Name": "Gift",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c5/Gift_2.svg/revision/latest?cb=20210829010129"
+    "ImageURL": "/images/Gift.svg"
   },
   {
     "Name": "Hamburger",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8e/Hamburger_2.svg/revision/latest?cb=20210829004318"
+    "ImageURL": "/images/Hamburger.svg"
   },
   {
     "Name": "Hamster",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/25/Hamster_2.svg/revision/latest?cb=20210828145417"
+    "ImageURL": "/images/Hamster.svg"
   },
   {
     "Name": "Hedgehog",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9f/Hedgehog_2.svg/revision/latest?cb=20210831120900"
+    "ImageURL": "/images/Hedgehog.svg"
   },
   {
     "Name": "Ice cream truck",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/31/Ice_cream_truck_2.svg/revision/latest?cb=20210831023016"
+    "ImageURL": "/images/Ice_cream_truck.svg"
   },
   {
     "Name": "Iced tea",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/ae/Iced_tea_2.svg/revision/latest?cb=20210831153619"
+    "ImageURL": "/images/Iced_tea.svg"
   },
   {
     "Name": "Jar",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/da/Jar_2.svg/revision/latest?cb=20210827132943"
+    "ImageURL": "/images/Jar.svg"
   },
   {
     "Name": "Kite",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f5/Kite_2.svg/revision/latest?cb=20210831154319"
+    "ImageURL": "/images/Kite.svg"
   },
   {
     "Name": "Letter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b2/Letter_2.svg/revision/latest?cb=20210901125746"
+    "ImageURL": "/images/Letter.svg"
   },
   {
     "Name": "Library",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3b/Library_2.svg/revision/latest?cb=20210901125747"
+    "ImageURL": "/images/Library.svg"
   },
   {
     "Name": "Map",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d8/Map_2.svg/revision/latest?cb=20210901142426"
+    "ImageURL": "/images/Map.svg"
   },
   {
     "Name": "Marshmallows",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/07/Marshmallows_2.svg/revision/latest?cb=20210901142428"
+    "ImageURL": "/images/Marshmallows.svg"
   },
   {
     "Name": "Milk shake",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e0/Milk_shake_2.svg/revision/latest?cb=20210829104351"
+    "ImageURL": "/images/Milk_shake.svg"
   },
   {
     "Name": "Money",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b6/Money_2.svg/revision/latest?cb=20210827231130"
+    "ImageURL": "/images/Money.svg"
   },
   {
     "Name": "Mouse",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1b/Mouse_2.svg/revision/latest?cb=20210827232416"
+    "ImageURL": "/images/Mouse.svg"
   },
   {
     "Name": "Mousetrap",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cc/Mousetrap_2.svg/revision/latest?cb=20210901142440"
+    "ImageURL": "/images/Mousetrap.svg"
   },
   {
     "Name": "Musician",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/45/Musician_2.svg/revision/latest?cb=20210831120906"
+    "ImageURL": "/images/Musician.svg"
   },
   {
     "Name": "Newspaper",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/76/Newspaper_2.svg/revision/latest?cb=20210828111137"
+    "ImageURL": "/images/Newspaper.svg"
   },
   {
     "Name": "Orchard",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/1a/Orchard_2.svg/revision/latest?cb=20210830145955"
+    "ImageURL": "/images/Orchard.svg"
   },
   {
     "Name": "Origami",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f7/Origami_2.svg/revision/latest?cb=20210902102219"
+    "ImageURL": "/images/Origami.svg"
   },
   {
     "Name": "Pan flute",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/65/Pan_flute_2.svg/revision/latest?cb=20210901142442"
+    "ImageURL": "/images/Pan_flute.svg"
   },
   {
     "Name": "Paper airplane",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/be/Paper_airplane_2.svg/revision/latest?cb=20210829125341"
+    "ImageURL": "/images/Paper_airplane.svg"
   },
   {
     "Name": "Pasta",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/25/Pasta_2.svg/revision/latest?cb=20210901142443"
+    "ImageURL": "/images/Pasta.svg"
   },
   {
     "Name": "Pencil sharpener",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3d/Pencil_sharpener_2.svg/revision/latest?cb=20210902171500"
+    "ImageURL": "/images/Pencil_sharpener.svg"
   },
   {
     "Name": "Pizza",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/22/Pizza_2.svg/revision/latest?cb=20210827231224"
+    "ImageURL": "/images/Pizza.svg"
   },
   {
     "Name": "Printer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fe/Printer_2.svg/revision/latest?cb=20210902171512"
+    "ImageURL": "/images/Printer.svg"
   },
   {
     "Name": "Recipe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0a/Recipe_2.svg/revision/latest?cb=20210829101429"
+    "ImageURL": "/images/Recipe.svg"
   },
   {
     "Name": "Robot vacuum",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0d/Robot_vacuum_2.svg/revision/latest?cb=20210829010133"
+    "ImageURL": "/images/Robot_vacuum.svg"
   },
   {
     "Name": "Rock",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/5f/Rock_2.svg/revision/latest?cb=20210828104221"
+    "ImageURL": "/images/Rock.svg"
   },
   {
     "Name": "Ruler",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9b/Ruler_2.svg/revision/latest?cb=20210903114748"
+    "ImageURL": "/images/Ruler.svg"
   },
   {
     "Name": "Sailboat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b3/Sailboat_2.svg/revision/latest?cb=20210827122026"
+    "ImageURL": "/images/Sailboat.svg"
   },
   {
     "Name": "Sandpaper",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/76/Sandpaper_2.svg/revision/latest?cb=20210903150038"
+    "ImageURL": "/images/Sandpaper.svg"
   },
   {
     "Name": "Sleigh",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3a/Sleigh_2.svg/revision/latest?cb=20210831023023"
+    "ImageURL": "/images/Sleigh.svg"
   },
   {
     "Name": "Smoke signal",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/85/Smoke_signal_2.svg/revision/latest?cb=20210903161942"
+    "ImageURL": "/images/Smoke_signal.svg"
   },
   {
     "Name": "Spoon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/72/Spoon_2.svg/revision/latest?cb=20210909182848"
+    "ImageURL": "/images/Spoon.svg"
   },
   {
     "Name": "Sprinkles",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/96/Sprinkles_2.svg/revision/latest?cb=20210904021059"
+    "ImageURL": "/images/Sprinkles.svg"
   },
   {
     "Name": "Syringe",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/dc/Syringe_2.svg/revision/latest?cb=20210904021108"
+    "ImageURL": "/images/Syringe.svg"
   },
   {
     "Name": "Tablet",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e4/Tablet_2.svg/revision/latest?cb=20210909182849"
+    "ImageURL": "/images/Tablet.svg"
   },
   {
     "Name": "Tent",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f0/Tent_2.svg/revision/latest?cb=20210904120727"
+    "ImageURL": "/images/Tent.svg"
   },
   {
     "Name": "Trainyard",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fd/Trainyard_2.svg/revision/latest?cb=20210904120731"
+    "ImageURL": "/images/Trainyard.svg"
   },
   {
     "Name": "Vacuum cleaner",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b7/Vacuum_cleaner_2.svg/revision/latest?cb=20210829010142"
+    "ImageURL": "/images/Vacuum_cleaner.svg"
   },
   {
     "Name": "Vine",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9d/Vine_2.svg/revision/latest?cb=20210904120740"
+    "ImageURL": "/images/Vine.svg"
   },
   {
     "Name": "Wagon",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/97/Wagon_2.svg/revision/latest?cb=20210828145442"
+    "ImageURL": "/images/Wagon.svg"
   },
   {
     "Name": "Wax",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d9/Wax_2.svg/revision/latest?cb=20210828145444"
+    "ImageURL": "/images/Wax.svg"
   },
   {
     "Name": "Web",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/69/Web_2.svg/revision/latest?cb=20210831153634"
+    "ImageURL": "/images/Web.svg"
   },
   {
     "Name": "Wine",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/25/Wine_2.svg/revision/latest?cb=20210828111153"
+    "ImageURL": "/images/Wine.svg"
   },
   {
     "Name": "Wrapping paper",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/da/Wrapping_paper_2.svg/revision/latest?cb=20210831023027"
+    "ImageURL": "/images/Wrapping_paper.svg"
   },
   {
     "Name": "Writer",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/2/20/Writer_2.svg/revision/latest?cb=20210907093436"
+    "ImageURL": "/images/Writer.svg"
   },
   {
     "Name": "Armadillo",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/5/57/Armadillo_2.svg/revision/latest?cb=20210827224656"
+    "ImageURL": "/images/Armadillo.svg"
   },
   {
     "Name": "Baker",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f3/Baker_2.svg/revision/latest?cb=20210827132920"
+    "ImageURL": "/images/Baker.svg"
   },
   {
     "Name": "Banana bread",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/df/Banana_bread_2.svg/revision/latest?cb=20210827231040"
+    "ImageURL": "/images/Banana_bread.svg"
   },
   {
     "Name": "Barrel",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/35/Barrel_2.svg/revision/latest?cb=20210909182833"
+    "ImageURL": "/images/Barrel.svg"
   },
   {
     "Name": "Bat",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/43/Bat_2.svg/revision/latest?cb=20210827121957"
+    "ImageURL": "/images/Bat.svg"
   },
   {
     "Name": "Bread",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e2/Bread_2.svg/revision/latest?cb=20210827231054"
+    "ImageURL": "/images/Bread.svg"
   },
   {
     "Name": "Bulletproof vest",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/65/Bulletproof_vest_2.svg/revision/latest?cb=20210828134742"
+    "ImageURL": "/images/Bulletproof_vest.svg"
   },
   {
     "Name": "Candle",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/8f/Candle_2.svg/revision/latest?cb=20210828145353"
+    "ImageURL": "/images/Candle.svg"
   },
   {
     "Name": "Cheeseburger",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/bc/Cheeseburger_2.svg/revision/latest?cb=20210829004305"
+    "ImageURL": "/images/Cheeseburger.svg"
   },
   {
     "Name": "Chocolate milk",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/17/Chocolate_milk_2.svg/revision/latest?cb=20210828111120"
+    "ImageURL": "/images/Chocolate_milk.svg"
   },
   {
     "Name": "Circus",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/13/Circus_2.svg/revision/latest?cb=20210909182836"
+    "ImageURL": "/images/Circus.svg"
   },
   {
     "Name": "Cookie cutter",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/d/d5/Cookie_cutter_2.svg/revision/latest?cb=20210829101403"
+    "ImageURL": "/images/Cookie_cutter.svg"
   },
   {
     "Name": "Cookie dough",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6f/Cookie_dough_2.svg/revision/latest?cb=20210827231057"
+    "ImageURL": "/images/Cookie_dough.svg"
   },
   {
     "Name": "Donut",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e8/Donut_2.svg/revision/latest?cb=20210827231100"
+    "ImageURL": "/images/Donut.svg"
   },
   {
     "Name": "Email",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b0/Email_2.svg/revision/latest?cb=20210829101411"
+    "ImageURL": "/images/Email.svg"
   },
   {
     "Name": "Gingerbread house",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/ce/Gingerbread_house_2.svg/revision/latest?cb=20210831023005"
+    "ImageURL": "/images/Gingerbread_house.svg"
   },
   {
     "Name": "Gingerbread man",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f9/Gingerbread_man_2.svg/revision/latest?cb=20210830145951"
+    "ImageURL": "/images/Gingerbread_man.svg"
   },
   {
     "Name": "Hot chocolate",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/06/Hot_chocolate_2.svg/revision/latest?cb=20210831120903"
+    "ImageURL": "/images/Hot_chocolate.svg"
   },
   {
     "Name": "Librarian",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e5/Librarian_2.svg/revision/latest?cb=20210831153626"
+    "ImageURL": "/images/Librarian.svg"
   },
   {
     "Name": "Mac and cheese",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/8/83/Mac_and_cheese_2.svg/revision/latest?cb=20210901142422"
+    "ImageURL": "/images/Mac_and_cheese.svg"
   },
   {
     "Name": "Mail truck",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9f/Mail_truck_2.svg/revision/latest?cb=20210909182842"
+    "ImageURL": "/images/Mail_truck.svg"
   },
   {
     "Name": "Mailbox",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c0/Mailbox_2.svg/revision/latest?cb=20210901142423"
+    "ImageURL": "/images/Mailbox.svg"
   },
   {
     "Name": "Mailman",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/47/Mailman_2.svg/revision/latest?cb=20210901142424"
+    "ImageURL": "/images/Mailman.svg"
   },
   {
     "Name": "Music",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/eb/Music_2.svg/revision/latest?cb=20210829125340"
+    "ImageURL": "/images/Music.svg"
   },
   {
     "Name": "Painting",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/9b/Painting_2.svg/revision/latest?cb=20210902171451"
+    "ImageURL": "/images/Painting.svg"
   },
   {
     "Name": "Paper cup",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/69/Paper_cup_2.svg/revision/latest?cb=20210902171453"
+    "ImageURL": "/images/Paper_cup.svg"
   },
   {
     "Name": "Paraglider",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/f7/Paraglider_2.svg/revision/latest?cb=20210902171455"
+    "ImageURL": "/images/Paraglider.svg"
   },
   {
     "Name": "Pie",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/14/Pie_2.svg/revision/latest?cb=20210827231221"
+    "ImageURL": "/images/Pie.svg"
   },
   {
     "Name": "Post office",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/9/92/Post_office_2.svg/revision/latest?cb=20210829010132"
+    "ImageURL": "/images/Post_office.svg"
   },
   {
     "Name": "Smartphone",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/4f/Smartphone_2.svg/revision/latest?cb=20210909182846"
+    "ImageURL": "/images/Smartphone.svg"
   },
   {
     "Name": "Spaghetti",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/3/3f/Spaghetti_2.svg/revision/latest?cb=20210904021057"
+    "ImageURL": "/images/Spaghetti.svg"
   },
   {
     "Name": "String phone",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/e/e0/String_phone_2.svg/revision/latest?cb=20210904021103"
+    "ImageURL": "/images/String_phone.svg"
   },
   {
     "Name": "Treasure map",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/1/12/Treasure_map_2.svg/revision/latest?cb=20210904120733"
+    "ImageURL": "/images/Treasure_map.svg"
   },
   {
     "Name": "Vinegar",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/0/0b/Vinegar_2.svg/revision/latest?cb=20210904120741"
+    "ImageURL": "/images/Vinegar.svg"
   },
   {
     "Name": "Bakery",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/46/Bakery_2.svg/revision/latest?cb=20210827231035"
+    "ImageURL": "/images/Bakery.svg"
   },
   {
     "Name": "Cake",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/cb/Cake_2.svg/revision/latest?cb=20210828111117"
+    "ImageURL": "/images/Cake.svg"
   },
   {
     "Name": "Cookie",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/f/fd/Cookie_2.svg/revision/latest?cb=20210827231055"
+    "ImageURL": "/images/Cookie.svg"
   },
   {
     "Name": "Fortune cookie",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/49/Fortune_cookie_2.svg/revision/latest?cb=20210830145943"
+    "ImageURL": "/images/Fortune_cookie.svg"
   },
   {
     "Name": "Sandwich",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/4/44/Sandwich_2.svg/revision/latest?cb=20210829004328"
+    "ImageURL": "/images/Sandwich.svg"
   },
   {
     "Name": "Sheet music",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/7/7d/Sheet_music_2.svg/revision/latest?cb=20210901142450"
+    "ImageURL": "/images/Sheet_music.svg"
   },
   {
     "Name": "Toast",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/c/c6/Toast_2.svg/revision/latest?cb=20210827231234"
+    "ImageURL": "/images/Toast.svg"
   },
   {
     "Name": "Treasure",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/b/b0/Treasure_2.svg/revision/latest?cb=20210904120732"
+    "ImageURL": "/images/Treasure.svg"
   },
   {
     "Name": "Grilled cheese",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/a/ae/Grilled_cheese_2.svg/revision/latest?cb=20210831023014"
+    "ImageURL": "/images/Grilled_cheese.svg"
   },
   {
     "Name": "Picnic",
-    "ImageURL": "https://static.wikia.nocookie.net/little-alchemy/images/6/6b/Picnic_2.svg/revision/latest?cb=20210902171502"
+    "ImageURL": "/images/Picnic.svg"
   }
 ]
