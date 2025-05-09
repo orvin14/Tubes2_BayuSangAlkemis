@@ -5,6 +5,7 @@ import (
 	"log"
 	"net/http"
 	"recipe-finder/search"
+	"recipe-finder/scrape"
 )
 
 type RecipeRequest struct {
@@ -69,6 +70,7 @@ func handleRecipe(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	http.HandleFunc("/api/recipe", handleRecipe)
+	scrape.ScrapeToJsonComplete()
 
 	log.Println("Server running on http://localhost:8080")
 	log.Fatal(http.ListenAndServe(":8080", nil))
