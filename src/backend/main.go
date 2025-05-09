@@ -13,7 +13,7 @@ type RecipeRequest struct {
 	MaxRecipe int    `json:"maxRecipe"`
 }
 type RecipeResponse struct {
-	Results     []map[string][][]string `json:"results"`
+	Results     []map[string][]string `json:"results"`
 	Duration    float64                 `json:"duration"`
 	VisitedNode int                     `json:"visitedNode"`
 }
@@ -23,8 +23,8 @@ func enableCORS(w http.ResponseWriter) {
 	w.Header().Set("Access-Control-Allow-Methods", "POST, GET, OPTIONS")
 	w.Header().Set("Access-Control-Allow-Headers", "Content-Type")
 }
-func exploreRecipes(element string, algorithm string, maxRecipe int) ([]map[string][][]string, float64, int) {
-	var result []map[string][][]string
+func exploreRecipes(element string, algorithm string, maxRecipe int) ([]map[string][]string, float64, int) {
+	var result []map[string][]string
 	var duration float64
 	var visitedNode int
 	switch algorithm {

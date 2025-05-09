@@ -7,14 +7,13 @@ function generateRecipeTree(element, recipeMap) {
 
   const recipes = recipeMap[element];
   if (!recipes || recipes.length === 0) return { name: element };
-  const recipe = recipes[0];
   return {
     name: element,
-    children: recipe.map(child => generateRecipeTree(child, recipeMap)),
+    children: recipes.map(child => generateRecipeTree(child, recipeMap)),
   };
 }
 
-export default function RecipeTree({ element, maxRecipes, mode = "bfs" }) {
+export default function RecipeTree({ element, maxRecipes, searchMode }) {
   const [trees, setTrees] = useState([]);  
   const [loading, setLoading] = useState(true);  
   const [error, setError] = useState("");  
@@ -32,7 +31,7 @@ export default function RecipeTree({ element, maxRecipes, mode = "bfs" }) {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         element,
-        algorithm: mode,
+        algorithm: searchMode,
         maxRecipe: maxRecipes,
       }),
     })
@@ -56,7 +55,7 @@ export default function RecipeTree({ element, maxRecipes, mode = "bfs" }) {
       })
       .catch(err => setError(err.message))
       .finally(() => setLoading(false));
-  }, [element, maxRecipes, mode]);
+  }, [element, maxRecipes, searchMode]);
 
   if (loading) return <p className="text-center mt-4">Loading recipes...</p>;
   if (error) return <p className="text-center text-red-500">{error}</p>;
