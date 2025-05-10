@@ -103,6 +103,7 @@ func CompleteScrapeRecipes() map[string]ElementData {
 
 func ScrapeToJsonComplete() {
     elements := CompleteScrapeRecipes()
+    elements = CleanRecipes(elements)
 
     jsonData, err := json.MarshalIndent(elements, "", "  ")
     if err != nil {
@@ -120,4 +121,49 @@ func ScrapeToJsonComplete() {
     }
 
     fmt.Println("Successfully exported recipes to data/recipes_complete.json")
+}
+
+func CleanRecipes(itemsMap map[string]ElementData) map[string]ElementData {
+    // Create a new map for the cleaned data
+    cleanedMap := make(map[string]ElementData)
+
+    // First, copy all items to the cleaned map
+    for itemName, itemData := range itemsMap {
+        cleanedMap[itemName] = itemData
+    }
+
+    // Then, clean up each item's recipes
+    for itemName, itemData := range cleanedMap {
+        // Skip if recipes is nil
+        if itemData.Recipes == nil {
+            continue
+        }
+
+        var validRecipes [][]string
+
+        // Check each recipe
+        for _, recipe := range itemData.Recipes {
+            valid := true
+
+            // Check if all ingredients in this recipe exist as keys
+            for _, ingredient := range recipe {
+                if _, exists := itemsMap[ingredient]; !exists {
+                    valid = false
+                    fmt.Printf("Removing recipe for %s: ingredient %s doesn't exist\n", itemName, ingredient)
+                    break
+                }
+            }
+
+            // If all ingredients are valid, keep this recipe
+            if valid {
+                validRecipes = append(validRecipes, recipe)
+            }
+        }
+
+        // Update the recipes for this item
+        itemData.Recipes = validRecipes
+        cleanedMap[itemName] = itemData
+    }
+
+    return cleanedMap
 }

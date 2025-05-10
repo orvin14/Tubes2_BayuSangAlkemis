@@ -22,39 +22,50 @@ export default function RecipeTree({ element, maxRecipes, searchMode }) {
 
   useEffect(() => {
     if (!element) return;
-
-    setLoading(true);
-    setError("");
-
-    fetch('http://localhost:8080/api/recipe', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        element,
-        algorithm: searchMode,
-        maxRecipe: maxRecipes,
-      }),
-    })
-      .then(res => {
-        if (!res.ok) throw new Error("Failed to fetch recipe");
-        return res.json();
+    
+    let isMounted = true; // Flag to track if component is mounted
+    const timer = setTimeout(() => {
+      setLoading(true);
+      setError("");
+      
+      fetch('http://localhost:8080/api/recipe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          element,
+          algorithm: searchMode,
+          maxRecipe: maxRecipes,
+        }),
       })
-      .then(data => {
-        if (!data.results || !Array.isArray(data.results)) throw new Error("Invalid data format");
-        if (data.results.length === 0) throw new Error("No recipes found");
+        .then(res => {
+          if (!isMounted) return; // Don't update state if unmounted
+          if (!res.ok) throw new Error("Failed to fetch recipe");
+          return res.json();
+        })
+        .then(data => {
+          if (!isMounted) return;
+          if (!data.results || !Array.isArray(data.results)) throw new Error("Invalid data format");
+          if (data.results.length === 0) throw new Error("No recipes found");
 
-        const recipeMaps = data.results.slice(0, maxRecipes);
-        const recipeTrees = recipeMaps.map((recipeMap, i) => ({
-          id: i,
-          data: generateRecipeTree(element, recipeMap),
-        }));
+          const recipeMaps = data.results.slice(0, maxRecipes);
+          const recipeTrees = recipeMaps.map((recipeMap, i) => ({
+            id: i,
+            data: generateRecipeTree(element, recipeMap),
+          }));
 
-        setTrees(recipeTrees);
-        setExecutionTime(data.duration || 0);
-        setVisitedNodes(data.visitedNode || 0);
-      })
-      .catch(err => setError(err.message))
-      .finally(() => setLoading(false));
+          setTrees(recipeTrees);
+          setExecutionTime(data.duration || 0);
+          setVisitedNodes(data.visitedNode || 0);
+        })
+        .catch(err => isMounted && setError(err.message))
+        .finally(() => isMounted && setLoading(false));
+    }, 300); // 300ms debounce
+    
+    // Cleanup function
+    return () => {
+      isMounted = false;
+      clearTimeout(timer);
+    };
   }, [element, maxRecipes, searchMode]);
 
   if (loading) return <p className="text-center mt-4">Loading recipes...</p>;
@@ -64,7 +75,7 @@ export default function RecipeTree({ element, maxRecipes, searchMode }) {
   return (
     <div className="flex flex-wrap gap-4 p-4">
       <div className="w-full text-center mb-4">
-        <p>Execution Time: {executionTime.toFixed(2)} seconds</p>
+        <p>Execution Time: {(executionTime).toFixed(2)} seconds</p>
         <p>Total Nodes Visited: {visitedNodes}</p>
       </div>
       {trees.map((tree, index) => (
