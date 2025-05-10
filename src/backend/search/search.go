@@ -5,19 +5,20 @@ import (
 	"log"
 	"os"
 	"time"
+	"recipe-finder/bfs"
 	"strings"
 	"sort"
 )
 
 // Dummy data untuk testing
 // TODO : Set Recipes to the real data
-var DummyRecipe1 = map[string][][]string{
-	"Brick": {{"Mud", "Fire"}},
-	"Mud":   {{"Water", "Earth"}},
+var DummyRecipe1 = map[string][]string{
+	"Brick":    {"Mud", "Fire"},
+	"Mud":      {"Water", "Earth"},
 }
-var DummyRecipe2 = map[string][][]string{
-	"Brick": {{"Clay", "Fire"}},
-	"Clay":  {{"Air", "Earth"}},
+var DummyRecipe2 = map[string][]string{
+	"Brick": {"Clay", "Fire"},
+	"Clay":  {"Air", "Earth"},
 }
 
 // DFS
@@ -45,28 +46,7 @@ func DFS(element string, maxRecipe int) ([]map[string][]string, float64, int) {
 
 // BFS
 func BFS(element string, maxRecipe int) ([]map[string][]string, float64, int) {
-	var results []map[string][]string
-	var visitedNode int
-	var duration float64
-	start := time.Now()
-	visitedNode = 0
-
-	// Contoh 2 resep hasil BFS
-	recipe1 := map[string][]string{
-		"Brick": {"Mud", "Fire"},
-		"Mud":   {"Water", "Earth"},
-	}
-	recipe2 := map[string][]string{
-		"Brick": {"Clay", "Fire"},
-		"Clay":  {"Air", "Earth"},
-	}
-	if element == "Brick" {
-		results = append(results, recipe1, recipe2)
-		duration = time.Since(start).Seconds()
-		visitedNode += 2 // Simulasi jumlah node yang dikunjungi
-		duration += 0.5
-	}
-	return results, duration, visitedNode
+	return bfs.SearchBFS(element, maxRecipe)
 }
 func loadRecipeData() map[string]struct {
 	Tier    int        `json:"tier"`
@@ -142,6 +122,7 @@ func allLeavesAreBaseElements(path map[string][][]string, base map[string]bool) 
 	return true
 }
 // seseorang benerin ini
+// 11:15 10 Mei 2025: Gamau, lagi CTF
 func BidirectionalSearch(target string, maxRecipe int) ([]map[string][][]string, float64, int) {
 	start := time.Now()
 	var results []map[string][][]string
