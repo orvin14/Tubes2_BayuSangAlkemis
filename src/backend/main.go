@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"recipe-finder/search"
 	"recipe-finder/scrape"
+	"os"
 )
 
 type RecipeRequest struct {
@@ -72,6 +73,12 @@ func main() {
 	http.HandleFunc("/api/recipe", handleRecipe)
 	scrape.ScrapeToJsonComplete()
 
-	log.Println("Server running on http://localhost:8080")
-	log.Fatal(http.ListenAndServe(":8080", nil))
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080" // fallback default
+	}
+
+	log.Printf("Server running on http://localhost:%s", port)
+	log.Fatal(http.ListenAndServe(":" + port, nil))
+
 }

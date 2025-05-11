@@ -3,13 +3,14 @@ package bfs
 import (
 	"container/list"
 	"encoding/json"
-	"fmt"
 	"log"
 	"os"
-	"runtime"
 	"strings"
 	"sync"
 	"time"
+	"runtime"
+
+
 )
 
 // Global mutex for RecipeData
@@ -17,67 +18,84 @@ var recipeDataMutex sync.RWMutex
 var RecipeData map[string]Recipe
 
 type Recipe struct {
-	Tier    int        `json:"tier"`
-	Recipes [][]string `json:"recipes"`
+    Tier    int        `json:"tier"`
+    Recipes [][]string `json:"recipes"`
 }
 
 func readRecipeJson() bool {
-	// Use mutex to protect RecipeData during initialization
-	recipeDataMutex.Lock()
-	defer recipeDataMutex.Unlock()
+    // Use mutex to protect RecipeData during initialization
+    recipeDataMutex.Lock()
+    defer recipeDataMutex.Unlock()
 
-	// Only read the file if RecipeData is nil
-	if RecipeData != nil {
-		return true
-	}
+    // Only read the file if RecipeData is nil
+    if RecipeData != nil {
+        return true
+    }
 
-	// Baca JSON
-	file, err := os.Open("./data/recipes_complete.json")
-	if err != nil {
-		log.Fatal(err)
-		return false
-	}
-	defer file.Close()
+    // Baca JSON
+    file, err := os.Open("./data/recipes_complete.json")
+    if err != nil {
+        log.Fatal(err)
+        return false
+    }
+    defer file.Close()
 
-	// Create a new map for RecipeData
-	tempRecipeData := make(map[string]Recipe)
+    // Create a new map for RecipeData
+    tempRecipeData := make(map[string]Recipe)
 
-	// Convert
-	if err := json.NewDecoder(file).Decode(&tempRecipeData); err != nil {
-		log.Fatal(err)
-		log.Println("Error decoding JSON:", err)
-		return false
-	}
+    // Convert
+    if err := json.NewDecoder(file).Decode(&tempRecipeData); err != nil {
+        log.Fatal(err)
+        return false
+    }
 
-	// Assign the loaded data to RecipeData
-	RecipeData = tempRecipeData
-	log.Println("Successfully read JSON file")
-	return true
+    // Assign the loaded data to RecipeData
+    RecipeData = tempRecipeData
+    return true
 }
 
-func TestPrint() {
-	// Baca JSON
-	file, err := os.Open("./data/recipes_complete.json")
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer file.Close()
+// Modified isRecipeComplete without logging but preserving functionality
+func isRecipeComplete(recipeMap map[string][]string) bool {
+    recipeDataMutex.RLock()
+    defer recipeDataMutex.RUnlock()
 
-	for element, recipeData := range RecipeData {
-		fmt.Printf("Element: %s, Tier: %d, Recipes: %v", element, recipeData.Tier, recipeData.Recipes)
-		fmt.Println()
-	}
+    // Check each element in the recipe map
+    for element, components := range recipeMap {
+        // Skip checking base elements
+        if elementData, exists := RecipeData[element]; exists && elementData.Tier == 0 {
+            continue
+        }
+
+        // If this element has no components, it's incomplete
+        if len(components) == 0 {
+            return false
+        }
+
+        // Check if all components exist and are properly expanded
+        for _, component := range components {
+            // Check if component exists in RecipeData
+            componentData, exists := RecipeData[component]
+            if !exists {
+                return false
+            }
+
+            // If component is not a base element (tier > 0), it must be in the recipe map
+            if componentData.Tier > 0 {
+                if _, hasRecipe := recipeMap[component]; !hasRecipe {
+                    return false
+                }
+            }
+        }
+    }
+
+    return true
 }
 
+// SearchBFS performs a breadth-first search to find recipes for the given element
 func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, int) {
-	// Add these constants at the top of your SearchBFS function
-	// const maxQueueSize = 100000   // Maximum allowed queue size
-	const resumeQueueSize = 360000 // Size at which we resume processing after pausing
+	progressLogInterval := 500
+	lastLogTime := time.Now()
 
-	// At the top of SearchBFS, add:
-	var pauseDuration = 10 * time.Millisecond
-
-	// Cek data with proper synchronization
 	recipeDataMutex.Lock()
 	if RecipeData == nil {
 		recipeDataMutex.Unlock()
@@ -94,7 +112,6 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 	log.Println("Starting BFS for element:", element)
 	startTime := time.Now()
 
-	// Use read lock when checking if element exists
 	recipeDataMutex.RLock()
 	_, ok := RecipeData[element]
 	recipeDataMutex.RUnlock()
@@ -103,10 +120,9 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 		duration := time.Since(startTime)
 		log.Println("Element not found in RecipeData")
 		log.Printf("BFS took %s", duration)
-		return nil, float64(duration), 0
+		return nil, float64(duration.Seconds()), 0
 	}
 
-	// When accessing RecipeData, use read locks
 	recipeDataMutex.RLock()
 	elementTier := RecipeData[element].Tier
 	recipeDataMutex.RUnlock()
@@ -114,17 +130,13 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 	var result []map[string][]string
 	var resultMutex sync.Mutex
 
-	// Cek apakah merupakan elemen dasar
-	if elementTier == 0 {
+	if elementTier == 0 || len(RecipeData[element].Recipes) == 0 {
 		duration := time.Since(startTime)
 		result = append(result, map[string][]string{element: {}})
 		log.Printf("BFS took %s", duration)
-		return result, float64(duration), 1
+		return result, float64(duration.Seconds()), 1
 	}
-	
 
-
-	// thread-safe queue
 	recipeQueue := list.New()
 	var queueMutex sync.Mutex
 
@@ -143,8 +155,6 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 		recipeDataMutex.RUnlock()
 
 		if recipe0Tier < elementTier && recipe1Tier < elementTier {
-
-			// Variasi resep secara breadth dulu, bukan sampai satu resep jadi
 			currentState := make(map[string][]string)
 			currentState[element] = recipe
 
@@ -153,7 +163,6 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 				"queue":     list.New(),
 			}
 
-			// Menambahkan elemen dari resep ke queue
 			recipeDataMutex.RLock()
 			if RecipeData[recipe[0]].Tier > 0 {
 				state["queue"].(*list.List).PushBack(recipe[0])
@@ -167,138 +176,81 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 		}
 	}
 
-	// Channel untuk menandakan semua goroutine sudah selesai
 	done := make(chan bool)
-
-	// Channel untuk receive results
 	resultChan := make(chan map[string][]string)
 
-	// Jumlah worker goroutines (number of available CPUs)
 	numWorkers := runtime.NumCPU()
-
-	// tunggu semua workers selesai
 	var wg sync.WaitGroup
 
-	// Mutex untuk melindungi agar tidak menutup channel done lebih dari sekali
 	var doneMutex sync.Mutex
-	var isDoneClosed bool = false
+	isDoneClosed := false
 
 	safeCloseDone := func() {
 		doneMutex.Lock()
 		defer doneMutex.Unlock()
-
 		if !isDoneClosed {
 			close(done)
 			isDoneClosed = true
 		}
 	}
 
-	// Goroutine untuk menyimpan result
+	var activeWorkers int
+	var activeWorkersMutex sync.Mutex
+
+	increaseActive := func() {
+		activeWorkersMutex.Lock()
+		activeWorkers++
+		activeWorkersMutex.Unlock()
+	}
+
+	decreaseActive := func() {
+		activeWorkersMutex.Lock()
+		activeWorkers--
+		activeWorkersMutex.Unlock()
+	}
+
+	getActiveWorkers := func() int {
+		activeWorkersMutex.Lock()
+		defer activeWorkersMutex.Unlock()
+		return activeWorkers
+	}
+
 	go func() {
 		for r := range resultChan {
 			resultMutex.Lock()
 			result = append(result, r)
 			if len(result) >= maxRecipe {
-				safeCloseDone() // Signal semua workers untuk stop dengan aman
+				safeCloseDone()
 			}
 			resultMutex.Unlock()
 		}
 	}()
 
-	// Add search timeout
-	searchTimeout := 60 * time.Second // Adjust as needed
-	timeoutTimer := time.AfterFunc(searchTimeout, func() {
-		log.Printf("Search timeout after %v", searchTimeout)
-		safeCloseDone()
-	})
-	defer timeoutTimer.Stop()
-
-	// Add a maximum queue size limit to prevent memory exhaustion
-	const maxQueueSize = 500000 // Adjust based on your memory constraints
-
-	// Launch worker goroutines
 	for i := 0; i < numWorkers; i++ {
 		wg.Add(1)
 		go func() {
 			defer wg.Done()
 
 			for {
-				// Cek apakah sudah ada signal done
 				select {
 				case <-done:
 					return
 				default:
-					// Lanjut
 				}
 
 				queueMutex.Lock()
 				if recipeQueue.Len() == 0 {
 					queueMutex.Unlock()
-					// Cek done signal
-					select {
-					case <-done:
-						return
-					default:
-						time.Sleep(5 * time.Millisecond) // Small delay to reduce contention (race condition)
-						continue
-					}
-				} else if recipeQueue.Len() > maxQueueSize {
-					log.Printf("Queue size exceeded limit (%d). Pausing until queue reduces to %d...",
-						maxQueueSize, resumeQueueSize)
 
-					// Release lock while waiting
-					queueMutex.Unlock()
-
-					// Wait until queue size drops or we're told to stop
-					for {
-						select {
-						case <-done:
-							return
-						default:
-							queueMutex.Lock()
-							currentSize := recipeQueue.Len()
-							queueMutex.Unlock()
-
-							if currentSize <= resumeQueueSize {
-								log.Printf("Queue size reduced to %d. Resuming search...", currentSize)
-								break
-							}
-
-							// In the waiting loop:
-							if currentSize > maxQueueSize*2 {
-								// If queue is extremely large, wait longer
-								time.Sleep(50 * time.Millisecond)
-							} else {
-								time.Sleep(pauseDuration)
-							}
-
-							// Check memory usage periodically to prevent crashes
-							var memStats runtime.MemStats
-							runtime.ReadMemStats(&memStats)
-
-							// If memory usage is high, increase wait time or force garbage collection
-							if memStats.Alloc > 1024*1024*1024*5 { // Over 1GB used
-								log.Printf("Memory usage high (%dMB). Forcing garbage collection.",
-									memStats.Alloc/1024/1024)
-								runtime.GC()                       // Force garbage collection
-								time.Sleep(50 * time.Millisecond) // Allow GC to complete
-							}
-						}
-
-						// Break out of the inner loop once queue size is acceptable
-						if queueMutex.Lock(); recipeQueue.Len() <= resumeQueueSize {
-							queueMutex.Unlock()
-							break
-						} else {
-							queueMutex.Unlock()
-						}
+					if getActiveWorkers() == 0 {
+						safeCloseDone()
 					}
 
-					// Re-acquire lock to continue processing
-					queueMutex.Lock()
+					time.Sleep(10 * time.Millisecond)
+					continue
 				}
 
-				// Continue with existing code...
+				increaseActive()
 				currentStateElement := recipeQueue.Front()
 				recipeQueue.Remove(currentStateElement)
 				queueMutex.Unlock()
@@ -307,20 +259,19 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 				currentRecipeMap := currentState["recipeMap"].(map[string][]string)
 				currentQueue := currentState["queue"].(*list.List)
 
-				// Resep sudah jadi
 				if currentQueue.Len() == 0 {
-
 					recipeDone := make(map[string][]string)
 					for key, value := range currentRecipeMap {
 						recipeDone[key] = value
 					}
 
-					// Send result melalui channel
 					select {
 					case <-done:
+						decreaseActive()
 						return
 					case resultChan <- recipeDone:
 					}
+					decreaseActive()
 					continue
 				}
 
@@ -328,15 +279,32 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 				currentQueue.Remove(nextElement)
 				elementToExpand := nextElement.Value.(string)
 
-				// Semua kemungkinan resep untuk elemen ini
 				recipeDataMutex.RLock()
 				elementRecipes := RecipeData[elementToExpand].Recipes
 				recipeDataMutex.RUnlock()
 
 				for _, recipe := range elementRecipes {
 					nodeCount += 2
+					if nodeCount%progressLogInterval == 0 && time.Since(lastLogTime) > 2*time.Second {
+						log.Printf("[BFS] Progress - NodeCount: %d, QueueSize: %d, ResultCount: %d",
+							nodeCount,
+							func() int {
+								queueMutex.Lock()
+								defer queueMutex.Unlock()
+								return recipeQueue.Len()
+							}(),
+							func() int {
+								resultMutex.Lock()
+								defer resultMutex.Unlock()
+								return len(result)
+							}(),
+						)
+						lastLogTime = time.Now()
+					}
+
 					select {
 					case <-done:
+						decreaseActive()
 						return
 					default:
 					}
@@ -348,12 +316,10 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 					recipeDataMutex.RUnlock()
 
 					if recipe0Tier < elementTier && recipe1Tier < elementTier {
-						// Copy state ini untuk dibikin state baru untuk bfsnya
 						newRecipeMap := make(map[string][]string)
 						for key, value := range currentRecipeMap {
 							newRecipeMap[key] = value
 						}
-
 						newRecipeMap[elementToExpand] = recipe
 
 						newQueue := list.New()
@@ -361,7 +327,6 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 							newQueue.PushBack(el.Value)
 						}
 
-						// tambah elemen baru ke queue kalau belum ada di map dan tier > 0
 						recipeDataMutex.RLock()
 						if _, ok := newRecipeMap[recipe[0]]; !ok && RecipeData[recipe[0]].Tier > 0 {
 							newQueue.PushBack(recipe[0])
@@ -381,17 +346,194 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 						queueMutex.Unlock()
 					}
 				}
+				decreaseActive()
 			}
 		}()
 	}
 
-	// tunggu semua worker selesai
 	wg.Wait()
-	safeCloseDone()   // Close done channel safely
-	close(resultChan) // Close result channel
+	safeCloseDone()
+	close(resultChan)
 
 	duration := time.Since(startTime)
 	log.Printf("BFS took %s", duration)
 
 	return result, float64(duration.Seconds()), nodeCount
+}
+
+
+// Helper functions for limiting workers
+func min(a, b int) int {
+    if a < b {
+        return a
+    }
+    return b
+}
+
+func max(a, b int) int {
+    if a > b {
+        return a
+    }
+    return b
+}
+
+// DebugRecipe takes a recipe map and prints it in a readable format
+// Kept for API compatibility but without internal logging
+func DebugRecipe(recipeMap map[string][]string) {
+    // First, find the root element (usually the target element)
+    rootElements := findRootElements(recipeMap)
+
+    for _, root := range rootElements {
+        printRecipeTree(recipeMap, root, 1)
+    }
+}
+
+// findRootElements attempts to identify root elements in the recipe
+func findRootElements(recipeMap map[string][]string) []string {
+    // Create a set of all elements that appear as components
+    componentsSet := make(map[string]bool)
+    for _, components := range recipeMap {
+        for _, component := range components {
+            componentsSet[component] = true
+        }
+    }
+
+    // Find elements that are not components of other elements
+    var roots []string
+    for element := range recipeMap {
+        if !componentsSet[element] {
+            roots = append(roots, element)
+        }
+    }
+
+    // If no clear roots, just return all elements
+    if len(roots) == 0 {
+        for element := range recipeMap {
+            roots = append(roots, element)
+        }
+    }
+
+    return roots
+}
+
+// printRecipeTree recursively prints the recipe tree - keep functionality but remove logs
+func printRecipeTree(recipeMap map[string][]string, element string, depth int) {
+    components := recipeMap[element]
+
+    if len(components) == 0 {
+        return
+    }
+
+    for _, component := range components {
+        // Recursively print components that have recipes
+        if subComponents, hasRecipe := recipeMap[component]; hasRecipe && len(subComponents) > 0 {
+            printRecipeTree(recipeMap, component, depth+1)
+        }
+    }
+}
+
+// CountUniqueRecipes eliminates duplicates and returns actual unique recipes
+func CountUniqueRecipes(recipes []map[string][]string) int {
+    // Create a set of recipe fingerprints
+    uniqueFingerprints := make(map[string]bool)
+
+    for _, recipe := range recipes {
+        fingerprint := createRecipeFingerprint(recipe)
+        uniqueFingerprints[fingerprint] = true
+    }
+
+    return len(uniqueFingerprints)
+}
+
+// Creates a canonical string representation of a recipe for deduplication
+func createRecipeFingerprint(recipe map[string][]string) string {
+    // Sort elements first to ensure consistent ordering
+    elements := make([]string, 0, len(recipe))
+    for element := range recipe {
+        elements = append(elements, element)
+    }
+
+    // Simple bubble sort
+    for i := 0; i < len(elements); i++ {
+        for j := i + 1; j < len(elements); j++ {
+            if elements[i] > elements[j] {
+                elements[i], elements[j] = elements[j], elements[i]
+            }
+        }
+    }
+
+    // Build fingerprint
+    var fingerprint strings.Builder
+    for _, element := range elements {
+        fingerprint.WriteString(element)
+        fingerprint.WriteString(":[")
+
+        components := recipe[element]
+        // Also sort components for consistency
+        for i := 0; i < len(components); i++ {
+            for j := i + 1; j < len(components); j++ {
+                if components[i] > components[j] {
+                    components[i], components[j] = components[j], components[i]
+                }
+            }
+        }
+
+        for i, component := range components {
+            if i > 0 {
+                fingerprint.WriteString(",")
+            }
+            fingerprint.WriteString(component)
+        }
+        fingerprint.WriteString("]")
+    }
+
+    return fingerprint.String()
+}
+
+// FindMissingRecipe checks if specific recipes are present in the results
+func FindMissingRecipe(recipes []map[string][]string, targetElement string, knownRecipes [][]string) [][]string {
+    // Convert recipes to a set of fingerprints
+    recipeFingerprints := make(map[string]bool)
+
+    for _, recipe := range recipes {
+        if components, exists := recipe[targetElement]; exists {
+            // Sort components for consistent comparison
+            sortedComponents := make([]string, len(components))
+            copy(sortedComponents, components)
+            for i := 0; i < len(sortedComponents); i++ {
+                for j := i + 1; j < len(sortedComponents); j++ {
+                    if sortedComponents[i] > sortedComponents[j] {
+                        sortedComponents[i], sortedComponents[j] = sortedComponents[j], sortedComponents[i]
+                    }
+                }
+            }
+
+            // Create fingerprint for this recipe's components
+            fingerprint := strings.Join(sortedComponents, ",")
+            recipeFingerprints[fingerprint] = true
+        }
+    }
+
+    // Check which known recipes are missing
+    var missingRecipes [][]string
+
+    for _, knownRecipe := range knownRecipes {
+        // Sort for consistent comparison
+        sortedRecipe := make([]string, len(knownRecipe))
+        copy(sortedRecipe, knownRecipe)
+        for i := 0; i < len(sortedRecipe); i++ {
+            for j := i + 1; j < len(sortedRecipe); j++ {
+                if sortedRecipe[i] > sortedRecipe[j] {
+                    sortedRecipe[i], sortedRecipe[j] = sortedRecipe[j], sortedRecipe[i]
+                }
+            }
+        }
+
+        fingerprint := strings.Join(sortedRecipe, ",")
+        if !recipeFingerprints[fingerprint] {
+            missingRecipes = append(missingRecipes, knownRecipe)
+        }
+    }
+
+    return missingRecipes
 }

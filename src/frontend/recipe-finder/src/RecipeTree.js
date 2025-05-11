@@ -28,7 +28,7 @@ export default function RecipeTree({ element, maxRecipes, searchMode }) {
       setLoading(true);
       setError("");
       
-      fetch('http://localhost:8080/api/recipe', {
+      fetch('https://backend-recipe-production.up.railway.app/api/recipe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

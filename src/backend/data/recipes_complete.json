@@ -3,43 +3,14 @@
     "tier": 6,
     "recipes": [
       [
-        "Rain",
-        "Smoke"
-      ],
-      [
-        "Rain",
-        "Smog"
-      ],
-      [
-        "Rain",
-        "Sickness"
-      ],
-      [
-        "Rain",
-        "City"
-      ],
-      [
         "Cloud",
         "Smoke"
-      ],
-      [
-        "Cloud",
-        "Smog"
-      ],
-      [
-        "Cloud",
-        "Sickness"
       ]
     ]
   },
   "Air": {
     "tier": 0,
-    "recipes": [
-      [
-        "Fire",
-        "Mist"
-      ]
-    ]
+    "recipes": null
   },
   "Airplane": {
     "tier": 9,
@@ -47,185 +18,12 @@
       [
         "Bird",
         "Metal"
-      ],
-      [
-        "Bird",
-        "Steel"
-      ],
-      [
-        "Bird",
-        "Machine"
-      ],
-      [
-        "Bird",
-        "Steam engine"
-      ],
-      [
-        "Bird",
-        "Train"
-      ],
-      [
-        "Bird",
-        "Car"
-      ],
-      [
-        "Bird",
-        "Boat"
-      ],
-      [
-        "Bird",
-        "Steamboat"
-      ],
-      [
-        "Bird",
-        "Sailboat"
-      ],
-      [
-        "Owl",
-        "Metal"
-      ],
-      [
-        "Owl",
-        "Steel"
-      ],
-      [
-        "Owl",
-        "Machine"
-      ],
-      [
-        "Owl",
-        "Steam engine"
-      ],
-      [
-        "Vulture",
-        "Metal"
-      ],
-      [
-        "Vulture",
-        "Steel"
-      ],
-      [
-        "Vulture",
-        "Machine"
-      ],
-      [
-        "Duck",
-        "Metal"
-      ],
-      [
-        "Duck",
-        "Steel"
-      ],
-      [
-        "Duck",
-        "Machine"
-      ],
-      [
-        "Seagull",
-        "Metal"
-      ],
-      [
-        "Seagull",
-        "Steel"
-      ],
-      [
-        "Seagull",
-        "Machine"
-      ],
-      [
-        "Bat",
-        "Metal"
-      ],
-      [
-        "Bat",
-        "Steel"
-      ],
-      [
-        "Bat",
-        "Machine"
-      ],
-      [
-        "Eagle",
-        "Metal"
-      ],
-      [
-        "Eagle",
-        "Steel"
-      ],
-      [
-        "Eagle",
-        "Machine"
-      ],
-      [
-        "Pigeon",
-        "Metal"
-      ],
-      [
-        "Pigeon",
-        "Steel"
-      ],
-      [
-        "Pigeon",
-        "Machine"
-      ],
-      [
-        "Hummingbird",
-        "Metal"
-      ],
-      [
-        "Hummingbird",
-        "Steel"
-      ],
-      [
-        "Hummingbird",
-        "Machine"
-      ],
-      [
-        "Crow",
-        "Metal"
-      ],
-      [
-        "Crow",
-        "Steel"
-      ],
-      [
-        "Crow",
-        "Machine"
-      ],
-      [
-        "Pilot",
-        "Container"
       ]
     ]
   },
   "Alarm clock": {
     "tier": 8,
-    "recipes": [
-      [
-        "Clock",
-        "Sound"
-      ],
-      [
-        "Clock",
-        "Dawn"
-      ],
-      [
-        "Clock",
-        "Bell"
-      ],
-      [
-        "Watch",
-        "Sound"
-      ],
-      [
-        "Watch",
-        "Dawn"
-      ],
-      [
-        "Watch",
-        "Bell"
-      ]
-    ]
+    "recipes": null
   },
   "Alchemist": {
     "tier": 8,
@@ -233,10 +31,6 @@
       [
         "Human",
         "Gold"
-      ],
-      [
-        "Gold",
-        "Philosophy"
       ]
     ]
   },
@@ -263,18 +57,6 @@
       [
         "Water",
         "Plant"
-      ],
-      [
-        "Water",
-        "Grass"
-      ],
-      [
-        "Grass",
-        "Pond"
-      ],
-      [
-        "Grass",
-        "Lake"
       ]
     ]
   },
@@ -311,10 +93,6 @@
       ],
       [
         "Life",
-        "Saturn"
-      ],
-      [
-        "Life",
         "Jupiter"
       ]
     ]
@@ -325,20 +103,12 @@
       [
         "Human",
         "Dust"
-      ],
-      [
-        "Human",
-        "Pollen"
       ]
     ]
   },
   "Alligator": {
     "tier": 9,
     "recipes": [
-      [
-        "Lizard",
-        "Swamp"
-      ],
       [
         "Lizard",
         "River"
@@ -359,10 +129,6 @@
       [
         "Sheep",
         "Mountain range"
-      ],
-      [
-        "Sheep",
-        "Mountain goat"
       ]
     ]
   },
@@ -389,22 +155,6 @@
       [
         "Human",
         "Light"
-      ],
-      [
-        "Human",
-        "Heaven"
-      ],
-      [
-        "Human",
-        "Good"
-      ],
-      [
-        "Good",
-        "Demon"
-      ],
-      [
-        "Good",
-        "Deity"
       ]
     ]
   },
@@ -430,10 +180,6 @@
       ],
       [
         "Life",
-        "Forest"
-      ],
-      [
-        "Life",
         "Mountain"
       ],
       [
@@ -456,10 +202,6 @@
       [
         "Grass",
         "Animal"
-      ],
-      [
-        "Grass",
-        "Spider"
       ]
     ]
   },
@@ -472,19 +214,7 @@
       ],
       [
         "Ant",
-        "Jar"
-      ],
-      [
-        "Ant",
         "Glass"
-      ],
-      [
-        "Anthill",
-        "Farm"
-      ],
-      [
-        "Anthill",
-        "Jar"
       ]
     ]
   },
@@ -496,16 +226,8 @@
         "Snow"
       ],
       [
-        "Desert",
-        "Ice"
-      ],
-      [
         "Continent",
         "Snow"
-      ],
-      [
-        "Continent",
-        "Ice"
       ]
     ]
   },
@@ -519,10 +241,6 @@
       [
         "Ant",
         "Container"
-      ],
-      [
-        "Ant",
-        "Hill"
       ],
       [
         "Ant",
@@ -544,10 +262,6 @@
       [
         "Fabric",
         "Cook"
-      ],
-      [
-        "Fabric",
-        "Baker"
       ]
     ]
   },
@@ -560,23 +274,11 @@
       ],
       [
         "Glass",
-        "Fish"
-      ],
-      [
-        "Glass",
         "Puddle"
       ],
       [
         "Glass",
         "Pond"
-      ],
-      [
-        "Fish",
-        "Container"
-      ],
-      [
-        "Small",
-        "Swimming pool"
       ]
     ]
   },
@@ -646,67 +348,14 @@
   },
   "Arrow": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Bullet"
-      ],
-      [
-        "Wood",
-        "Bow"
-      ]
-    ]
+    "recipes": null
   },
   "Ash": {
     "tier": 9,
     "recipes": [
       [
         "Fire",
-        "Mineral"
-      ],
-      [
-        "Fire",
         "Plant"
-      ],
-      [
-        "Fire",
-        "Tree"
-      ],
-      [
-        "Fire",
-        "Grass"
-      ],
-      [
-        "Fire",
-        "Paper"
-      ],
-      [
-        "Campfire",
-        "Water"
-      ],
-      [
-        "Campfire",
-        "Rain"
-      ],
-      [
-        "Campfire",
-        "Paper"
-      ],
-      [
-        "Vampire",
-        "Sun"
-      ],
-      [
-        "Vampire",
-        "Dawn"
-      ],
-      [
-        "Vampire",
-        "Holy grail"
-      ],
-      [
-        "Vampire",
-        "Holy water"
       ]
     ]
   },
@@ -751,15 +400,7 @@
       ],
       [
         "Human",
-        "Saturn"
-      ],
-      [
-        "Human",
         "Venus"
-      ],
-      [
-        "Human",
-        "Moon rover"
       ]
     ]
   },
@@ -778,10 +419,6 @@
       [
         "Air",
         "Planet"
-      ],
-      [
-        "Air",
-        "Sky"
       ]
     ]
   },
@@ -795,40 +432,12 @@
       [
         "Explosion",
         "Explosion"
-      ],
-      [
-        "Explosion",
-        "Big"
       ]
     ]
   },
   "Aurora": {
     "tier": 5,
     "recipes": [
-      [
-        "Electricity",
-        "Atmosphere"
-      ],
-      [
-        "Electricity",
-        "Antarctica"
-      ],
-      [
-        "Electricity",
-        "Sky"
-      ],
-      [
-        "Electricity",
-        "Arctic"
-      ],
-      [
-        "Sky",
-        "Antarctica"
-      ],
-      [
-        "Sky",
-        "Arctic"
-      ],
       [
         "Sun",
         "Atmosphere"
@@ -840,55 +449,7 @@
     "recipes": [
       [
         "Earthquake",
-        "Snow"
-      ],
-      [
-        "Earthquake",
-        "Glacier"
-      ],
-      [
-        "Earthquake",
         "Mountain"
-      ],
-      [
-        "Earthquake",
-        "Mountain range"
-      ],
-      [
-        "Wave",
-        "Glacier"
-      ],
-      [
-        "Wave",
-        "Mountain"
-      ],
-      [
-        "Wave",
-        "Mountain range"
-      ],
-      [
-        "Sound",
-        "Glacier"
-      ],
-      [
-        "Sound",
-        "Mountain"
-      ],
-      [
-        "Sound",
-        "Mountain range"
-      ],
-      [
-        "Gun",
-        "Glacier"
-      ],
-      [
-        "Gun",
-        "Mountain"
-      ],
-      [
-        "Gun",
-        "Mountain range"
       ]
     ]
   },
@@ -903,28 +464,7 @@
   },
   "Axe": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Blade"
-      ],
-      [
-        "Wood",
-        "Tool"
-      ],
-      [
-        "Wood",
-        "Stone"
-      ],
-      [
-        "Tool",
-        "Lumberjack"
-      ],
-      [
-        "Tool",
-        "Paul bunyan"
-      ]
-    ]
+    "recipes": null
   },
   "Bacon": {
     "tier": 9,
@@ -932,18 +472,6 @@
       [
         "Pig",
         "Fire"
-      ],
-      [
-        "Pig",
-        "Campfire"
-      ],
-      [
-        "Ham",
-        "Fire"
-      ],
-      [
-        "Ham",
-        "Campfire"
       ]
     ]
   },
@@ -956,10 +484,6 @@
       ],
       [
         "Life",
-        "Small"
-      ],
-      [
-        "Life",
         "Mud"
       ]
     ]
@@ -969,43 +493,11 @@
     "recipes": [
       [
         "Human",
-        "Bakery"
-      ],
-      [
-        "Human",
-        "Bread"
-      ],
-      [
-        "Human",
-        "Banana bread"
-      ],
-      [
-        "Human",
         "Pizza"
       ],
       [
         "Human",
-        "Toast"
-      ],
-      [
-        "Human",
         "Batter"
-      ],
-      [
-        "Human",
-        "Pie"
-      ],
-      [
-        "Human",
-        "Donut"
-      ],
-      [
-        "Human",
-        "Cookie"
-      ],
-      [
-        "Human",
-        "Cookie dough"
       ],
       [
         "Human",
@@ -1029,10 +521,6 @@
         "Donut"
       ],
       [
-        "House",
-        "Cake"
-      ],
-      [
         "City",
         "Bread"
       ],
@@ -1045,10 +533,6 @@
         "Donut"
       ],
       [
-        "City",
-        "Cake"
-      ],
-      [
         "Village",
         "Bread"
       ],
@@ -1059,10 +543,6 @@
       [
         "Village",
         "Donut"
-      ],
-      [
-        "Village",
-        "Cake"
       ],
       [
         "Baker",
@@ -1072,25 +552,11 @@
   },
   "Banana": {
     "tier": 11,
-    "recipes": [
-      [
-        "Fruit",
-        "Monkey"
-      ]
-    ]
+    "recipes": null
   },
   "Banana bread": {
     "tier": 13,
-    "recipes": [
-      [
-        "Bread",
-        "Banana"
-      ],
-      [
-        "Dough",
-        "Banana"
-      ]
-    ]
+    "recipes": null
   },
   "Bandage": {
     "tier": 12,
@@ -1115,46 +581,6 @@
       [
         "Gold",
         "House"
-      ],
-      [
-        "Gold",
-        "Skyscraper"
-      ],
-      [
-        "Gold",
-        "City"
-      ],
-      [
-        "Safe",
-        "House"
-      ],
-      [
-        "Safe",
-        "Skyscraper"
-      ],
-      [
-        "Safe",
-        "City"
-      ],
-      [
-        "Money",
-        "House"
-      ],
-      [
-        "Money",
-        "Skyscraper"
-      ],
-      [
-        "Money",
-        "City"
-      ],
-      [
-        "Money",
-        "Container"
-      ],
-      [
-        "House",
-        "Vault"
       ]
     ]
   },
@@ -1163,71 +589,7 @@
     "recipes": [
       [
         "House",
-        "Cow"
-      ],
-      [
-        "House",
-        "Livestock"
-      ],
-      [
-        "House",
-        "Hay"
-      ],
-      [
-        "House",
-        "Farm"
-      ],
-      [
-        "House",
         "Field"
-      ],
-      [
-        "House",
-        "Sheep"
-      ],
-      [
-        "House",
-        "Goat"
-      ],
-      [
-        "House",
-        "Babe the blue ox"
-      ],
-      [
-        "Container",
-        "Livestock"
-      ],
-      [
-        "Container",
-        "Cow"
-      ],
-      [
-        "Container",
-        "Horse"
-      ],
-      [
-        "Container",
-        "Pig"
-      ],
-      [
-        "Container",
-        "Hay"
-      ],
-      [
-        "Container",
-        "Sheep"
-      ],
-      [
-        "Container",
-        "Hay bale"
-      ],
-      [
-        "Container",
-        "Goat"
-      ],
-      [
-        "Container",
-        "Babe the blue ox"
       ]
     ]
   },
@@ -1237,10 +599,6 @@
       [
         "Wine",
         "Container"
-      ],
-      [
-        "Wine",
-        "Wood"
       ]
     ]
   },
@@ -1284,24 +642,7 @@
   },
   "Battery": {
     "tier": 10,
-    "recipes": [
-      [
-        "Container",
-        "Electricity"
-      ],
-      [
-        "Container",
-        "Energy"
-      ],
-      [
-        "Electricity",
-        "Mineral"
-      ],
-      [
-        "Electricity",
-        "Ore"
-      ]
-    ]
+    "recipes": null
   },
   "Bayonet": {
     "tier": 6,
@@ -1313,49 +654,16 @@
       [
         "Gun",
         "Sword"
-      ],
-      [
-        "Gun",
-        "Axe"
       ]
     ]
   },
   "Bbq": {
     "tier": 12,
-    "recipes": [
-      [
-        "Campfire",
-        "Metal"
-      ],
-      [
-        "Campfire",
-        "Steel"
-      ],
-      [
-        "Campfire",
-        "Garden"
-      ],
-      [
-        "Campfire",
-        "House"
-      ],
-      [
-        "Campfire",
-        "Meat"
-      ]
-    ]
+    "recipes": null
   },
   "Beach": {
     "tier": 4,
     "recipes": [
-      [
-        "Sand",
-        "Ocean"
-      ],
-      [
-        "Sand",
-        "Sea"
-      ],
       [
         "Sand",
         "Lake"
@@ -1363,10 +671,6 @@
       [
         "Sand",
         "Water"
-      ],
-      [
-        "Sand",
-        "Wave"
       ]
     ]
   },
@@ -1375,19 +679,11 @@
     "recipes": [
       [
         "Animal",
-        "Wood"
-      ],
-      [
-        "Animal",
         "Dam"
       ],
       [
         "Animal",
         "River"
-      ],
-      [
-        "Animal",
-        "Stream"
       ]
     ]
   },
@@ -1412,19 +708,7 @@
         "Bee"
       ],
       [
-        "Tree",
-        "Bee"
-      ],
-      [
-        "Forest",
-        "Bee"
-      ],
-      [
         "Wall",
-        "Bee"
-      ],
-      [
-        "Wood",
         "Bee"
       ],
       [
@@ -1438,15 +722,7 @@
     "recipes": [
       [
         "Human",
-        "Beehive"
-      ],
-      [
-        "Human",
         "Bee"
-      ],
-      [
-        "Farmer",
-        "Beehive"
       ],
       [
         "Farmer",
@@ -1469,22 +745,6 @@
       [
         "Sound",
         "Metal"
-      ],
-      [
-        "Sound",
-        "Steel"
-      ],
-      [
-        "Sound",
-        "Wood"
-      ],
-      [
-        "Metal",
-        "Hammer"
-      ],
-      [
-        "Steel",
-        "Hammer"
       ]
     ]
   },
@@ -1557,22 +817,6 @@
       [
         "Animal",
         "Air"
-      ],
-      [
-        "Animal",
-        "Airplane"
-      ],
-      [
-        "Egg",
-        "Sky"
-      ],
-      [
-        "Egg",
-        "Air"
-      ],
-      [
-        "Egg",
-        "Airplane"
       ]
     ]
   },
@@ -1581,19 +825,11 @@
     "recipes": [
       [
         "Bird",
-        "Container"
-      ],
-      [
-        "Bird",
         "Safe"
       ],
       [
         "Bird",
         "Wall"
-      ],
-      [
-        "Bird",
-        "Cage"
       ]
     ]
   },
@@ -1607,10 +843,6 @@
       [
         "Bird",
         "Wall"
-      ],
-      [
-        "Egg",
-        "Container"
       ]
     ]
   },
@@ -1619,18 +851,6 @@
     "recipes": [
       [
         "Pressure",
-        "Star"
-      ],
-      [
-        "Pressure",
-        "Sun"
-      ],
-      [
-        "Darkness",
-        "Star"
-      ],
-      [
-        "Darkness",
         "Sun"
       ]
     ]
@@ -1641,18 +861,6 @@
       [
         "Stone",
         "Metal"
-      ],
-      [
-        "Stone",
-        "Steel"
-      ],
-      [
-        "Rock",
-        "Metal"
-      ],
-      [
-        "Rock",
-        "Steel"
       ]
     ]
   },
@@ -1662,22 +870,6 @@
       [
         "Blade",
         "Glass"
-      ],
-      [
-        "Blade",
-        "Electricity"
-      ],
-      [
-        "Blade",
-        "Windmill"
-      ],
-      [
-        "Blade",
-        "Wind turbine"
-      ],
-      [
-        "Blade",
-        "Motion"
       ]
     ]
   },
@@ -1703,10 +895,6 @@
       [
         "Snow",
         "Wind"
-      ],
-      [
-        "Snow",
-        "Big"
       ]
     ]
   },
@@ -1716,10 +904,6 @@
       [
         "Human",
         "Blade"
-      ],
-      [
-        "Warrior",
-        "Sword"
       ]
     ]
   },
@@ -1729,41 +913,12 @@
       [
         "Blood",
         "Container"
-      ],
-      [
-        "Blood",
-        "Sack"
-      ],
-      [
-        "Blood",
-        "Bottle"
       ]
     ]
   },
   "Boat": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Water"
-      ],
-      [
-        "Wood",
-        "Sea"
-      ],
-      [
-        "Wood",
-        "Ocean"
-      ],
-      [
-        "Wood",
-        "Lake"
-      ],
-      [
-        "Wood",
-        "River"
-      ]
-    ]
+    "recipes": null
   },
   "Boiler": {
     "tier": 4,
@@ -1773,34 +928,14 @@
         "Metal"
       ],
       [
-        "Pressure",
-        "Tool"
-      ],
-      [
-        "Pressure",
-        "Container"
-      ],
-      [
         "Steam",
         "Metal"
-      ],
-      [
-        "Steam",
-        "Tool"
       ]
     ]
   },
   "Bone": {
     "tier": 9,
     "recipes": [
-      [
-        "Vulture",
-        "Corpse"
-      ],
-      [
-        "Vulture",
-        "Meat"
-      ],
       [
         "Wolf",
         "Corpse"
@@ -1813,40 +948,11 @@
   },
   "Bonsai tree": {
     "tier": 10,
-    "recipes": [
-      [
-        "Tree",
-        "Pottery"
-      ],
-      [
-        "Tree",
-        "Scissors"
-      ],
-      [
-        "Tree",
-        "Wire"
-      ],
-      [
-        "Tree",
-        "Small"
-      ]
-    ]
+    "recipes": null
   },
   "Book": {
     "tier": 11,
     "recipes": [
-      [
-        "Newspaper",
-        "Newspaper"
-      ],
-      [
-        "Paper",
-        "Legend"
-      ],
-      [
-        "Paper",
-        "Wood"
-      ],
       [
         "Container",
         "Story"
@@ -1878,31 +984,11 @@
       ],
       [
         "Container",
-        "Coconut milk"
-      ],
-      [
-        "Container",
         "Juice"
       ],
       [
         "Container",
         "Oil"
-      ],
-      [
-        "Container",
-        "Alcohol"
-      ],
-      [
-        "Container",
-        "Wine"
-      ],
-      [
-        "Container",
-        "Beer"
-      ],
-      [
-        "Container",
-        "Chocolate milk"
       ],
       [
         "Container",
@@ -1923,81 +1009,20 @@
     "recipes": [
       [
         "Big",
-        "Rock"
-      ],
-      [
-        "Big",
         "Stone"
-      ],
-      [
-        "Small",
-        "Hill"
-      ],
-      [
-        "Rock",
-        "Stone"
-      ],
-      [
-        "Rock",
-        "Rock"
-      ],
-      [
-        "Rock",
-        "Earth"
       ]
     ]
   },
   "Bow": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Rope"
-      ],
-      [
-        "Wood",
-        "Wire"
-      ],
-      [
-        "Tool",
-        "Elf"
-      ],
-      [
-        "Tool",
-        "Cupid"
-      ]
-    ]
+    "recipes": null
   },
   "Box": {
     "tier": 12,
     "recipes": [
       [
         "Container",
-        "Pizza"
-      ],
-      [
-        "Container",
-        "Pencil"
-      ],
-      [
-        "Container",
         "Cereal"
-      ],
-      [
-        "Container",
-        "Cookie"
-      ],
-      [
-        "Container",
-        "Donut"
-      ],
-      [
-        "Container",
-        "Cake"
-      ],
-      [
-        "Container",
-        "Crayon"
       ]
     ]
   },
@@ -2020,22 +1045,6 @@
       [
         "Mud",
         "Fire"
-      ],
-      [
-        "Mud",
-        "Sun"
-      ],
-      [
-        "Clay",
-        "Fire"
-      ],
-      [
-        "Clay",
-        "Sun"
-      ],
-      [
-        "Clay",
-        "Stone"
       ]
     ]
   },
@@ -2043,74 +1052,25 @@
     "tier": 5,
     "recipes": [
       [
-        "Wood",
-        "River"
-      ],
-      [
         "Metal",
         "River"
-      ],
-      [
-        "Steel",
-        "River"
-      ],
-      [
-        "Stream",
-        "Wood"
-      ],
-      [
-        "Stream",
-        "Metal"
-      ],
-      [
-        "Stream",
-        "Steel"
       ]
     ]
   },
   "Broom": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Hay"
-      ],
-      [
-        "Tool",
-        "Baba yaga"
-      ]
-    ]
+    "recipes": null
   },
   "Bucket": {
     "tier": 11,
     "recipes": [
       [
         "Container",
-        "Wood"
-      ],
-      [
-        "Container",
-        "Yogurt"
-      ],
-      [
-        "Container",
-        "Paint"
-      ],
-      [
-        "Bottle",
-        "River"
-      ],
-      [
-        "Bottle",
         "Paint"
       ],
       [
         "Chicken wing",
         "Container"
-      ],
-      [
-        "Chicken wing",
-        "Box"
       ]
     ]
   },
@@ -2120,18 +1080,6 @@
       [
         "Gunpowder",
         "Metal"
-      ],
-      [
-        "Gunpowder",
-        "Steel"
-      ],
-      [
-        "Gunpowder",
-        "Tool"
-      ],
-      [
-        "Gunpowder",
-        "Container"
       ]
     ]
   },
@@ -2157,10 +1105,6 @@
       ],
       [
         "Car",
-        "Train"
-      ],
-      [
-        "Car",
         "City"
       ],
       [
@@ -2175,10 +1119,6 @@
       [
         "Human",
         "Meat"
-      ],
-      [
-        "Human",
-        "Ham"
       ]
     ]
   },
@@ -2208,14 +1148,6 @@
     "recipes": [
       [
         "Animal",
-        "Flower"
-      ],
-      [
-        "Animal",
-        "Garden"
-      ],
-      [
-        "Animal",
         "Rainbow"
       ],
       [
@@ -2242,27 +1174,11 @@
     "recipes": [
       [
         "Mountain",
-        "Car"
-      ],
-      [
-        "Mountain",
-        "Wire"
-      ],
-      [
-        "Mountain",
-        "Rope"
-      ],
-      [
-        "Mountain range",
-        "Car"
-      ],
-      [
-        "Mountain range",
         "Wire"
       ],
       [
         "Mountain range",
-        "Rope"
+        "Wire"
       ]
     ]
   },
@@ -2274,16 +1190,8 @@
         "Plant"
       ],
       [
-        "Sand",
-        "Tree"
-      ],
-      [
         "Desert",
         "Plant"
-      ],
-      [
-        "Desert",
-        "Tree"
       ]
     ]
   },
@@ -2296,46 +1204,6 @@
       ],
       [
         "Wolf",
-        "Steel"
-      ],
-      [
-        "Wolf",
-        "Wall"
-      ],
-      [
-        "Fox",
-        "Metal"
-      ],
-      [
-        "Fox",
-        "Steel"
-      ],
-      [
-        "Fox",
-        "Wall"
-      ],
-      [
-        "Lion",
-        "Metal"
-      ],
-      [
-        "Lion",
-        "Steel"
-      ],
-      [
-        "Lion",
-        "Wall"
-      ],
-      [
-        "Hamster",
-        "Container"
-      ],
-      [
-        "Hamster",
-        "House"
-      ],
-      [
-        "Hamster",
         "Wall"
       ]
     ]
@@ -2362,66 +1230,17 @@
     "recipes": [
       [
         "Desert",
-        "Horse"
-      ],
-      [
-        "Desert",
-        "Animal"
-      ],
-      [
-        "Desert",
-        "Livestock"
-      ],
-      [
-        "Desert",
-        "Cow"
-      ],
-      [
-        "Desert",
-        "Saddle"
-      ],
-      [
-        "Desert",
-        "Horseshoe"
-      ],
-      [
-        "Sand",
-        "Horse"
-      ],
-      [
-        "Sand",
-        "Livestock"
-      ],
-      [
-        "Sand",
-        "Cow"
-      ],
-      [
-        "Dune",
         "Animal"
       ],
       [
         "Dune",
-        "Horse"
-      ],
-      [
-        "Dune",
-        "Livestock"
-      ],
-      [
-        "Dune",
-        "Cow"
+        "Animal"
       ]
     ]
   },
   "Campfire": {
     "tier": 11,
-    "recipes": [
-      [
-        "Fire",
-        "Wood"
-      ]
-    ]
+    "recipes": null
   },
   "Candle": {
     "tier": 13,
@@ -2450,39 +1269,14 @@
   },
   "Candy cane": {
     "tier": 12,
-    "recipes": [
-      [
-        "Sugar",
-        "Christmas tree"
-      ],
-      [
-        "Sugar",
-        "Christmas stocking"
-      ],
-      [
-        "Sugar",
-        "Santa"
-      ],
-      [
-        "Sugar",
-        "Reindeer"
-      ]
-    ]
+    "recipes": null
   },
   "Cannon": {
     "tier": 10,
     "recipes": [
       [
         "Gunpowder",
-        "Pirate ship"
-      ],
-      [
-        "Gunpowder",
         "Castle"
-      ],
-      [
-        "Gun",
-        "Pirate ship"
       ],
       [
         "Gun",
@@ -2505,38 +1299,6 @@
       [
         "Wheel",
         "Metal"
-      ],
-      [
-        "Wheel",
-        "Steel"
-      ],
-      [
-        "Wheel",
-        "Bicycle"
-      ],
-      [
-        "Wheel",
-        "Motorcycle"
-      ],
-      [
-        "Bicycle",
-        "Bicycle"
-      ],
-      [
-        "Motorcycle",
-        "Motorcycle"
-      ],
-      [
-        "Motorcycle",
-        "Machine"
-      ],
-      [
-        "Wagon",
-        "Combustion engine"
-      ],
-      [
-        "Cart",
-        "Combustion engine"
       ]
     ]
   },
@@ -2553,31 +1315,7 @@
     "tier": 9,
     "recipes": [
       [
-        "Human",
-        "Oxygen"
-      ],
-      [
-        "Animal",
-        "Oxygen"
-      ],
-      [
-        "Fish",
-        "Oxygen"
-      ],
-      [
-        "Bird",
-        "Oxygen"
-      ],
-      [
         "Plant",
-        "Night"
-      ],
-      [
-        "Tree",
-        "Night"
-      ],
-      [
-        "Grass",
         "Night"
       ]
     ]
@@ -2586,18 +1324,6 @@
     "tier": 9,
     "recipes": [
       [
-        "Vegetable",
-        "Snowman"
-      ],
-      [
-        "Vegetable",
-        "Grass"
-      ],
-      [
-        "Vegetable",
-        "Garden"
-      ],
-      [
         "Snowman",
         "Sun"
       ]
@@ -2605,12 +1331,7 @@
   },
   "Cart": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wheel",
-        "Wood"
-      ]
-    ]
+    "recipes": null
   },
   "Cashmere": {
     "tier": 11,
@@ -2618,10 +1339,6 @@
       [
         "Mountain goat",
         "Thread"
-      ],
-      [
-        "Mountain goat",
-        "Fabric"
       ],
       [
         "Mountain goat",
@@ -2641,22 +1358,6 @@
     "tier": 9,
     "recipes": [
       [
-        "Knight",
-        "Stone"
-      ],
-      [
-        "Knight",
-        "Wall"
-      ],
-      [
-        "Knight",
-        "House"
-      ],
-      [
-        "Knight",
-        "Container"
-      ],
-      [
         "Warrior",
         "Stone"
       ],
@@ -2669,54 +1370,18 @@
         "House"
       ],
       [
-        "Vampire",
-        "House"
-      ],
-      [
-        "Vampire",
-        "Wall"
-      ],
-      [
-        "Monarch",
-        "Container"
-      ],
-      [
         "Monarch",
         "House"
       ],
       [
         "Monarch",
         "Wall"
-      ],
-      [
-        "Paladin",
-        "Stone"
-      ],
-      [
-        "Paladin",
-        "Wall"
-      ],
-      [
-        "Paladin",
-        "House"
-      ],
-      [
-        "Paladin",
-        "Container"
       ]
     ]
   },
   "Cat": {
     "tier": 8,
     "recipes": [
-      [
-        "Animal",
-        "Milk"
-      ],
-      [
-        "Animal",
-        "Coconut milk"
-      ],
       [
         "Animal",
         "Night"
@@ -2729,18 +1394,6 @@
       [
         "Cat",
         "Plant"
-      ],
-      [
-        "Cat",
-        "Grass"
-      ],
-      [
-        "Cat",
-        "Flower"
-      ],
-      [
-        "Baast",
-        "Plant"
       ]
     ]
   },
@@ -2748,28 +1401,8 @@
     "tier": 10,
     "recipes": [
       [
-        "Witch",
-        "Metal"
-      ],
-      [
-        "Witch",
-        "Steel"
-      ],
-      [
-        "Witch",
-        "Fireplace"
-      ],
-      [
-        "Witch",
-        "Campfire"
-      ],
-      [
         "Pottery",
         "Metal"
-      ],
-      [
-        "Pottery",
-        "Steel"
       ]
     ]
   },
@@ -2779,34 +1412,6 @@
       [
         "House",
         "Wolf"
-      ],
-      [
-        "House",
-        "Lion"
-      ],
-      [
-        "House",
-        "Fox"
-      ],
-      [
-        "House",
-        "Bat"
-      ],
-      [
-        "Container",
-        "Wolf"
-      ],
-      [
-        "Container",
-        "Lion"
-      ],
-      [
-        "Container",
-        "Fox"
-      ],
-      [
-        "Container",
-        "Bat"
       ]
     ]
   },
@@ -2816,10 +1421,6 @@
       [
         "Roe",
         "Salt"
-      ],
-      [
-        "Roe",
-        "Cook"
       ]
     ]
   },
@@ -2829,10 +1430,6 @@
       [
         "Horse",
         "Human"
-      ],
-      [
-        "Horse",
-        "Story"
       ]
     ]
   },
@@ -2842,14 +1439,6 @@
       [
         "Wheat",
         "Milk"
-      ],
-      [
-        "Wheat",
-        "Chocolate milk"
-      ],
-      [
-        "Wheat",
-        "Coconut milk"
       ]
     ]
   },
@@ -2857,47 +1446,14 @@
     "tier": 8,
     "recipes": [
       [
-        "Rope",
-        "Metal"
-      ],
-      [
-        "Rope",
-        "Steel"
-      ],
-      [
         "Wire",
         "Metal"
-      ],
-      [
-        "Wire",
-        "Steel"
       ]
     ]
   },
   "Chainsaw": {
     "tier": 11,
-    "recipes": [
-      [
-        "Axe",
-        "Machine"
-      ],
-      [
-        "Axe",
-        "Electricity"
-      ],
-      [
-        "Axe",
-        "Motion"
-      ],
-      [
-        "Lumberjack",
-        "Machine"
-      ],
-      [
-        "Lumberjack",
-        "Electricity"
-      ]
-    ]
+    "recipes": null
   },
   "Chameleon": {
     "tier": 9,
@@ -2933,19 +1489,7 @@
     "recipes": [
       [
         "Fire",
-        "Wood"
-      ],
-      [
-        "Fire",
-        "Tree"
-      ],
-      [
-        "Fire",
         "Corpse"
-      ],
-      [
-        "Fire",
-        "Organic matter"
       ]
     ]
   },
@@ -2972,10 +1516,6 @@
       [
         "Cheese",
         "Hamburger"
-      ],
-      [
-        "Cheese",
-        "Sandwich"
       ]
     ]
   },
@@ -3038,22 +1578,6 @@
       [
         "Chicken",
         "Barn"
-      ],
-      [
-        "Chicken",
-        "Container"
-      ],
-      [
-        "Cockatrice",
-        "House"
-      ],
-      [
-        "Cockatrice",
-        "Barn"
-      ],
-      [
-        "Cockatrice",
-        "Container"
       ]
     ]
   },
@@ -3067,14 +1591,6 @@
       [
         "Chicken",
         "Liquid"
-      ],
-      [
-        "Chicken wing",
-        "Water"
-      ],
-      [
-        "Chicken wing",
-        "Liquid"
       ]
     ]
   },
@@ -3084,10 +1600,6 @@
       [
         "Chicken",
         "Bone"
-      ],
-      [
-        "Chicken",
-        "Bbq"
       ]
     ]
   },
@@ -3101,10 +1613,6 @@
       [
         "Human",
         "Cold"
-      ],
-      [
-        "Human",
-        "Ice"
       ]
     ]
   },
@@ -3112,31 +1620,11 @@
     "tier": 3,
     "recipes": [
       [
-        "House",
-        "Fireplace"
-      ],
-      [
-        "House",
-        "Smoke"
-      ],
-      [
         "Smoke",
         "Brick"
       ],
       [
         "Smoke",
-        "Fireplace"
-      ],
-      [
-        "Smoke",
-        "Stone"
-      ],
-      [
-        "Fireplace",
-        "Brick"
-      ],
-      [
-        "Fireplace",
         "Stone"
       ]
     ]
@@ -3177,58 +1665,15 @@
   },
   "Christmas stocking": {
     "tier": 11,
-    "recipes": [
-      [
-        "Fireplace",
-        "Wool"
-      ],
-      [
-        "Christmas tree",
-        "Wool"
-      ],
-      [
-        "Reindeer",
-        "Wool"
-      ],
-      [
-        "Santa",
-        "Wool"
-      ]
-    ]
+    "recipes": null
   },
   "Christmas tree": {
     "tier": 10,
-    "recipes": [
-      [
-        "Tree",
-        "Light bulb"
-      ],
-      [
-        "Tree",
-        "Star"
-      ],
-      [
-        "Tree",
-        "Candle"
-      ],
-      [
-        "Tree",
-        "Light"
-      ],
-      [
-        "Tree",
-        "Gift"
-      ]
-    ]
+    "recipes": null
   },
   "Cigarette": {
     "tier": 12,
-    "recipes": [
-      [
-        "Tobacco",
-        "Paper"
-      ]
-    ]
+    "recipes": null
   },
   "Circus": {
     "tier": 13,
@@ -3249,38 +1694,6 @@
       [
         "Village",
         "Village"
-      ],
-      [
-        "Village",
-        "Skyscraper"
-      ],
-      [
-        "Village",
-        "Big"
-      ],
-      [
-        "Skyscraper",
-        "Skyscraper"
-      ],
-      [
-        "Skyscraper",
-        "Container"
-      ],
-      [
-        "Skyscraper",
-        "Bank"
-      ],
-      [
-        "Skyscraper",
-        "Post office"
-      ],
-      [
-        "Bank",
-        "Container"
-      ],
-      [
-        "Bank",
-        "Post office"
       ]
     ]
   },
@@ -3289,70 +1702,17 @@
     "recipes": [
       [
         "Mud",
-        "Sand"
-      ],
-      [
-        "Mud",
         "Stone"
-      ],
-      [
-        "Mineral",
-        "Sand"
-      ],
-      [
-        "Mineral",
-        "Stone"
-      ],
-      [
-        "Mineral",
-        "Rock"
-      ],
-      [
-        "Stone",
-        "Liquid"
-      ],
-      [
-        "Rock",
-        "Liquid"
       ]
     ]
   },
   "Clock": {
     "tier": 7,
-    "recipes": [
-      [
-        "Sundial",
-        "Machine"
-      ],
-      [
-        "Sundial",
-        "Tool"
-      ],
-      [
-        "Sundial",
-        "Wheel"
-      ],
-      [
-        "Sundial",
-        "Electricity"
-      ],
-      [
-        "Cuckoo",
-        "Container"
-      ],
-      [
-        "Watch",
-        "Big"
-      ]
-    ]
+    "recipes": null
   },
   "Closet": {
     "tier": 11,
     "recipes": [
-      [
-        "Container",
-        "Broom"
-      ],
       [
         "Container",
         "Toolbox"
@@ -3360,14 +1720,6 @@
       [
         "Container",
         "Umbrella"
-      ],
-      [
-        "Container",
-        "Robot vacuum"
-      ],
-      [
-        "Container",
-        "Vacuum cleaner"
       ]
     ]
   },
@@ -3381,65 +1733,16 @@
       [
         "Atmosphere",
         "Water"
-      ],
-      [
-        "Sky",
-        "Mist"
-      ],
-      [
-        "Sky",
-        "Water"
       ]
     ]
   },
   "Coal": {
     "tier": 9,
-    "recipes": [
-      [
-        "Pressure",
-        "Organic matter"
-      ],
-      [
-        "Earth",
-        "Peat"
-      ],
-      [
-        "Stone",
-        "Peat"
-      ],
-      [
-        "Rock",
-        "Peat"
-      ],
-      [
-        "Pressure",
-        "Peat"
-      ]
-    ]
+    "recipes": null
   },
   "Coconut": {
     "tier": 10,
     "recipes": [
-      [
-        "Palm",
-        "Fruit"
-      ],
-      [
-        "Palm",
-        "Nuts"
-      ],
-      [
-        "Palm",
-        "Vegetable"
-      ],
-      [
-        "Palm",
-        "Meat"
-      ],
-      [
-        "Beach",
-        "Fruit"
-      ],
       [
         "Beach",
         "Vegetable"
@@ -3468,20 +1771,12 @@
       [
         "Coconut",
         "Blade"
-      ],
-      [
-        "Coconut",
-        "Axe"
       ]
     ]
   },
   "Coffin": {
     "tier": 11,
     "recipes": [
-      [
-        "Wood",
-        "Corpse"
-      ],
       [
         "Container",
         "Corpse"
@@ -3518,10 +1813,6 @@
       [
         "Human",
         "Storm"
-      ],
-      [
-        "Space",
-        "Thermometer"
       ]
     ]
   },
@@ -3529,24 +1820,8 @@
     "tier": 10,
     "recipes": [
       [
-        "Petroleum",
-        "Machine"
-      ],
-      [
-        "Petroleum",
-        "Wheel"
-      ],
-      [
-        "Petroleum",
-        "Steam engine"
-      ],
-      [
         "Explosion",
         "Machine"
-      ],
-      [
-        "Explosion",
-        "Steam engine"
       ]
     ]
   },
@@ -3564,14 +1839,6 @@
       [
         "Hacker",
         "Wire"
-      ],
-      [
-        "Hacker",
-        "Machine"
-      ],
-      [
-        "Email",
-        "Container"
       ]
     ]
   },
@@ -3580,26 +1847,13 @@
     "recipes": [
       [
         "Computer",
-        "Mouse"
-      ],
-      [
-        "Computer",
         "Animal"
       ]
     ]
   },
   "Confetti": {
     "tier": 12,
-    "recipes": [
-      [
-        "Paper",
-        "Scissors"
-      ],
-      [
-        "Paper",
-        "Blade"
-      ]
-    ]
+    "recipes": null
   },
   "Constellation": {
     "tier": 8,
@@ -3624,18 +1878,6 @@
       [
         "Philosophy",
         "House"
-      ],
-      [
-        "Philosophy",
-        "Box"
-      ],
-      [
-        "Philosophy",
-        "Bottle"
-      ],
-      [
-        "Philosophy",
-        "Bucket"
       ]
     ]
   },
@@ -3644,19 +1886,11 @@
     "recipes": [
       [
         "Land",
-        "Big"
-      ],
-      [
-        "Land",
         "Land"
       ],
       [
         "Land",
         "Earth"
-      ],
-      [
-        "Mountain range",
-        "Mountain range"
       ]
     ]
   },
@@ -3665,29 +1899,13 @@
     "recipes": [
       [
         "Human",
-        "Fruit"
-      ],
-      [
-        "Human",
         "Vegetable"
-      ],
-      [
-        "Human",
-        "Campfire"
-      ],
-      [
-        "Human",
-        "Nuts"
       ]
     ]
   },
   "Cookbook": {
     "tier": 12,
     "recipes": [
-      [
-        "Recipe",
-        "Recipe"
-      ],
       [
         "Book",
         "Cook"
@@ -3725,20 +1943,12 @@
       [
         "Blade",
         "Dough"
-      ],
-      [
-        "Blade",
-        "Cookie dough"
       ]
     ]
   },
   "Cookie dough": {
     "tier": 13,
     "recipes": [
-      [
-        "Dough",
-        "Cookie"
-      ],
       [
         "Dough",
         "Sugar"
@@ -3752,14 +1962,6 @@
   "Coral": {
     "tier": 10,
     "recipes": [
-      [
-        "Tree",
-        "Sea"
-      ],
-      [
-        "Tree",
-        "Ocean"
-      ],
       [
         "Fossil",
         "Sea"
@@ -3791,27 +1993,7 @@
       ],
       [
         "Human",
-        "Death"
-      ],
-      [
-        "Human",
-        "Grim reaper"
-      ],
-      [
-        "Human",
         "Explosion"
-      ],
-      [
-        "Human",
-        "Arrow"
-      ],
-      [
-        "Jiangshi",
-        "Mirror"
-      ],
-      [
-        "Jiangshi",
-        "Peach of immortality"
       ]
     ]
   },
@@ -3821,22 +2003,6 @@
       [
         "Plant",
         "Cloud"
-      ],
-      [
-        "Plant",
-        "Fabric"
-      ],
-      [
-        "Plant",
-        "Thread"
-      ],
-      [
-        "Plant",
-        "Wool"
-      ],
-      [
-        "Plant",
-        "Sheep"
       ]
     ]
   },
@@ -3871,75 +2037,18 @@
       [
         "Livestock",
         "Farmer"
-      ],
-      [
-        "Livestock",
-        "Grass"
       ]
     ]
   },
   "Crayon": {
     "tier": 12,
-    "recipes": [
-      [
-        "Rainbow",
-        "Pencil"
-      ],
-      [
-        "Rainbow",
-        "Wax"
-      ],
-      [
-        "Double rainbow!",
-        "Pencil"
-      ],
-      [
-        "Double rainbow!",
-        "Wax"
-      ],
-      [
-        "Pencil",
-        "Paint"
-      ],
-      [
-        "Wax",
-        "Paint"
-      ]
-    ]
+    "recipes": null
   },
   "Crow": {
     "tier": 9,
     "recipes": [
       [
         "Bird",
-        "Scarecrow"
-      ],
-      [
-        "Bird",
-        "Field"
-      ],
-      [
-        "Pigeon",
-        "Scarecrow"
-      ],
-      [
-        "Pigeon",
-        "Field"
-      ],
-      [
-        "Owl",
-        "Scarecrow"
-      ],
-      [
-        "Owl",
-        "Field"
-      ],
-      [
-        "Hummingbird",
-        "Scarecrow"
-      ],
-      [
-        "Hummingbird",
         "Field"
       ]
     ]
@@ -3949,58 +2058,13 @@
     "recipes": [
       [
         "Glass",
-        "Witch"
-      ],
-      [
-        "Glass",
-        "Wizard"
-      ],
-      [
-        "Glass",
-        "Magic"
-      ],
-      [
-        "Snow globe",
-        "Witch"
-      ],
-      [
-        "Snow globe",
-        "Wizard"
-      ],
-      [
-        "Snow globe",
         "Magic"
       ]
     ]
   },
   "Cuckoo": {
     "tier": 9,
-    "recipes": [
-      [
-        "Bird",
-        "Clock"
-      ],
-      [
-        "Bird",
-        "Alarm clock"
-      ],
-      [
-        "Owl",
-        "Clock"
-      ],
-      [
-        "Owl",
-        "Alarm clock"
-      ],
-      [
-        "Hummingbird",
-        "Clock"
-      ],
-      [
-        "Hummingbird",
-        "Alarm clock"
-      ]
-    ]
+    "recipes": null
   },
   "Cup": {
     "tier": 12,
@@ -4014,20 +2078,12 @@
         "Tea"
       ],
       [
-        "Container",
-        "Milk shake"
-      ],
-      [
         "Bottle",
         "Smoothie"
       ],
       [
         "Bottle",
         "Tea"
-      ],
-      [
-        "Bottle",
-        "Milk shake"
       ]
     ]
   },
@@ -4035,47 +2091,14 @@
     "tier": 5,
     "recipes": [
       [
-        "Ocean",
-        "Motion"
-      ],
-      [
-        "Ocean",
-        "Heat"
-      ],
-      [
-        "Ocean",
-        "Cold"
-      ],
-      [
-        "Ocean",
-        "Science"
-      ],
-      [
-        "Sea",
-        "Motion"
-      ],
-      [
         "Sea",
         "Heat"
-      ],
-      [
-        "Sea",
-        "Cold"
-      ],
-      [
-        "Sea",
-        "Science"
       ]
     ]
   },
   "Cutting board": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Cook"
-      ]
-    ]
+    "recipes": null
   },
   "Cyborg": {
     "tier": 8,
@@ -4083,50 +2106,6 @@
       [
         "Robot",
         "Human"
-      ],
-      [
-        "Robot",
-        "Engineer"
-      ],
-      [
-        "Robot",
-        "Lumberjack"
-      ],
-      [
-        "Robot",
-        "Sailor"
-      ],
-      [
-        "Robot",
-        "Baker"
-      ],
-      [
-        "Robot",
-        "Cook"
-      ],
-      [
-        "Robot",
-        "Doctor"
-      ],
-      [
-        "Robot",
-        "Farmer"
-      ],
-      [
-        "Robot",
-        "Firefighter"
-      ],
-      [
-        "Robot",
-        "Pilot"
-      ],
-      [
-        "Robot",
-        "Astronaut"
-      ],
-      [
-        "Robot",
-        "Electrician"
       ]
     ]
   },
@@ -4136,10 +2115,6 @@
       [
         "Human",
         "Wheel"
-      ],
-      [
-        "Human",
-        "Bicycle"
       ]
     ]
   },
@@ -4147,40 +2122,8 @@
     "tier": 4,
     "recipes": [
       [
-        "River",
-        "Beaver"
-      ],
-      [
-        "River",
-        "Wall"
-      ],
-      [
         "Water",
         "Wall"
-      ],
-      [
-        "Stream",
-        "Wall"
-      ],
-      [
-        "Beaver",
-        "Tree"
-      ],
-      [
-        "Beaver",
-        "Stream"
-      ],
-      [
-        "Beaver",
-        "House"
-      ],
-      [
-        "Beaver",
-        "Lake"
-      ],
-      [
-        "Beaver",
-        "Water"
       ]
     ]
   },
@@ -4190,10 +2133,6 @@
       [
         "Sky",
         "Night"
-      ],
-      [
-        "Sky",
-        "Twilight"
       ]
     ]
   },
@@ -4212,33 +2151,12 @@
       [
         "Sun",
         "Sky"
-      ],
-      [
-        "Sun",
-        "Night"
       ]
     ]
   },
   "Death": {
     "tier": 7,
-    "recipes": [
-      [
-        "Corpse",
-        "Philosophy"
-      ],
-      [
-        "Skeleton",
-        "Philosophy"
-      ],
-      [
-        "Grave",
-        "Philosophy"
-      ],
-      [
-        "Graveyard",
-        "Philosophy"
-      ]
-    ]
+    "recipes": null
   },
   "Desert": {
     "tier": 4,
@@ -4250,52 +2168,12 @@
       [
         "Sand",
         "Land"
-      ],
-      [
-        "Sand",
-        "Cactus"
-      ],
-      [
-        "Sand",
-        "Lizard"
-      ],
-      [
-        "Sand",
-        "Vulture"
       ]
     ]
   },
   "Dew": {
     "tier": 8,
     "recipes": [
-      [
-        "Grass",
-        "Fog"
-      ],
-      [
-        "Grass",
-        "Water"
-      ],
-      [
-        "Grass",
-        "Dawn"
-      ],
-      [
-        "Plant",
-        "Fog"
-      ],
-      [
-        "Plant",
-        "Dawn"
-      ],
-      [
-        "Tree",
-        "Fog"
-      ],
-      [
-        "Tree",
-        "Dawn"
-      ],
       [
         "Water",
         "Dawn"
@@ -4308,21 +2186,11 @@
   },
   "Diamond": {
     "tier": 10,
-    "recipes": [
-      [
-        "Coal",
-        "Pressure"
-      ]
-    ]
+    "recipes": null
   },
   "Dinosaur": {
     "tier": 9,
-    "recipes": [
-      [
-        "Lizard",
-        "Big"
-      ]
-    ]
+    "recipes": null
   },
   "Diver": {
     "tier": 12,
@@ -4384,24 +2252,12 @@
       [
         "Wolf",
         "Field"
-      ],
-      [
-        "Wolf",
-        "Bone"
-      ],
-      [
-        "Wolf",
-        "Campfire"
       ]
     ]
   },
   "Doge": {
     "tier": 10,
     "recipes": [
-      [
-        "Dog",
-        "Internet"
-      ],
       [
         "Dog",
         "Computer"
@@ -4418,22 +2274,6 @@
       [
         "Dog",
         "Wall"
-      ],
-      [
-        "Dog",
-        "Container"
-      ],
-      [
-        "Husky",
-        "House"
-      ],
-      [
-        "Husky",
-        "Wall"
-      ],
-      [
-        "Husky",
-        "Container"
       ]
     ]
   },
@@ -4443,36 +2283,12 @@
       [
         "Animal",
         "Human"
-      ],
-      [
-        "Animal",
-        "Farmer"
-      ],
-      [
-        "Animal",
-        "Science"
-      ],
-      [
-        "Farmer",
-        "Science"
       ]
     ]
   },
   "Don quixote": {
     "tier": 9,
     "recipes": [
-      [
-        "Windmill",
-        "Knight"
-      ],
-      [
-        "Windmill",
-        "Story"
-      ],
-      [
-        "Windmill",
-        "Legend"
-      ],
       [
         "Windmill",
         "Hero"
@@ -4488,14 +2304,6 @@
       ],
       [
         "Dough",
-        "Wheel"
-      ],
-      [
-        "Cookie dough",
-        "Oil"
-      ],
-      [
-        "Cookie dough",
         "Wheel"
       ]
     ]
@@ -4540,22 +2348,6 @@
       [
         "Lizard",
         "Sky"
-      ],
-      [
-        "Lizard",
-        "Airplane"
-      ],
-      [
-        "Lizard",
-        "Story"
-      ],
-      [
-        "Lizard",
-        "Legend"
-      ],
-      [
-        "Dinosaur",
-        "Monster"
       ]
     ]
   },
@@ -4565,37 +2357,12 @@
       [
         "Robot",
         "Airplane"
-      ],
-      [
-        "Robot",
-        "Helicopter"
-      ],
-      [
-        "Robot",
-        "Paper airplane"
-      ],
-      [
-        "Robot",
-        "Seaplane"
       ]
     ]
   },
   "Drum": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Leather"
-      ],
-      [
-        "Wood",
-        "Fabric"
-      ],
-      [
-        "Wood",
-        "Music"
-      ]
-    ]
+    "recipes": null
   },
   "Drunk": {
     "tier": 12,
@@ -4603,14 +2370,6 @@
       [
         "Human",
         "Alcohol"
-      ],
-      [
-        "Human",
-        "Beer"
-      ],
-      [
-        "Human",
-        "Wine"
       ]
     ]
   },
@@ -4641,46 +2400,6 @@
       [
         "Bird",
         "Lake"
-      ],
-      [
-        "Duckling",
-        "Big"
-      ],
-      [
-        "Owl",
-        "Water"
-      ],
-      [
-        "Owl",
-        "Pond"
-      ],
-      [
-        "Owl",
-        "Lake"
-      ],
-      [
-        "Pigeon",
-        "Water"
-      ],
-      [
-        "Pigeon",
-        "Pond"
-      ],
-      [
-        "Pigeon",
-        "Lake"
-      ],
-      [
-        "Chicken",
-        "Water"
-      ],
-      [
-        "Chicken",
-        "Pond"
-      ],
-      [
-        "Chicken",
-        "Lake"
       ]
     ]
   },
@@ -4698,23 +2417,7 @@
     "recipes": [
       [
         "Wind",
-        "Desert"
-      ],
-      [
-        "Wind",
         "Sand"
-      ],
-      [
-        "Wind",
-        "Beach"
-      ],
-      [
-        "Sand",
-        "Desert"
-      ],
-      [
-        "Sandstorm",
-        "Desert"
       ]
     ]
   },
@@ -4723,14 +2426,6 @@
     "recipes": [
       [
         "Earth",
-        "Air"
-      ],
-      [
-        "Soil",
-        "Air"
-      ],
-      [
-        "Land",
         "Air"
       ]
     ]
@@ -4741,14 +2436,6 @@
       [
         "Gunpowder",
         "Wire"
-      ],
-      [
-        "Gunpowder",
-        "Pipe"
-      ],
-      [
-        "Gunpowder",
-        "Container"
       ]
     ]
   },
@@ -4774,15 +2461,7 @@
     "recipes": [
       [
         "Earth",
-        "Motion"
-      ],
-      [
-        "Earth",
         "Energy"
-      ],
-      [
-        "Continent",
-        "Motion"
       ]
     ]
   },
@@ -4799,163 +2478,14 @@
     "tier": 8,
     "recipes": [
       [
-        "Life",
-        "Container"
-      ],
-      [
-        "Bird",
-        "Bird"
-      ],
-      [
-        "Turtle",
-        "Turtle"
-      ],
-      [
-        "Lizard",
-        "Lizard"
-      ],
-      [
-        "Vulture",
-        "Vulture"
-      ],
-      [
         "Phoenix",
         "Phoenix"
-      ],
-      [
-        "Chicken",
-        "Chicken"
-      ],
-      [
-        "Dragon",
-        "Dragon"
-      ],
-      [
-        "Penguin",
-        "Penguin"
-      ],
-      [
-        "Owl",
-        "Owl"
-      ],
-      [
-        "Dinosaur",
-        "Dinosaur"
-      ],
-      [
-        "Duck",
-        "Duck"
-      ],
-      [
-        "Seagull",
-        "Seagull"
-      ],
-      [
-        "Eagle",
-        "Eagle"
-      ],
-      [
-        "Scorpion",
-        "Scorpion"
-      ],
-      [
-        "Spider",
-        "Spider"
-      ],
-      [
-        "Pigeon",
-        "Pigeon"
-      ],
-      [
-        "Fish",
-        "Fish"
-      ],
-      [
-        "Piranha",
-        "Piranha"
-      ],
-      [
-        "Parrot",
-        "Parrot"
-      ],
-      [
-        "Peacock",
-        "Peacock"
-      ],
-      [
-        "Hummingbird",
-        "Hummingbird"
-      ],
-      [
-        "Chameleon",
-        "Chameleon"
-      ],
-      [
-        "Ostrich",
-        "Ostrich"
-      ],
-      [
-        "Woodpecker",
-        "Woodpecker"
-      ],
-      [
-        "Bee",
-        "Bee"
-      ],
-      [
-        "Crow",
-        "Crow"
-      ],
-      [
-        "Frog",
-        "Frog"
-      ],
-      [
-        "Pterodactyl",
-        "Pterodactyl"
-      ],
-      [
-        "Ant",
-        "Ant"
-      ],
-      [
-        "Moth",
-        "Moth"
-      ],
-      [
-        "Butterfly",
-        "Butterfly"
-      ],
-      [
-        "Snake",
-        "Snake"
-      ],
-      [
-        "Flying fish",
-        "Flying fish"
-      ],
-      [
-        "Tyrannosaurus rex",
-        "Tyrannosaurus rex"
       ]
     ]
   },
   "Egg timer": {
     "tier": 9,
-    "recipes": [
-      [
-        "Egg",
-        "Clock"
-      ],
-      [
-        "Egg",
-        "Alarm clock"
-      ],
-      [
-        "Egg",
-        "Watch"
-      ]
-    ]
+    "recipes": null
   },
   "Electric car": {
     "tier": 11,
@@ -4965,24 +2495,12 @@
         "Car"
       ],
       [
-        "Electricity",
-        "Wagon"
-      ],
-      [
         "Car",
-        "Wind turbine"
-      ],
-      [
-        "Wagon",
         "Wind turbine"
       ],
       [
         "Solar cell",
         "Car"
-      ],
-      [
-        "Solar cell",
-        "Wagon"
       ]
     ]
   },
@@ -5012,67 +2530,14 @@
     "tier": 6,
     "recipes": [
       [
-        "Metal",
-        "Lightning"
-      ],
-      [
-        "Steel",
-        "Lightning"
-      ],
-      [
-        "Storm",
-        "Science"
-      ],
-      [
-        "Wind turbine",
-        "Wind"
-      ],
-      [
-        "Wind turbine",
-        "Motion"
-      ],
-      [
-        "Wind turbine",
-        "Storm"
-      ],
-      [
-        "Wind turbine",
-        "Sandstorm"
-      ],
-      [
         "Solar cell",
         "Sun"
-      ],
-      [
-        "Solar cell",
-        "Light"
-      ],
-      [
-        "Solar cell",
-        "Star"
       ]
     ]
   },
   "Email": {
     "tier": 13,
-    "recipes": [
-      [
-        "Letter",
-        "Computer"
-      ],
-      [
-        "Letter",
-        "Computer mouse"
-      ],
-      [
-        "Letter",
-        "Internet"
-      ],
-      [
-        "Letter",
-        "Electricity"
-      ]
-    ]
+    "recipes": null
   },
   "Energy": {
     "tier": 1,
@@ -5080,18 +2545,6 @@
       [
         "Fire",
         "Fire"
-      ],
-      [
-        "Fire",
-        "Science"
-      ],
-      [
-        "Fire",
-        "Atmosphere"
-      ],
-      [
-        "Heat",
-        "Science"
       ]
     ]
   },
@@ -5101,20 +2554,12 @@
       [
         "Human",
         "Machine"
-      ],
-      [
-        "Human",
-        "Steam engine"
       ]
     ]
   },
   "Eruption": {
     "tier": 2,
     "recipes": [
-      [
-        "Pressure",
-        "Volcano"
-      ],
       [
         "Pressure",
         "Lava"
@@ -5130,23 +2575,7 @@
       ],
       [
         "Sword",
-        "Legend"
-      ],
-      [
-        "Sword",
-        "Story"
-      ],
-      [
-        "Sword",
-        "Monarch"
-      ],
-      [
-        "Sword",
         "Lake"
-      ],
-      [
-        "Sword",
-        "Fairy tale"
       ]
     ]
   },
@@ -5171,40 +2600,8 @@
         "Gunpowder"
       ],
       [
-        "Fire",
-        "Petroleum"
-      ],
-      [
-        "Gunpowder",
-        "Electricity"
-      ],
-      [
-        "Gunpowder",
-        "Lightning"
-      ],
-      [
         "Pressure",
         "Volcano"
-      ],
-      [
-        "Pressure",
-        "Petroleum"
-      ],
-      [
-        "Explosion",
-        "Petroleum"
-      ],
-      [
-        "Heat",
-        "Petroleum"
-      ],
-      [
-        "Lava",
-        "Petroleum"
-      ],
-      [
-        "Volcano",
-        "Petroleum"
       ]
     ]
   },
@@ -5231,10 +2628,6 @@
       [
         "House",
         "Chimney"
-      ],
-      [
-        "House",
-        "Tool"
       ]
     ]
   },
@@ -5260,14 +2653,6 @@
       [
         "Story",
         "Unicorn"
-      ],
-      [
-        "Story",
-        "Faerie"
-      ],
-      [
-        "Story",
-        "Elf"
       ]
     ]
   },
@@ -5281,66 +2666,25 @@
       [
         "Human",
         "House"
-      ],
-      [
-        "Love",
-        "Container"
       ]
     ]
   },
   "Family tree": {
     "tier": 9,
-    "recipes": [
-      [
-        "Tree",
-        "Family"
-      ],
-      [
-        "Tree",
-        "Village"
-      ]
-    ]
+    "recipes": null
   },
   "Farm": {
     "tier": 7,
     "recipes": [
       [
-        "Farmer",
-        "House"
-      ],
-      [
-        "Farmer",
-        "Barn"
-      ],
-      [
-        "Farmer",
-        "Container"
-      ],
-      [
         "House",
         "Barn"
-      ],
-      [
-        "House",
-        "Tractor"
       ]
     ]
   },
   "Farmer": {
     "tier": 8,
     "recipes": [
-      [
-        "Human",
-        "Plant"
-      ],
-      [
-        "Human",
-        "Grass"
-      ],
-      [
-        "Human",
-        "Pitchfork"
-      ],
       [
         "Human",
         "Field"
@@ -5352,10 +2696,6 @@
       [
         "Human",
         "Plow"
-      ],
-      [
-        "Human",
-        "Orchard"
       ]
     ]
   },
@@ -5367,32 +2707,12 @@
         "Goat"
       ],
       [
-        "Human",
-        "Mountain goat"
-      ],
-      [
-        "Legend",
-        "Goat"
-      ],
-      [
-        "Legend",
-        "Mountain goat"
-      ],
-      [
         "Wizard",
         "Goat"
       ],
       [
-        "Wizard",
-        "Mountain goat"
-      ],
-      [
         "Magic",
         "Goat"
-      ],
-      [
-        "Magic",
-        "Mountain goat"
       ]
     ]
   },
@@ -5400,27 +2720,7 @@
     "tier": 6,
     "recipes": [
       [
-        "Wood",
-        "Wall"
-      ],
-      [
-        "Wood",
-        "Field"
-      ],
-      [
-        "Wood",
-        "Garden"
-      ],
-      [
         "Field",
-        "Wall"
-      ],
-      [
-        "Grass",
-        "Wall"
-      ],
-      [
-        "Garden",
         "Wall"
       ]
     ]
@@ -5429,55 +2729,18 @@
     "tier": 5,
     "recipes": [
       [
-        "Farmer",
-        "Earth"
-      ],
-      [
-        "Farmer",
-        "Land"
-      ],
-      [
-        "Farmer",
-        "Soil"
-      ],
-      [
-        "Tool",
-        "Earth"
-      ],
-      [
-        "Tool",
-        "Land"
-      ],
-      [
-        "Tool",
-        "Soil"
-      ],
-      [
         "Plow",
         "Earth"
       ],
       [
         "Plow",
         "Land"
-      ],
-      [
-        "Plow",
-        "Soil"
       ]
     ]
   },
   "Fire": {
     "tier": 0,
-    "recipes": [
-      [
-        "Fire",
-        "Alcohol"
-      ],
-      [
-        "Fire",
-        "Coal"
-      ]
-    ]
+    "recipes": null
   },
   "Fire extinguisher": {
     "tier": 10,
@@ -5496,10 +2759,6 @@
       ],
       [
         "Carbon dioxide",
-        "Steel"
-      ],
-      [
-        "Carbon dioxide",
         "Boiler"
       ]
     ]
@@ -5510,41 +2769,12 @@
       [
         "Human",
         "Fire"
-      ],
-      [
-        "Human",
-        "Firetruck"
-      ],
-      [
-        "Human",
-        "Fire extinguisher"
       ]
     ]
   },
   "Fireplace": {
     "tier": 11,
-    "recipes": [
-      [
-        "Campfire",
-        "House"
-      ],
-      [
-        "Campfire",
-        "Brick"
-      ],
-      [
-        "Campfire",
-        "Wall"
-      ],
-      [
-        "Campfire",
-        "Container"
-      ],
-      [
-        "Wood",
-        "Container"
-      ]
-    ]
+    "recipes": null
   },
   "Firestation": {
     "tier": 9,
@@ -5552,10 +2782,6 @@
       [
         "House",
         "Firefighter"
-      ],
-      [
-        "House",
-        "Firetruck"
       ],
       [
         "Firefighter",
@@ -5579,24 +2805,12 @@
         "Car"
       ],
       [
-        "Firefighter",
-        "Wagon"
-      ],
-      [
         "Fire",
         "Car"
       ],
       [
-        "Fire",
-        "Wagon"
-      ],
-      [
         "Fire extinguisher",
         "Car"
-      ],
-      [
-        "Fire extinguisher",
-        "Wagon"
       ]
     ]
   },
@@ -5612,10 +2826,6 @@
   "Fireworks": {
     "tier": 5,
     "recipes": [
-      [
-        "Explosion",
-        "Sky"
-      ],
       [
         "Explosion",
         "Atmosphere"
@@ -5640,22 +2850,6 @@
       [
         "Animal",
         "Lake"
-      ],
-      [
-        "Egg",
-        "Water"
-      ],
-      [
-        "Egg",
-        "Sea"
-      ],
-      [
-        "Egg",
-        "Ocean"
-      ],
-      [
-        "Egg",
-        "Lake"
       ]
     ]
   },
@@ -5668,47 +2862,7 @@
       ],
       [
         "Fish",
-        "Wood"
-      ],
-      [
-        "Fish",
         "Wire"
-      ],
-      [
-        "Fish",
-        "Thread"
-      ],
-      [
-        "Swordfish",
-        "Tool"
-      ],
-      [
-        "Swordfish",
-        "Wood"
-      ],
-      [
-        "Swordfish",
-        "Wire"
-      ],
-      [
-        "Swordfish",
-        "Thread"
-      ],
-      [
-        "Piranha",
-        "Tool"
-      ],
-      [
-        "Piranha",
-        "Wood"
-      ],
-      [
-        "Piranha",
-        "Wire"
-      ],
-      [
-        "Piranha",
-        "Thread"
       ]
     ]
   },
@@ -5718,10 +2872,6 @@
       [
         "Gun",
         "Fire"
-      ],
-      [
-        "Gun",
-        "Campfire"
       ],
       [
         "Gun",
@@ -5754,36 +2904,8 @@
     "tier": 5,
     "recipes": [
       [
-        "Rain",
-        "Rain"
-      ],
-      [
-        "Rain",
-        "River"
-      ],
-      [
-        "Rain",
-        "Lake"
-      ],
-      [
-        "Rain",
-        "Big"
-      ],
-      [
         "House",
         "River"
-      ],
-      [
-        "House",
-        "Tsunami"
-      ],
-      [
-        "River",
-        "City"
-      ],
-      [
-        "Tsunami",
-        "City"
       ]
     ]
   },
@@ -5805,10 +2927,6 @@
       [
         "Wheat",
         "Wheel"
-      ],
-      [
-        "Wheat",
-        "Rock"
       ]
     ]
   },
@@ -5817,50 +2935,17 @@
     "recipes": [
       [
         "Plant",
-        "Garden"
-      ],
-      [
-        "Plant",
         "Rainbow"
       ],
       [
         "Plant",
         "Double rainbow!"
-      ],
-      [
-        "Grass",
-        "Garden"
-      ],
-      [
-        "Grass",
-        "Seed"
-      ],
-      [
-        "Grass",
-        "Rainbow"
-      ],
-      [
-        "Grass",
-        "Double rainbow!"
-      ],
-      [
-        "Garden",
-        "Seed"
       ]
     ]
   },
   "Flute": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Wind"
-      ],
-      [
-        "Wood",
-        "Air"
-      ]
-    ]
+    "recipes": null
   },
   "Flying fish": {
     "tier": 9,
@@ -5881,40 +2966,7 @@
   },
   "Flying squirrel": {
     "tier": 12,
-    "recipes": [
-      [
-        "Squirrel",
-        "Bird"
-      ],
-      [
-        "Squirrel",
-        "Hummingbird"
-      ],
-      [
-        "Squirrel",
-        "Seagull"
-      ],
-      [
-        "Squirrel",
-        "Pigeon"
-      ],
-      [
-        "Squirrel",
-        "Air"
-      ],
-      [
-        "Squirrel",
-        "Airplane"
-      ],
-      [
-        "Squirrel",
-        "Seaplane"
-      ],
-      [
-        "Squirrel",
-        "Helicopter"
-      ]
-    ]
+    "recipes": null
   },
   "Fog": {
     "tier": 6,
@@ -5925,23 +2977,11 @@
       ],
       [
         "Cloud",
-        "Hill"
-      ],
-      [
-        "Cloud",
         "Mountain"
       ],
       [
         "Cloud",
-        "City"
-      ],
-      [
-        "Cloud",
         "Field"
-      ],
-      [
-        "Cloud",
-        "Forest"
       ]
     ]
   },
@@ -5951,37 +2991,12 @@
       [
         "Human",
         "Light sword"
-      ],
-      [
-        "Warrior",
-        "Light sword"
-      ],
-      [
-        "Knight",
-        "Light sword"
       ]
     ]
   },
   "Forest": {
     "tier": 10,
-    "recipes": [
-      [
-        "Tree",
-        "Tree"
-      ],
-      [
-        "Tree",
-        "Plant"
-      ],
-      [
-        "Tree",
-        "Land"
-      ],
-      [
-        "Tree",
-        "Container"
-      ]
-    ]
+    "recipes": null
   },
   "Fork": {
     "tier": 12,
@@ -5994,67 +3009,14 @@
   },
   "Fortune cookie": {
     "tier": 14,
-    "recipes": [
-      [
-        "Paper",
-        "Cookie"
-      ],
-      [
-        "Paper",
-        "Cookie dough"
-      ],
-      [
-        "Paper",
-        "Gingerbread man"
-      ]
-    ]
+    "recipes": null
   },
   "Fossil": {
     "tier": 9,
     "recipes": [
       [
-        "Dinosaur",
-        "Earth"
-      ],
-      [
-        "Dinosaur",
-        "Stone"
-      ],
-      [
-        "Dinosaur",
-        "Rock"
-      ],
-      [
-        "Bone",
-        "Earth"
-      ],
-      [
-        "Bone",
-        "Stone"
-      ],
-      [
-        "Bone",
-        "Rock"
-      ],
-      [
         "Corpse",
         "Stone"
-      ],
-      [
-        "Corpse",
-        "Rock"
-      ],
-      [
-        "Skeleton",
-        "Earth"
-      ],
-      [
-        "Skeleton",
-        "Stone"
-      ],
-      [
-        "Skeleton",
-        "Rock"
       ]
     ]
   },
@@ -6085,18 +3047,6 @@
       [
         "Chicken",
         "Dog"
-      ],
-      [
-        "Chicken coop",
-        "Animal"
-      ],
-      [
-        "Chicken coop",
-        "Wolf"
-      ],
-      [
-        "Chicken coop",
-        "Dog"
       ]
     ]
   },
@@ -6105,35 +3055,11 @@
     "recipes": [
       [
         "Corpse",
-        "Legend"
-      ],
-      [
-        "Corpse",
         "Lightning"
       ],
       [
         "Corpse",
         "Electricity"
-      ],
-      [
-        "Corpse",
-        "Story"
-      ],
-      [
-        "Zombie",
-        "Electricity"
-      ],
-      [
-        "Zombie",
-        "Lightning"
-      ],
-      [
-        "Monster",
-        "Story"
-      ],
-      [
-        "Monster",
-        "Corpse"
       ]
     ]
   },
@@ -6163,35 +3089,7 @@
       ],
       [
         "Cold",
-        "Steel"
-      ],
-      [
-        "Cold",
-        "Machine"
-      ],
-      [
-        "Cold",
         "Electricity"
-      ],
-      [
-        "Cold",
-        "Container"
-      ],
-      [
-        "Ice",
-        "Metal"
-      ],
-      [
-        "Ice",
-        "Steel"
-      ],
-      [
-        "Ice",
-        "Container"
-      ],
-      [
-        "Ice cream",
-        "Container"
       ]
     ]
   },
@@ -6204,14 +3102,6 @@
       ],
       [
         "Animal",
-        "Puddle"
-      ],
-      [
-        "Egg",
-        "Pond"
-      ],
-      [
-        "Egg",
         "Puddle"
       ]
     ]
@@ -6239,18 +3129,6 @@
       [
         "Flower",
         "Water"
-      ],
-      [
-        "Flower",
-        "Tree"
-      ],
-      [
-        "Tree",
-        "Farmer"
-      ],
-      [
-        "Farmer",
-        "Orchard"
       ]
     ]
   },
@@ -6259,15 +3137,7 @@
     "recipes": [
       [
         "Fruit",
-        "Tree"
-      ],
-      [
-        "Fruit",
         "Plant"
-      ],
-      [
-        "Fruit",
-        "Wood"
       ]
     ]
   },
@@ -6275,40 +3145,8 @@
     "tier": 5,
     "recipes": [
       [
-        "Star",
-        "Star"
-      ],
-      [
-        "Star",
-        "Solar system"
-      ],
-      [
-        "Star",
-        "Space"
-      ],
-      [
-        "Star",
-        "Container"
-      ],
-      [
         "Solar system",
         "Solar system"
-      ],
-      [
-        "Solar system",
-        "Space"
-      ],
-      [
-        "Solar system",
-        "Container"
-      ],
-      [
-        "Space",
-        "Space"
-      ],
-      [
-        "Supernova",
-        "Container"
       ]
     ]
   },
@@ -6318,10 +3156,6 @@
       [
         "Galaxy",
         "Galaxy"
-      ],
-      [
-        "Galaxy",
-        "Container"
       ]
     ]
   },
@@ -6343,150 +3177,6 @@
       [
         "Car",
         "Barn"
-      ],
-      [
-        "Ambulance",
-        "House"
-      ],
-      [
-        "Ambulance",
-        "Container"
-      ],
-      [
-        "Ambulance",
-        "Wall"
-      ],
-      [
-        "Ambulance",
-        "Barn"
-      ],
-      [
-        "Motorcycle",
-        "House"
-      ],
-      [
-        "Motorcycle",
-        "Container"
-      ],
-      [
-        "Motorcycle",
-        "Wall"
-      ],
-      [
-        "Motorcycle",
-        "Barn"
-      ],
-      [
-        "Bus",
-        "House"
-      ],
-      [
-        "Bus",
-        "Container"
-      ],
-      [
-        "Bus",
-        "Wall"
-      ],
-      [
-        "Bus",
-        "Barn"
-      ],
-      [
-        "Sleigh",
-        "House"
-      ],
-      [
-        "Sleigh",
-        "Container"
-      ],
-      [
-        "Sleigh",
-        "Wall"
-      ],
-      [
-        "Sleigh",
-        "Barn"
-      ],
-      [
-        "Electric car",
-        "House"
-      ],
-      [
-        "Electric car",
-        "Container"
-      ],
-      [
-        "Electric car",
-        "Wall"
-      ],
-      [
-        "Electric car",
-        "Barn"
-      ],
-      [
-        "Snowmobile",
-        "House"
-      ],
-      [
-        "Snowmobile",
-        "Container"
-      ],
-      [
-        "Snowmobile",
-        "Wall"
-      ],
-      [
-        "Snowmobile",
-        "Barn"
-      ],
-      [
-        "Tractor",
-        "House"
-      ],
-      [
-        "Tractor",
-        "Container"
-      ],
-      [
-        "Tractor",
-        "Wall"
-      ],
-      [
-        "Tractor",
-        "Barn"
-      ],
-      [
-        "Rv",
-        "House"
-      ],
-      [
-        "Rv",
-        "Container"
-      ],
-      [
-        "Rv",
-        "Wall"
-      ],
-      [
-        "Rv",
-        "Barn"
-      ],
-      [
-        "Ice cream truck",
-        "House"
-      ],
-      [
-        "Ice cream truck",
-        "Container"
-      ],
-      [
-        "Ice cream truck",
-        "Wall"
-      ],
-      [
-        "Ice cream truck",
-        "Barn"
       ]
     ]
   },
@@ -6495,39 +3185,7 @@
     "recipes": [
       [
         "Plant",
-        "Grass"
-      ],
-      [
-        "Plant",
         "House"
-      ],
-      [
-        "Plant",
-        "Lawn"
-      ],
-      [
-        "Flower",
-        "Flower"
-      ],
-      [
-        "Flower",
-        "Grass"
-      ],
-      [
-        "Flower",
-        "Plant"
-      ],
-      [
-        "Flower",
-        "House"
-      ],
-      [
-        "Flower",
-        "Lawn"
-      ],
-      [
-        "Flower",
-        "Container"
       ]
     ]
   },
@@ -6554,10 +3212,6 @@
       [
         "Air",
         "Science"
-      ],
-      [
-        "Energy",
-        "Liquid"
       ]
     ]
   },
@@ -6570,150 +3224,24 @@
       ],
       [
         "Steam",
-        "Hill"
-      ],
-      [
-        "Steam",
-        "Mountain"
-      ],
-      [
-        "Steam",
         "Pressure"
       ]
     ]
   },
   "Ghost": {
     "tier": 9,
-    "recipes": [
-      [
-        "Graveyard",
-        "Night"
-      ],
-      [
-        "Graveyard",
-        "Story"
-      ],
-      [
-        "Graveyard",
-        "Legend"
-      ],
-      [
-        "Graveyard",
-        "Curse"
-      ],
-      [
-        "Grave",
-        "Night"
-      ],
-      [
-        "Grave",
-        "Story"
-      ],
-      [
-        "Grave",
-        "Legend"
-      ],
-      [
-        "Grave",
-        "Curse"
-      ],
-      [
-        "Gravestone",
-        "Night"
-      ],
-      [
-        "Gravestone",
-        "Legend"
-      ],
-      [
-        "Gravestone",
-        "Story"
-      ],
-      [
-        "Castle",
-        "Night"
-      ],
-      [
-        "Night",
-        "Story"
-      ],
-      [
-        "Night",
-        "Legend"
-      ]
-    ]
+    "recipes": null
   },
   "Gift": {
     "tier": 12,
-    "recipes": [
-      [
-        "Christmas tree",
-        "Santa"
-      ],
-      [
-        "Christmas tree",
-        "Wrapping paper"
-      ],
-      [
-        "Santa",
-        "Christmas stocking"
-      ],
-      [
-        "Santa",
-        "Chimney"
-      ],
-      [
-        "Santa",
-        "Fireplace"
-      ],
-      [
-        "Santa",
-        "Cookie"
-      ],
-      [
-        "Santa",
-        "Milk"
-      ],
-      [
-        "Santa",
-        "Wrapping paper"
-      ],
-      [
-        "Christmas stocking",
-        "Wrapping paper"
-      ],
-      [
-        "Fireplace",
-        "Wrapping paper"
-      ]
-    ]
+    "recipes": null
   },
   "Gingerbread house": {
     "tier": 13,
     "recipes": [
       [
         "House",
-        "Gingerbread man"
-      ],
-      [
-        "House",
         "Dough"
-      ],
-      [
-        "House",
-        "Cookie dough"
-      ],
-      [
-        "House",
-        "Cookie"
-      ],
-      [
-        "House",
-        "Donut"
-      ],
-      [
-        "House",
-        "Cake"
       ]
     ]
   },
@@ -6731,30 +3259,6 @@
       [
         "Dough",
         "Story"
-      ],
-      [
-        "Cookie",
-        "Life"
-      ],
-      [
-        "Cookie",
-        "Magic"
-      ],
-      [
-        "Cookie",
-        "Story"
-      ],
-      [
-        "Cookie dough",
-        "Life"
-      ],
-      [
-        "Cookie dough",
-        "Magic"
-      ],
-      [
-        "Cookie dough",
-        "Story"
       ]
     ]
   },
@@ -6763,15 +3267,7 @@
     "recipes": [
       [
         "Mountain",
-        "Ice"
-      ],
-      [
-        "Mountain",
         "Snow"
-      ],
-      [
-        "Mountain range",
-        "Ice"
       ],
       [
         "Mountain range",
@@ -6789,14 +3285,6 @@
       [
         "Sand",
         "Heat"
-      ],
-      [
-        "Sand",
-        "Lightning"
-      ],
-      [
-        "Sand",
-        "Electricity"
       ]
     ]
   },
@@ -6810,22 +3298,6 @@
       [
         "Glass",
         "Metal"
-      ],
-      [
-        "Glass",
-        "Steel"
-      ],
-      [
-        "Glass",
-        "Human"
-      ],
-      [
-        "Human",
-        "Lens"
-      ],
-      [
-        "Lens",
-        "Lens"
       ]
     ]
   },
@@ -6834,19 +3306,7 @@
     "recipes": [
       [
         "Garden",
-        "Statue"
-      ],
-      [
-        "Garden",
-        "Legend"
-      ],
-      [
-        "Garden",
         "Story"
-      ],
-      [
-        "Garden",
-        "Fairy tale"
       ]
     ]
   },
@@ -6860,22 +3320,6 @@
       [
         "Livestock",
         "Mountain range"
-      ],
-      [
-        "Livestock",
-        "Hill"
-      ],
-      [
-        "Cow",
-        "Mountain"
-      ],
-      [
-        "Cow",
-        "Mountain range"
-      ],
-      [
-        "Cow",
-        "Hill"
       ]
     ]
   },
@@ -6884,63 +3328,7 @@
     "recipes": [
       [
         "Metal",
-        "Sun"
-      ],
-      [
-        "Steel",
-        "Sun"
-      ],
-      [
-        "Metal",
-        "Rainbow"
-      ],
-      [
-        "Steel",
-        "Rainbow"
-      ],
-      [
-        "Metal",
-        "Butter"
-      ],
-      [
-        "Steel",
-        "Butter"
-      ],
-      [
-        "Metal",
         "Sand"
-      ],
-      [
-        "Steel",
-        "Sand"
-      ],
-      [
-        "Metal",
-        "Light"
-      ],
-      [
-        "Steel",
-        "Light"
-      ],
-      [
-        "Metal",
-        "Alchemist"
-      ],
-      [
-        "Steel",
-        "Alchemist"
-      ],
-      [
-        "Metal",
-        "Philosopher's stone"
-      ],
-      [
-        "Steel",
-        "Philosopher's stone"
-      ],
-      [
-        "Quicksilver",
-        "Philosopher's stone"
       ]
     ]
   },
@@ -6950,22 +3338,6 @@
       [
         "Clay",
         "Story"
-      ],
-      [
-        "Clay",
-        "Legend"
-      ],
-      [
-        "Story",
-        "Statue"
-      ],
-      [
-        "Statue",
-        "Life"
-      ],
-      [
-        "Statue",
-        "Legend"
       ]
     ]
   },
@@ -6975,14 +3347,6 @@
       [
         "Pressure",
         "Lava"
-      ],
-      [
-        "Pressure",
-        "Stone"
-      ],
-      [
-        "Pressure",
-        "Rock"
       ]
     ]
   },
@@ -7004,103 +3368,21 @@
     "recipes": [
       [
         "Earth",
-        "Coffin"
-      ],
-      [
-        "Earth",
         "Corpse"
       ],
       [
         "Field",
-        "Coffin"
-      ],
-      [
-        "Field",
         "Corpse"
-      ],
-      [
-        "Forest",
-        "Corpse"
-      ],
-      [
-        "Forest",
-        "Coffin"
-      ],
-      [
-        "Gravestone",
-        "Grave"
-      ],
-      [
-        "Gravestone",
-        "Coffin"
-      ],
-      [
-        "Coffin",
-        "Container"
       ]
     ]
   },
   "Gravestone": {
     "tier": 8,
-    "recipes": [
-      [
-        "Grave",
-        "Stone"
-      ],
-      [
-        "Grave",
-        "Rock"
-      ],
-      [
-        "Death",
-        "Stone"
-      ],
-      [
-        "Death",
-        "Rock"
-      ],
-      [
-        "Graveyard",
-        "Stone"
-      ],
-      [
-        "Graveyard",
-        "Rock"
-      ]
-    ]
+    "recipes": null
   },
   "Graveyard": {
     "tier": 9,
-    "recipes": [
-      [
-        "Grave",
-        "Grave"
-      ],
-      [
-        "Grave",
-        "Field"
-      ],
-      [
-        "Grave",
-        "Land"
-      ],
-      [
-        "Gravestone",
-        "Gravestone"
-      ],
-      [
-        "Gravestone",
-        "Field"
-      ],
-      [
-        "Gravestone",
-        "Land"
-      ],
-      [
-        "Gravestone",
-        "Container"
-      ]
-    ]
+    "recipes": null
   },
   "Greenhouse": {
     "tier": 9,
@@ -7110,32 +3392,8 @@
         "Plant"
       ],
       [
-        "Glass",
-        "Grass"
-      ],
-      [
-        "Glass",
-        "Tree"
-      ],
-      [
-        "Glass",
-        "Garden"
-      ],
-      [
         "Aquarium",
         "Plant"
-      ],
-      [
-        "Aquarium",
-        "Tree"
-      ],
-      [
-        "Aquarium",
-        "Grass"
-      ],
-      [
-        "Plant",
-        "Container"
       ]
     ]
   },
@@ -7145,14 +3403,6 @@
       [
         "Explosion",
         "Metal"
-      ],
-      [
-        "Explosion",
-        "Steel"
-      ],
-      [
-        "Explosion",
-        "Warrior"
       ]
     ]
   },
@@ -7181,20 +3431,8 @@
         "Scythe"
       ],
       [
-        "Death",
-        "Scythe"
-      ],
-      [
-        "Boat",
-        "Scythe"
-      ],
-      [
         "River",
         "Scythe"
-      ],
-      [
-        "Scythe",
-        "Deity"
       ]
     ]
   },
@@ -7204,48 +3442,12 @@
       [
         "Bullet",
         "Metal"
-      ],
-      [
-        "Bullet",
-        "Steel"
-      ],
-      [
-        "Bullet",
-        "Bow"
-      ],
-      [
-        "Bullet",
-        "Container"
-      ],
-      [
-        "Bow",
-        "Metal"
-      ],
-      [
-        "Bow",
-        "Steel"
-      ],
-      [
-        "Bow",
-        "Gunpowder"
       ]
     ]
   },
   "Gunpowder": {
     "tier": 2,
     "recipes": [
-      [
-        "Charcoal",
-        "Mineral"
-      ],
-      [
-        "Energy",
-        "Mineral"
-      ],
-      [
-        "Energy",
-        "Charcoal"
-      ],
       [
         "Fire",
         "Dust"
@@ -7274,19 +3476,7 @@
     "recipes": [
       [
         "Human",
-        "Computer"
-      ],
-      [
-        "Human",
-        "Computer mouse"
-      ],
-      [
-        "Human",
         "Glasses"
-      ],
-      [
-        "Human",
-        "Internet"
       ]
     ]
   },
@@ -7337,10 +3527,6 @@
     "recipes": [
       [
         "Meat",
-        "Bread"
-      ],
-      [
-        "Meat",
         "Cheese"
       ]
     ]
@@ -7354,33 +3540,13 @@
       ],
       [
         "Tool",
-        "Steel"
-      ],
-      [
-        "Tool",
         "Stone"
-      ],
-      [
-        "Tool",
-        "Rock"
-      ],
-      [
-        "Tool",
-        "Woodpecker"
       ]
     ]
   },
   "Hamster": {
     "tier": 12,
     "recipes": [
-      [
-        "Mouse",
-        "Wheel"
-      ],
-      [
-        "Mouse",
-        "Domestication"
-      ],
       [
         "Rat",
         "Wheel"
@@ -7395,84 +3561,12 @@
     "tier": 6,
     "recipes": [
       [
-        "Airplane",
-        "Container"
-      ],
-      [
-        "Airplane",
-        "House"
-      ],
-      [
-        "Airplane",
-        "Wall"
-      ],
-      [
-        "Airplane",
-        "Barn"
-      ],
-      [
-        "Seaplane",
-        "Container"
-      ],
-      [
-        "Seaplane",
-        "House"
-      ],
-      [
-        "Seaplane",
-        "Wall"
-      ],
-      [
-        "Seaplane",
-        "Barn"
-      ],
-      [
-        "Helicopter",
-        "Container"
-      ],
-      [
-        "Helicopter",
-        "House"
-      ],
-      [
-        "Helicopter",
-        "Wall"
-      ],
-      [
-        "Helicopter",
-        "Barn"
-      ],
-      [
-        "Rocket",
-        "Container"
-      ],
-      [
         "Rocket",
         "House"
       ],
       [
         "Rocket",
         "Wall"
-      ],
-      [
-        "Rocket",
-        "Barn"
-      ],
-      [
-        "Spaceship",
-        "Container"
-      ],
-      [
-        "Spaceship",
-        "House"
-      ],
-      [
-        "Spaceship",
-        "Wall"
-      ],
-      [
-        "Spaceship",
-        "Barn"
       ]
     ]
   },
@@ -7481,29 +3575,13 @@
     "recipes": [
       [
         "Angel",
-        "Music"
-      ],
-      [
-        "Angel",
-        "Musician"
-      ],
-      [
-        "Angel",
         "Wire"
-      ],
-      [
-        "Wire",
-        "Music"
       ]
     ]
   },
   "Hay": {
     "tier": 10,
     "recipes": [
-      [
-        "Grass",
-        "Scythe"
-      ],
       [
         "Grass",
         "Farmer"
@@ -7523,22 +3601,6 @@
       [
         "Grass",
         "Farm"
-      ],
-      [
-        "Grass",
-        "Pitchfork"
-      ],
-      [
-        "Pitchfork",
-        "Barn"
-      ],
-      [
-        "Pitchfork",
-        "Farm"
-      ],
-      [
-        "Pitchfork",
-        "Farmer"
       ]
     ]
   },
@@ -7555,10 +3617,6 @@
       ],
       [
         "Hay",
-        "Tractor"
-      ],
-      [
-        "Hay",
         "Machine"
       ]
     ]
@@ -7566,18 +3624,6 @@
   "Heat": {
     "tier": 2,
     "recipes": [
-      [
-        "Fire",
-        "Idea"
-      ],
-      [
-        "Fire",
-        "Science"
-      ],
-      [
-        "Lava",
-        "Philosophy"
-      ],
       [
         "Air",
         "Energy"
@@ -7592,23 +3638,7 @@
         "Fence"
       ],
       [
-        "Leaf",
-        "Fence"
-      ],
-      [
-        "Garden",
-        "Fence"
-      ],
-      [
         "Plant",
-        "Wall"
-      ],
-      [
-        "Leaf",
-        "Wall"
-      ],
-      [
-        "Garden",
         "Wall"
       ]
     ]
@@ -7618,10 +3648,6 @@
     "recipes": [
       [
         "Animal",
-        "Needle"
-      ],
-      [
-        "Mouse",
         "Needle"
       ],
       [
@@ -7644,36 +3670,12 @@
       [
         "Airplane",
         "Wind turbine"
-      ],
-      [
-        "Seaplane",
-        "Blade"
-      ],
-      [
-        "Seaplane",
-        "Windmill"
-      ],
-      [
-        "Seaplane",
-        "Wind turbine"
       ]
     ]
   },
   "Hero": {
     "tier": 8,
     "recipes": [
-      [
-        "Human",
-        "Legend"
-      ],
-      [
-        "Dragon",
-        "Knight"
-      ],
-      [
-        "Human",
-        "Story"
-      ],
       [
         "Human",
         "Lightning"
@@ -7683,22 +3685,6 @@
   "Hill": {
     "tier": 11,
     "recipes": [
-      [
-        "Big",
-        "Boulder"
-      ],
-      [
-        "Earth",
-        "Boulder"
-      ],
-      [
-        "Stone",
-        "Boulder"
-      ],
-      [
-        "Boulder",
-        "Boulder"
-      ],
       [
         "Mountain",
         "Small"
@@ -7715,14 +3701,6 @@
       [
         "Horse",
         "Water"
-      ],
-      [
-        "Cow",
-        "River"
-      ],
-      [
-        "Cow",
-        "Water"
       ]
     ]
   },
@@ -7735,15 +3713,7 @@
       ],
       [
         "Bee",
-        "Beehive"
-      ],
-      [
-        "Bee",
         "Bee"
-      ],
-      [
-        "Beehive",
-        "Beekeeper"
       ]
     ]
   },
@@ -7785,31 +3755,7 @@
       ],
       [
         "Animal",
-        "Horseshoe"
-      ],
-      [
-        "Animal",
-        "Saddle"
-      ],
-      [
-        "Animal",
         "Land"
-      ],
-      [
-        "Livestock",
-        "Hay"
-      ],
-      [
-        "Livestock",
-        "Barn"
-      ],
-      [
-        "Livestock",
-        "Horseshoe"
-      ],
-      [
-        "Livestock",
-        "Saddle"
       ]
     ]
   },
@@ -7819,10 +3765,6 @@
       [
         "Horse",
         "Metal"
-      ],
-      [
-        "Horse",
-        "Steel"
       ]
     ]
   },
@@ -7834,38 +3776,14 @@
         "Sickness"
       ],
       [
-        "House",
-        "Ambulance"
-      ],
-      [
-        "House",
-        "Doctor"
-      ],
-      [
         "Wall",
         "Sickness"
-      ],
-      [
-        "Wall",
-        "Ambulance"
-      ],
-      [
-        "Wall",
-        "Doctor"
-      ],
-      [
-        "Doctor",
-        "Container"
       ]
     ]
   },
   "Hot chocolate": {
     "tier": 13,
     "recipes": [
-      [
-        "Chocolate milk",
-        "Heat"
-      ],
       [
         "Chocolate",
         "Heat"
@@ -7878,10 +3796,6 @@
       [
         "Sand",
         "Glass"
-      ],
-      [
-        "Sand",
-        "Container"
       ]
     ]
   },
@@ -7891,22 +3805,6 @@
       [
         "Wall",
         "Wall"
-      ],
-      [
-        "Wall",
-        "Human"
-      ],
-      [
-        "Wall",
-        "Tool"
-      ],
-      [
-        "Fireplace",
-        "Container"
-      ],
-      [
-        "Family",
-        "Container"
       ]
     ]
   },
@@ -7916,14 +3814,6 @@
       [
         "Clay",
         "Life"
-      ],
-      [
-        "Tool",
-        "Animal"
-      ],
-      [
-        "Tool",
-        "Monkey"
       ]
     ]
   },
@@ -7932,47 +3822,7 @@
     "recipes": [
       [
         "Bird",
-        "Flower"
-      ],
-      [
-        "Bird",
-        "Garden"
-      ],
-      [
-        "Bird",
-        "Small"
-      ],
-      [
-        "Bird",
-        "Bee"
-      ],
-      [
-        "Bird",
         "Butterfly"
-      ],
-      [
-        "Flower",
-        "Owl"
-      ],
-      [
-        "Flower",
-        "Pigeon"
-      ],
-      [
-        "Flower",
-        "Seagull"
-      ],
-      [
-        "Garden",
-        "Owl"
-      ],
-      [
-        "Garden",
-        "Pigeon"
-      ],
-      [
-        "Garden",
-        "Seagull"
       ]
     ]
   },
@@ -7980,20 +3830,8 @@
     "tier": 5,
     "recipes": [
       [
-        "Ocean",
-        "Tornado"
-      ],
-      [
         "Sea",
         "Tornado"
-      ],
-      [
-        "Ocean",
-        "Storm"
-      ],
-      [
-        "Sea",
-        "Storm"
       ]
     ]
   },
@@ -8034,16 +3872,8 @@
         "Cold"
       ],
       [
-        "Water",
-        "Solid"
-      ],
-      [
         "Puddle",
         "Cold"
-      ],
-      [
-        "Puddle",
-        "Solid"
       ]
     ]
   },
@@ -8074,10 +3904,6 @@
       [
         "Ice cream",
         "Bus"
-      ],
-      [
-        "Ice cream",
-        "Wagon"
       ]
     ]
   },
@@ -8095,27 +3921,11 @@
     "recipes": [
       [
         "Sea",
-        "Ice"
-      ],
-      [
-        "Sea",
-        "Antarctica"
-      ],
-      [
-        "Sea",
-        "Arctic"
-      ],
-      [
-        "Ocean",
-        "Ice"
-      ],
-      [
-        "Ocean",
         "Antarctica"
       ],
       [
         "Ocean",
-        "Arctic"
+        "Antarctica"
       ]
     ]
   },
@@ -8138,126 +3948,6 @@
       [
         "Human",
         "Light bulb"
-      ],
-      [
-        "Light bulb",
-        "Engineer"
-      ],
-      [
-        "Light bulb",
-        "Science"
-      ],
-      [
-        "Science",
-        "Science"
-      ],
-      [
-        "Philosophy",
-        "Science"
-      ],
-      [
-        "Engineer",
-        "Engineer"
-      ],
-      [
-        "Hacker",
-        "Hacker"
-      ],
-      [
-        "Lumberjack",
-        "Lumberjack"
-      ],
-      [
-        "Farmer",
-        "Farmer"
-      ],
-      [
-        "Firefighter",
-        "Firefighter"
-      ],
-      [
-        "Electrician",
-        "Electrician"
-      ],
-      [
-        "Astronaut",
-        "Astronaut"
-      ],
-      [
-        "Warrior",
-        "Warrior"
-      ],
-      [
-        "Butcher",
-        "Butcher"
-      ],
-      [
-        "Doctor",
-        "Doctor"
-      ],
-      [
-        "Pilot",
-        "Pilot"
-      ],
-      [
-        "Baker",
-        "Baker"
-      ],
-      [
-        "Sailor",
-        "Sailor"
-      ],
-      [
-        "Surfer",
-        "Surfer"
-      ],
-      [
-        "Swimmer",
-        "Swimmer"
-      ],
-      [
-        "Cyclist",
-        "Cyclist"
-      ],
-      [
-        "Knight",
-        "Knight"
-      ],
-      [
-        "Monarch",
-        "Monarch"
-      ],
-      [
-        "Angler",
-        "Angler"
-      ],
-      [
-        "Mailman",
-        "Mailman"
-      ],
-      [
-        "Gardener",
-        "Gardener"
-      ],
-      [
-        "Philosophy",
-        "Philosophy"
-      ],
-      [
-        "Skier",
-        "Skier"
-      ],
-      [
-        "Diver",
-        "Diver"
-      ],
-      [
-        "Librarian",
-        "Librarian"
-      ],
-      [
-        "Alchemist",
-        "Alchemist"
       ]
     ]
   },
@@ -8266,19 +3956,7 @@
     "recipes": [
       [
         "House",
-        "Ice"
-      ],
-      [
-        "House",
-        "Cold"
-      ],
-      [
-        "House",
         "Snow"
-      ],
-      [
-        "House",
-        "Snowman"
       ]
     ]
   },
@@ -8292,14 +3970,6 @@
       [
         "Computer",
         "Wire"
-      ],
-      [
-        "Computer",
-        "Web"
-      ],
-      [
-        "Computer",
-        "Net"
       ]
     ]
   },
@@ -8308,18 +3978,6 @@
     "recipes": [
       [
         "Volcano",
-        "Sea"
-      ],
-      [
-        "Volcano",
-        "Ocean"
-      ],
-      [
-        "Maui's fishhook",
-        "Ocean"
-      ],
-      [
-        "Maui's fishhook",
         "Sea"
       ]
     ]
@@ -8330,48 +3988,12 @@
       [
         "Plant",
         "Wall"
-      ],
-      [
-        "Grass",
-        "Wall"
       ]
     ]
   },
   "Jack-o'-lantern": {
     "tier": 10,
     "recipes": [
-      [
-        "Pumpkin",
-        "Fire"
-      ],
-      [
-        "Pumpkin",
-        "Candle"
-      ],
-      [
-        "Pumpkin",
-        "Light"
-      ],
-      [
-        "Pumpkin",
-        "Night"
-      ],
-      [
-        "Pumpkin",
-        "Ghost"
-      ],
-      [
-        "Pumpkin",
-        "Skeleton"
-      ],
-      [
-        "Vegetable",
-        "Ghost"
-      ],
-      [
-        "Vegetable",
-        "Skeleton"
-      ],
       [
         "Vegetable",
         "Night"
@@ -8381,10 +4003,6 @@
   "Jam": {
     "tier": 11,
     "recipes": [
-      [
-        "Juice",
-        "Sugar"
-      ],
       [
         "Juice",
         "Fruit"
@@ -8432,15 +4050,7 @@
         "Sun"
       ],
       [
-        "Steak",
-        "Sun"
-      ],
-      [
         "Meat",
-        "Heat"
-      ],
-      [
-        "Steak",
         "Heat"
       ]
     ]
@@ -8449,40 +4059,12 @@
     "tier": 10,
     "recipes": [
       [
-        "Fruit",
-        "Pressure"
-      ],
-      [
-        "Fruit",
-        "Earth"
-      ],
-      [
-        "Fruit",
-        "Stone"
-      ],
-      [
-        "Fruit",
-        "Rock"
-      ],
-      [
-        "Fruit",
-        "Explosion"
-      ],
-      [
-        "Fruit",
-        "Water"
-      ],
-      [
         "Vegetable",
         "Pressure"
       ],
       [
         "Vegetable",
         "Stone"
-      ],
-      [
-        "Vegetable",
-        "Rock"
       ],
       [
         "Vegetable",
@@ -8500,57 +4082,12 @@
       [
         "Planet",
         "Cloud"
-      ],
-      [
-        "Planet",
-        "Storm"
-      ],
-      [
-        "Planet",
-        "Big"
-      ],
-      [
-        "Planet",
-        "Gas"
-      ],
-      [
-        "Planet",
-        "Zeus"
-      ],
-      [
-        "Saturn",
-        "Big"
       ]
     ]
   },
   "Kaiju": {
     "tier": 10,
-    "recipes": [
-      [
-        "Dinosaur",
-        "City"
-      ],
-      [
-        "Dinosaur",
-        "Skyscraper"
-      ],
-      [
-        "Dinosaur",
-        "Legend"
-      ],
-      [
-        "Dinosaur",
-        "Story"
-      ],
-      [
-        "Monster",
-        "City"
-      ],
-      [
-        "Monster",
-        "Skyscraper"
-      ]
-    ]
+    "recipes": null
   },
   "Katana": {
     "tier": 5,
@@ -8558,41 +4095,12 @@
       [
         "Blade",
         "Heat"
-      ],
-      [
-        "Blade",
-        "Shuriken"
-      ],
-      [
-        "Blade",
-        "Ninja"
-      ],
-      [
-        "Sword",
-        "Shuriken"
-      ],
-      [
-        "Sword",
-        "Ninja"
       ]
     ]
   },
   "Kite": {
     "tier": 12,
-    "recipes": [
-      [
-        "Paper",
-        "Wind"
-      ],
-      [
-        "Paper",
-        "Sky"
-      ],
-      [
-        "Paper",
-        "Air"
-      ]
-    ]
+    "recipes": null
   },
   "Knife": {
     "tier": 11,
@@ -8610,14 +4118,6 @@
   "Knight": {
     "tier": 9,
     "recipes": [
-      [
-        "Human",
-        "Armor"
-      ],
-      [
-        "Warrior",
-        "Armor"
-      ],
       [
         "Warrior",
         "Hero"
@@ -8637,15 +4137,7 @@
       ],
       [
         "Pond",
-        "Big"
-      ],
-      [
-        "Pond",
         "Pond"
-      ],
-      [
-        "Sea",
-        "Small"
       ]
     ]
   },
@@ -8655,10 +4147,6 @@
       [
         "Light bulb",
         "Metal"
-      ],
-      [
-        "Light bulb",
-        "Steel"
       ]
     ]
   },
@@ -8666,24 +4154,8 @@
     "tier": 1,
     "recipes": [
       [
-        "Soil",
-        "Soil"
-      ],
-      [
-        "Soil",
-        "Big"
-      ],
-      [
-        "Continent",
-        "Small"
-      ],
-      [
         "Earth",
         "Earth"
-      ],
-      [
-        "Earth",
-        "Stone"
       ]
     ]
   },
@@ -8731,14 +4203,6 @@
       [
         "Earth",
         "Fire"
-      ],
-      [
-        "Earth",
-        "Heat"
-      ],
-      [
-        "Earth",
-        "Liquid"
       ]
     ]
   },
@@ -8765,18 +4229,6 @@
       [
         "Grass",
         "House"
-      ],
-      [
-        "Grass",
-        "Container"
-      ],
-      [
-        "Grass",
-        "Lawn mower"
-      ],
-      [
-        "Field",
-        "Lawn mower"
       ]
     ]
   },
@@ -8790,34 +4242,6 @@
       [
         "Grass",
         "Machine"
-      ],
-      [
-        "Scythe",
-        "Electricity"
-      ],
-      [
-        "Scythe",
-        "Helicopter"
-      ],
-      [
-        "Scythe",
-        "Windmill"
-      ],
-      [
-        "Scythe",
-        "Tool"
-      ],
-      [
-        "Scythe",
-        "Machine"
-      ],
-      [
-        "Scythe",
-        "Motion"
-      ],
-      [
-        "Helicopter",
-        "Field"
       ]
     ]
   },
@@ -8825,19 +4249,7 @@
     "tier": 10,
     "recipes": [
       [
-        "Tree",
-        "Wind"
-      ],
-      [
         "Flower",
-        "Wind"
-      ],
-      [
-        "Orchard",
-        "Wind"
-      ],
-      [
-        "Forest",
         "Wind"
       ]
     ]
@@ -8847,39 +4259,15 @@
     "recipes": [
       [
         "Blade",
-        "Cow"
-      ],
-      [
-        "Blade",
         "Pig"
-      ],
-      [
-        "Blade",
-        "Sheep"
-      ],
-      [
-        "Sword",
-        "Cow"
       ],
       [
         "Sword",
         "Pig"
       ],
       [
-        "Sword",
-        "Sheep"
-      ],
-      [
-        "Tool",
-        "Cow"
-      ],
-      [
         "Tool",
         "Pig"
-      ],
-      [
-        "Tool",
-        "Sheep"
       ]
     ]
   },
@@ -8889,18 +4277,6 @@
       [
         "Story",
         "Story"
-      ],
-      [
-        "Story",
-        "Big"
-      ],
-      [
-        "Story",
-        "Fairy tale"
-      ],
-      [
-        "Fairy tale",
-        "Big"
       ]
     ]
   },
@@ -8910,21 +4286,12 @@
       [
         "Glass",
         "Tool"
-      ],
-      [
-        "Glass",
-        "Engineer"
       ]
     ]
   },
   "Letter": {
     "tier": 12,
-    "recipes": [
-      [
-        "Paper",
-        "Pencil"
-      ]
-    ]
+    "recipes": null
   },
   "Librarian": {
     "tier": 13,
@@ -8953,47 +4320,11 @@
     "recipes": [
       [
         "Primordial soup",
-        "Electricity"
-      ],
-      [
-        "Primordial soup",
-        "Storm"
-      ],
-      [
-        "Primordial soup",
         "Volcano"
       ],
       [
         "Primordial soup",
-        "Lightning"
-      ],
-      [
-        "Primordial soup",
         "Energy"
-      ],
-      [
-        "Electricity",
-        "Ocean"
-      ],
-      [
-        "Electricity",
-        "Sea"
-      ],
-      [
-        "Electricity",
-        "Lake"
-      ],
-      [
-        "Lightning",
-        "Ocean"
-      ],
-      [
-        "Lightning",
-        "Sea"
-      ],
-      [
-        "Lightning",
-        "Lake"
       ]
     ]
   },
@@ -9003,10 +4334,6 @@
       [
         "Electricity",
         "Light bulb"
-      ],
-      [
-        "Electricity",
-        "Flashlight"
       ]
     ]
   },
@@ -9016,14 +4343,6 @@
       [
         "Glass",
         "Electricity"
-      ],
-      [
-        "Glass",
-        "Light"
-      ],
-      [
-        "Light",
-        "Container"
       ]
     ]
   },
@@ -9032,23 +4351,7 @@
     "recipes": [
       [
         "Sword",
-        "Light"
-      ],
-      [
-        "Sword",
-        "Electricity"
-      ],
-      [
-        "Sword",
         "Energy"
-      ],
-      [
-        "Sword",
-        "Space"
-      ],
-      [
-        "Sword",
-        "Force knight"
       ]
     ]
   },
@@ -9070,22 +4373,6 @@
       [
         "Light",
         "Beach"
-      ],
-      [
-        "Spotlight",
-        "House"
-      ],
-      [
-        "Spotlight",
-        "Ocean"
-      ],
-      [
-        "Spotlight",
-        "Sea"
-      ],
-      [
-        "Spotlight",
-        "Beach"
       ]
     ]
   },
@@ -9093,40 +4380,8 @@
     "tier": 6,
     "recipes": [
       [
-        "Electricity",
-        "Cloud"
-      ],
-      [
-        "Electricity",
-        "Storm"
-      ],
-      [
-        "Electricity",
-        "Rain"
-      ],
-      [
         "Energy",
         "Cloud"
-      ],
-      [
-        "Energy",
-        "Storm"
-      ],
-      [
-        "Energy",
-        "Rain"
-      ],
-      [
-        "Land",
-        "Storm"
-      ],
-      [
-        "Zeus",
-        "Tool"
-      ],
-      [
-        "Cyclops",
-        "Tool"
       ]
     ]
   },
@@ -9140,10 +4395,6 @@
       [
         "Cat",
         "Blood"
-      ],
-      [
-        "Cat",
-        "Big"
       ],
       [
         "Cat",
@@ -9161,10 +4412,6 @@
       [
         "Water",
         "Idea"
-      ],
-      [
-        "Energy",
-        "Solid"
       ]
     ]
   },
@@ -9186,15 +4433,7 @@
       ],
       [
         "Animal",
-        "Farmer"
-      ],
-      [
-        "Animal",
         "Barn"
-      ],
-      [
-        "Animal",
-        "Domestication"
       ]
     ]
   },
@@ -9206,47 +4445,14 @@
         "Animal"
       ],
       [
-        "Rock",
-        "Animal"
-      ],
-      [
-        "Swamp",
-        "Animal"
-      ],
-      [
         "Heat",
         "Animal"
-      ],
-      [
-        "Egg",
-        "Stone"
-      ],
-      [
-        "Egg",
-        "Rock"
-      ],
-      [
-        "Egg",
-        "Swamp"
-      ],
-      [
-        "Dinosaur",
-        "Small"
-      ],
-      [
-        "Blood",
-        "Cold"
       ]
     ]
   },
   "Log cabin": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "House"
-      ]
-    ]
+    "recipes": null
   },
   "Love": {
     "tier": 8,
@@ -9254,37 +4460,12 @@
       [
         "Human",
         "Human"
-      ],
-      [
-        "Cupid",
-        "Bow"
-      ],
-      [
-        "Cupid",
-        "Arrow"
       ]
     ]
   },
   "Lumberjack": {
     "tier": 10,
-    "recipes": [
-      [
-        "Human",
-        "Axe"
-      ],
-      [
-        "Human",
-        "Chainsaw"
-      ],
-      [
-        "Human",
-        "Wood"
-      ],
-      [
-        "Human",
-        "Tree"
-      ]
-    ]
+    "recipes": null
   },
   "Mac and cheese": {
     "tier": 13,
@@ -9300,23 +4481,11 @@
     "recipes": [
       [
         "Tool",
-        "Wheel"
-      ],
-      [
-        "Tool",
         "Tool"
       ],
       [
         "Tool",
         "Chain"
-      ],
-      [
-        "Tool",
-        "Engineer"
-      ],
-      [
-        "Boiler",
-        "Wheel"
       ],
       [
         "Boiler",
@@ -9338,14 +4507,6 @@
       [
         "Life",
         "Double rainbow!"
-      ],
-      [
-        "Energy",
-        "Witch"
-      ],
-      [
-        "Energy",
-        "Wizard"
       ]
     ]
   },
@@ -9364,74 +4525,15 @@
   },
   "Mail truck": {
     "tier": 13,
-    "recipes": [
-      [
-        "Car",
-        "Letter"
-      ],
-      [
-        "Car",
-        "Mailman"
-      ],
-      [
-        "Car",
-        "Post office"
-      ]
-    ]
+    "recipes": null
   },
   "Mailbox": {
     "tier": 13,
-    "recipes": [
-      [
-        "Letter",
-        "Box"
-      ],
-      [
-        "Letter",
-        "Metal"
-      ],
-      [
-        "Letter",
-        "Steel"
-      ],
-      [
-        "Letter",
-        "Wood"
-      ],
-      [
-        "Mailman",
-        "Box"
-      ],
-      [
-        "Mailman",
-        "Metal"
-      ],
-      [
-        "Mailman",
-        "Steel"
-      ],
-      [
-        "Mailman",
-        "Wood"
-      ]
-    ]
+    "recipes": null
   },
   "Mailman": {
     "tier": 13,
-    "recipes": [
-      [
-        "Human",
-        "Letter"
-      ],
-      [
-        "Human",
-        "Newspaper"
-      ],
-      [
-        "Letter",
-        "Mailbox"
-      ]
-    ]
+    "recipes": null
   },
   "Manatee": {
     "tier": 10,
@@ -9460,65 +4562,11 @@
   },
   "Map": {
     "tier": 12,
-    "recipes": [
-      [
-        "Paper",
-        "Land"
-      ],
-      [
-        "Paper",
-        "Hill"
-      ],
-      [
-        "Paper",
-        "Mountain"
-      ],
-      [
-        "Paper",
-        "Mountain range"
-      ],
-      [
-        "Paper",
-        "Continent"
-      ],
-      [
-        "Paper",
-        "Ocean"
-      ],
-      [
-        "Paper",
-        "Sea"
-      ],
-      [
-        "Paper",
-        "Lake"
-      ],
-      [
-        "Paper",
-        "River"
-      ],
-      [
-        "Paper",
-        "City"
-      ],
-      [
-        "Paper",
-        "Village"
-      ]
-    ]
+    "recipes": null
   },
   "Maple syrup": {
     "tier": 11,
-    "recipes": [
-      [
-        "Sap",
-        "Heat"
-      ],
-      [
-        "Sap",
-        "Sugar"
-      ]
-    ]
+    "recipes": null
   },
   "Mars": {
     "tier": 5,
@@ -9535,12 +4583,7 @@
   },
   "Marshmallows": {
     "tier": 12,
-    "recipes": [
-      [
-        "Sugar",
-        "Campfire"
-      ]
-    ]
+    "recipes": null
   },
   "Mayonnaise": {
     "tier": 11,
@@ -9555,168 +4598,8 @@
     "tier": 8,
     "recipes": [
       [
-        "Tool",
-        "Livestock"
-      ],
-      [
-        "Tool",
-        "Chicken"
-      ],
-      [
-        "Tool",
-        "Pig"
-      ],
-      [
-        "Tool",
-        "Cow"
-      ],
-      [
-        "Tool",
-        "Animal"
-      ],
-      [
-        "Tool",
-        "Fish"
-      ],
-      [
-        "Tool",
-        "Swordfish"
-      ],
-      [
-        "Tool",
-        "Flying fish"
-      ],
-      [
-        "Tool",
-        "Shark"
-      ],
-      [
-        "Tool",
-        "Frog"
-      ],
-      [
-        "Axe",
-        "Livestock"
-      ],
-      [
-        "Axe",
-        "Chicken"
-      ],
-      [
-        "Axe",
-        "Pig"
-      ],
-      [
-        "Axe",
-        "Cow"
-      ],
-      [
-        "Axe",
-        "Animal"
-      ],
-      [
-        "Axe",
-        "Fish"
-      ],
-      [
-        "Axe",
-        "Swordfish"
-      ],
-      [
-        "Axe",
-        "Flying fish"
-      ],
-      [
-        "Axe",
-        "Shark"
-      ],
-      [
-        "Axe",
-        "Frog"
-      ],
-      [
-        "Sword",
-        "Livestock"
-      ],
-      [
-        "Sword",
-        "Chicken"
-      ],
-      [
-        "Sword",
-        "Pig"
-      ],
-      [
-        "Sword",
-        "Cow"
-      ],
-      [
         "Sword",
         "Animal"
-      ],
-      [
-        "Sword",
-        "Shark"
-      ],
-      [
-        "Butcher",
-        "Livestock"
-      ],
-      [
-        "Butcher",
-        "Chicken"
-      ],
-      [
-        "Butcher",
-        "Pig"
-      ],
-      [
-        "Butcher",
-        "Cow"
-      ],
-      [
-        "Butcher",
-        "Animal"
-      ],
-      [
-        "Butcher",
-        "Fish"
-      ],
-      [
-        "Butcher",
-        "Swordfish"
-      ],
-      [
-        "Butcher",
-        "Flying fish"
-      ],
-      [
-        "Butcher",
-        "Shark"
-      ],
-      [
-        "Butcher",
-        "Frog"
-      ],
-      [
-        "Net",
-        "Fish"
-      ],
-      [
-        "Net",
-        "Swordfish"
-      ],
-      [
-        "Net",
-        "Shark"
-      ],
-      [
-        "Net",
-        "Piranha"
-      ],
-      [
-        "Net",
-        "Flying fish"
       ]
     ]
   },
@@ -9729,14 +4612,6 @@
       ],
       [
         "Snake",
-        "Story"
-      ],
-      [
-        "Snake",
-        "Legend"
-      ],
-      [
-        "Snake",
         "Hero"
       ]
     ]
@@ -9744,10 +4619,6 @@
   "Mercury": {
     "tier": 4,
     "recipes": [
-      [
-        "Planet",
-        "Small"
-      ],
       [
         "Planet",
         "Heat"
@@ -9763,19 +4634,11 @@
       ],
       [
         "Fish",
-        "Legend"
-      ],
-      [
-        "Fish",
         "Magic"
       ],
       [
         "Fish",
         "Swimmer"
-      ],
-      [
-        "Fish",
-        "Selkie"
       ],
       [
         "Swimmer",
@@ -9793,18 +4656,6 @@
       [
         "Stone",
         "Heat"
-      ],
-      [
-        "Ore",
-        "Fire"
-      ],
-      [
-        "Ore",
-        "Heat"
-      ],
-      [
-        "Ore",
-        "Tool"
       ]
     ]
   },
@@ -9822,14 +4673,6 @@
       [
         "Meteoroid",
         "Air"
-      ],
-      [
-        "Meteoroid",
-        "Night"
-      ],
-      [
-        "Meteoroid",
-        "Day"
       ]
     ]
   },
@@ -9837,40 +4680,12 @@
     "tier": 5,
     "recipes": [
       [
-        "Space",
-        "Stone"
-      ],
-      [
-        "Space",
-        "Rock"
-      ],
-      [
-        "Space",
-        "Boulder"
-      ],
-      [
         "Solar system",
         "Stone"
       ],
       [
-        "Solar system",
-        "Rock"
-      ],
-      [
-        "Solar system",
-        "Boulder"
-      ],
-      [
         "Sun",
         "Stone"
-      ],
-      [
-        "Sun",
-        "Rock"
-      ],
-      [
-        "Sun",
-        "Boulder"
       ]
     ]
   },
@@ -9888,14 +4703,6 @@
       [
         "Bacteria",
         "Safety glasses"
-      ],
-      [
-        "Bacteria",
-        "Lens"
-      ],
-      [
-        "Tool",
-        "Lens"
       ]
     ]
   },
@@ -9955,32 +4762,7 @@
   },
   "Mineral": {
     "tier": 9,
-    "recipes": [
-      [
-        "Organic matter",
-        "Stone"
-      ],
-      [
-        "Organic matter",
-        "Rock"
-      ],
-      [
-        "Organic matter",
-        "Earth"
-      ],
-      [
-        "Organic matter",
-        "Boulder"
-      ],
-      [
-        "Organic matter",
-        "Hill"
-      ],
-      [
-        "Organic matter",
-        "Mountain"
-      ]
-    ]
+    "recipes": null
   },
   "Minotaur": {
     "tier": 10,
@@ -9996,14 +4778,6 @@
       [
         "Cow",
         "Story"
-      ],
-      [
-        "Cow",
-        "Legend"
-      ],
-      [
-        "Cow",
-        "Monster"
       ]
     ]
   },
@@ -10013,14 +4787,6 @@
       [
         "Glass",
         "Metal"
-      ],
-      [
-        "Glass",
-        "Steel"
-      ],
-      [
-        "Glass",
-        "Wood"
       ]
     ]
   },
@@ -10030,28 +4796,12 @@
       [
         "Air",
         "Water"
-      ],
-      [
-        "Air",
-        "Steam"
-      ],
-      [
-        "Air",
-        "Rain"
       ]
     ]
   },
   "Mold": {
     "tier": 10,
     "recipes": [
-      [
-        "Bread",
-        "Bacteria"
-      ],
-      [
-        "Fruit",
-        "Bacteria"
-      ],
       [
         "Vegetable",
         "Bacteria"
@@ -10063,74 +4813,24 @@
     "recipes": [
       [
         "Human",
-        "Castle"
-      ],
-      [
-        "Human",
         "Excalibur"
       ]
     ]
   },
   "Money": {
     "tier": 12,
-    "recipes": [
-      [
-        "Paper",
-        "Gold"
-      ],
-      [
-        "Paper",
-        "Diamond"
-      ],
-      [
-        "Paper",
-        "Bank"
-      ]
-    ]
+    "recipes": null
   },
   "Monkey": {
     "tier": 10,
-    "recipes": [
-      [
-        "Animal",
-        "Tree"
-      ]
-    ]
+    "recipes": null
   },
   "Moon": {
     "tier": 4,
     "recipes": [
       [
-        "Sky",
-        "Cheese"
-      ],
-      [
-        "Sky",
-        "Planet"
-      ],
-      [
-        "Sky",
-        "Stone"
-      ],
-      [
         "Stone",
         "Planet"
-      ],
-      [
-        "Night",
-        "Planet"
-      ],
-      [
-        "Night",
-        "Stone"
-      ],
-      [
-        "Night",
-        "Earth"
-      ],
-      [
-        "Night",
-        "Cheese"
       ]
     ]
   },
@@ -10140,10 +4840,6 @@
       [
         "Moon",
         "Car"
-      ],
-      [
-        "Moon",
-        "Electric car"
       ]
     ]
   },
@@ -10153,38 +4849,6 @@
       [
         "Stone",
         "Plant"
-      ],
-      [
-        "Stone",
-        "Grass"
-      ],
-      [
-        "Stone",
-        "Algae"
-      ],
-      [
-        "Rock",
-        "Plant"
-      ],
-      [
-        "Rock",
-        "Grass"
-      ],
-      [
-        "Rock",
-        "Algae"
-      ],
-      [
-        "Boulder",
-        "Plant"
-      ],
-      [
-        "Boulder",
-        "Grass"
-      ],
-      [
-        "Boulder",
-        "Algae"
       ]
     ]
   },
@@ -10201,19 +4865,11 @@
       ],
       [
         "Butterfly",
-        "Candle"
-      ],
-      [
-        "Butterfly",
         "Light"
       ],
       [
         "Butterfly",
         "Lamp"
-      ],
-      [
-        "Butterfly",
-        "Flashlight"
       ]
     ]
   },
@@ -10229,32 +4885,12 @@
         "Idea"
       ],
       [
-        "Wind",
-        "Philosophy"
-      ],
-      [
         "Tornado",
         "Science"
       ],
       [
-        "Tornado",
-        "Philosophy"
-      ],
-      [
-        "Stream",
-        "Science"
-      ],
-      [
-        "Stream",
-        "Philosophy"
-      ],
-      [
         "River",
         "Science"
-      ],
-      [
-        "River",
-        "Philosophy"
       ]
     ]
   },
@@ -10287,28 +4923,8 @@
     "tier": 3,
     "recipes": [
       [
-        "Big",
-        "Hill"
-      ],
-      [
         "Earth",
         "Earthquake"
-      ],
-      [
-        "Earth",
-        "Hill"
-      ],
-      [
-        "Hill",
-        "Hill"
-      ],
-      [
-        "Hill",
-        "Earthquake"
-      ],
-      [
-        "Earth",
-        "Big"
       ]
     ]
   },
@@ -10368,19 +4984,11 @@
     "recipes": [
       [
         "Cheese",
-        "Wood"
-      ],
-      [
-        "Cheese",
         "Metal"
       ],
       [
         "Cheese",
         "Steel"
-      ],
-      [
-        "Mouse",
-        "Blade"
       ]
     ]
   },
@@ -10390,10 +4998,6 @@
       [
         "Water",
         "Earth"
-      ],
-      [
-        "Water",
-        "Soil"
       ]
     ]
   },
@@ -10402,75 +5006,17 @@
     "recipes": [
       [
         "Pyramid",
-        "Corpse"
-      ],
-      [
-        "Pyramid",
-        "Fabric"
-      ],
-      [
-        "Pyramid",
         "Human"
-      ],
-      [
-        "Corpse",
-        "Fabric"
-      ],
-      [
-        "Corpse",
-        "Book of the dead"
-      ],
-      [
-        "Human",
-        "Book of the dead"
       ]
     ]
   },
   "Music": {
     "tier": 13,
-    "recipes": [
-      [
-        "Musician",
-        "Flute"
-      ],
-      [
-        "Musician",
-        "Sheet music"
-      ],
-      [
-        "Musician",
-        "Drum"
-      ],
-      [
-        "Musician",
-        "Pan flute"
-      ]
-    ]
+    "recipes": null
   },
   "Musician": {
     "tier": 12,
-    "recipes": [
-      [
-        "Human",
-        "Flute"
-      ],
-      [
-        "Human",
-        "Music"
-      ],
-      [
-        "Human",
-        "Sheet music"
-      ],
-      [
-        "Human",
-        "Drum"
-      ],
-      [
-        "Human",
-        "Pan flute"
-      ]
-    ]
+    "recipes": null
   },
   "Narwhal": {
     "tier": 10,
@@ -10527,18 +5073,6 @@
     "recipes": [
       [
         "Lake",
-        "Legend"
-      ],
-      [
-        "Lake",
-        "Story"
-      ],
-      [
-        "Dinosaur",
-        "Legend"
-      ],
-      [
-        "Dinosaur",
         "Story"
       ]
     ]
@@ -10548,45 +5082,13 @@
     "recipes": [
       [
         "Bird",
-        "Tree"
-      ],
-      [
-        "Bird",
-        "Hay"
-      ],
-      [
-        "Bird",
-        "Grass"
-      ],
-      [
-        "Bird",
         "House"
-      ],
-      [
-        "Egg",
-        "Hay"
-      ],
-      [
-        "Egg",
-        "Tree"
-      ],
-      [
-        "Egg",
-        "Grass"
-      ],
-      [
-        "Egg",
-        "Container"
       ]
     ]
   },
   "Net": {
     "tier": 10,
     "recipes": [
-      [
-        "Angler",
-        "Rope"
-      ],
       [
         "Fishing rod",
         "Rope"
@@ -10607,20 +5109,7 @@
   },
   "Newspaper": {
     "tier": 12,
-    "recipes": [
-      [
-        "Paper",
-        "Paper"
-      ],
-      [
-        "Paper",
-        "Story"
-      ],
-      [
-        "Letter",
-        "Letter"
-      ]
-    ]
+    "recipes": null
   },
   "Night": {
     "tier": 6,
@@ -10645,10 +5134,6 @@
     "recipes": [
       [
         "Turtle",
-        "Ninja"
-      ],
-      [
-        "Turtle",
         "Shuriken"
       ],
       [
@@ -10659,20 +5144,7 @@
   },
   "Nuts": {
     "tier": 10,
-    "recipes": [
-      [
-        "Tree",
-        "Farmer"
-      ],
-      [
-        "Tree",
-        "Field"
-      ],
-      [
-        "Tree",
-        "Domestication"
-      ]
-    ]
+    "recipes": null
   },
   "Oasis": {
     "tier": 5,
@@ -10696,18 +5168,6 @@
       [
         "Desert",
         "Lake"
-      ],
-      [
-        "Desert",
-        "Stream"
-      ],
-      [
-        "Desert",
-        "Tree"
-      ],
-      [
-        "Desert",
-        "Palm"
       ]
     ]
   },
@@ -10717,14 +5177,6 @@
       [
         "Lava",
         "Water"
-      ],
-      [
-        "Lava",
-        "Cold"
-      ],
-      [
-        "Lava",
-        "Glass"
       ]
     ]
   },
@@ -10738,14 +5190,6 @@
       [
         "Sea",
         "Water"
-      ],
-      [
-        "Sea",
-        "Big"
-      ],
-      [
-        "Tide",
-        "Container"
       ]
     ]
   },
@@ -10793,14 +5237,6 @@
       [
         "Wire",
         "Light"
-      ],
-      [
-        "Rope",
-        "Light"
-      ],
-      [
-        "Light",
-        "Internet"
       ]
     ]
   },
@@ -10817,19 +5253,11 @@
       ],
       [
         "Fruit tree",
-        "Tree"
-      ],
-      [
-        "Fruit tree",
         "Farmer"
       ],
       [
         "Fruit tree",
         "Farm"
-      ],
-      [
-        "Fruit tree",
-        "Forest"
       ],
       [
         "Fruit tree",
@@ -10842,23 +5270,11 @@
     "recipes": [
       [
         "Hammer",
-        "Boulder"
-      ],
-      [
-        "Hammer",
         "Earth"
       ],
       [
         "Hammer",
-        "Rock"
-      ],
-      [
-        "Hammer",
         "Stone"
-      ],
-      [
-        "Hammer",
-        "Hill"
       ],
       [
         "Hammer",
@@ -10868,93 +5284,11 @@
   },
   "Organic matter": {
     "tier": 8,
-    "recipes": [
-      [
-        "Life",
-        "Death"
-      ],
-      [
-        "Life",
-        "Science"
-      ],
-      [
-        "Bacteria",
-        "Death"
-      ],
-      [
-        "Corpse",
-        "Science"
-      ]
-    ]
+    "recipes": null
   },
   "Origami": {
     "tier": 12,
-    "recipes": [
-      [
-        "Paper",
-        "Bird"
-      ],
-      [
-        "Paper",
-        "Animal"
-      ],
-      [
-        "Paper",
-        "Eagle"
-      ],
-      [
-        "Paper",
-        "Seagull"
-      ],
-      [
-        "Paper",
-        "Owl"
-      ],
-      [
-        "Paper",
-        "Pigeon"
-      ],
-      [
-        "Paper",
-        "Cow"
-      ],
-      [
-        "Paper",
-        "Horse"
-      ],
-      [
-        "Paper",
-        "Dog"
-      ],
-      [
-        "Paper",
-        "Cat"
-      ],
-      [
-        "Paper",
-        "Lion"
-      ],
-      [
-        "Paper",
-        "Hummingbird"
-      ],
-      [
-        "Paper",
-        "Chicken"
-      ],
-      [
-        "Paper",
-        "Penguin"
-      ],
-      [
-        "Paper",
-        "Duck"
-      ],
-      [
-        "Paper",
-        "Vulture"
-      ]
-    ]
+    "recipes": null
   },
   "Ostrich": {
     "tier": 9,
@@ -10966,10 +5300,6 @@
       [
         "Bird",
         "Sand"
-      ],
-      [
-        "Bird",
-        "Big"
       ]
     ]
   },
@@ -11000,48 +5330,12 @@
       [
         "Sun",
         "Plant"
-      ],
-      [
-        "Sun",
-        "Tree"
-      ],
-      [
-        "Sun",
-        "Grass"
-      ],
-      [
-        "Sun",
-        "Algae"
-      ],
-      [
-        "Carbon dioxide",
-        "Plant"
-      ],
-      [
-        "Carbon dioxide",
-        "Tree"
-      ],
-      [
-        "Carbon dioxide",
-        "Grass"
-      ],
-      [
-        "Carbon dioxide",
-        "Algae"
       ]
     ]
   },
   "Ozone": {
     "tier": 7,
     "recipes": [
-      [
-        "Oxygen",
-        "Oxygen"
-      ],
-      [
-        "Electricity",
-        "Oxygen"
-      ],
       [
         "Electricity",
         "Atmosphere"
@@ -11058,42 +5352,6 @@
       [
         "Water",
         "Rainbow"
-      ],
-      [
-        "Water",
-        "Double rainbow!"
-      ],
-      [
-        "Water",
-        "Pencil"
-      ],
-      [
-        "Pottery",
-        "Rainbow"
-      ],
-      [
-        "Pottery",
-        "Double rainbow!"
-      ],
-      [
-        "Tool",
-        "Rainbow"
-      ],
-      [
-        "Tool",
-        "Double rainbow!"
-      ],
-      [
-        "Liquid",
-        "Rainbow"
-      ],
-      [
-        "Liquid",
-        "Double rainbow!"
-      ],
-      [
-        "Liquid",
-        "Pencil"
       ]
     ]
   },
@@ -11102,15 +5360,7 @@
     "recipes": [
       [
         "Human",
-        "Canvas"
-      ],
-      [
-        "Human",
         "Paint"
-      ],
-      [
-        "Human",
-        "Painting"
       ]
     ]
   },
@@ -11132,15 +5382,7 @@
     "recipes": [
       [
         "Human",
-        "Dinosaur"
-      ],
-      [
-        "Human",
         "Fossil"
-      ],
-      [
-        "Science",
-        "Dinosaur"
       ],
       [
         "Science",
@@ -11150,84 +5392,27 @@
   },
   "Palm": {
     "tier": 10,
-    "recipes": [
-      [
-        "Tree",
-        "Beach"
-      ],
-      [
-        "Tree",
-        "Island"
-      ],
-      [
-        "Tree",
-        "Sand"
-      ]
-    ]
+    "recipes": null
   },
   "Pan flute": {
     "tier": 12,
-    "recipes": [
-      [
-        "Flute",
-        "Flute"
-      ]
-    ]
+    "recipes": null
   },
   "Paper": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Pressure"
-      ],
-      [
-        "Wood",
-        "Water"
-      ],
-      [
-        "Wood",
-        "Blender"
-      ],
-      [
-        "Wood",
-        "Machine"
-      ]
-    ]
+    "recipes": null
   },
   "Paper airplane": {
     "tier": 12,
-    "recipes": [
-      [
-        "Airplane",
-        "Paper"
-      ]
-    ]
+    "recipes": null
   },
   "Paper cup": {
     "tier": 13,
-    "recipes": [
-      [
-        "Cup",
-        "Paper"
-      ]
-    ]
+    "recipes": null
   },
   "Parachute": {
     "tier": 10,
     "recipes": [
-      [
-        "Pilot",
-        "Fabric"
-      ],
-      [
-        "Pilot",
-        "Umbrella"
-      ],
-      [
-        "Airplane",
-        "Fabric"
-      ],
       [
         "Airplane",
         "Umbrella"
@@ -11244,44 +5429,11 @@
   },
   "Paraglider": {
     "tier": 13,
-    "recipes": [
-      [
-        "Kite",
-        "Big"
-      ]
-    ]
+    "recipes": null
   },
   "Park": {
     "tier": 6,
     "recipes": [
-      [
-        "City",
-        "Forest"
-      ],
-      [
-        "City",
-        "Garden"
-      ],
-      [
-        "City",
-        "Grass"
-      ],
-      [
-        "City",
-        "Field"
-      ],
-      [
-        "Village",
-        "Forest"
-      ],
-      [
-        "Village",
-        "Garden"
-      ],
-      [
-        "Village",
-        "Grass"
-      ],
       [
         "Village",
         "Field"
@@ -11296,16 +5448,8 @@
         "Pirate"
       ],
       [
-        "Bird",
-        "Pirate ship"
-      ],
-      [
         "Pigeon",
         "Pirate"
-      ],
-      [
-        "Pigeon",
-        "Pirate ship"
       ]
     ]
   },
@@ -11323,10 +5467,6 @@
     "recipes": [
       [
         "Bird",
-        "Leaf"
-      ],
-      [
-        "Bird",
         "Rainbow"
       ],
       [
@@ -11337,29 +5477,11 @@
   },
   "Peanut butter": {
     "tier": 11,
-    "recipes": [
-      [
-        "Nuts",
-        "Butter"
-      ],
-      [
-        "Nuts",
-        "Pressure"
-      ]
-    ]
+    "recipes": null
   },
   "Peat": {
     "tier": 10,
-    "recipes": [
-      [
-        "Swamp",
-        "Plant"
-      ],
-      [
-        "Swamp",
-        "Pressure"
-      ]
-    ]
+    "recipes": null
   },
   "Pebble": {
     "tier": 11,
@@ -11371,10 +5493,6 @@
       [
         "Small",
         "Stone"
-      ],
-      [
-        "Small",
-        "Rock"
       ]
     ]
   },
@@ -11388,46 +5506,16 @@
       [
         "Horse",
         "Sky"
-      ],
-      [
-        "Unicorn",
-        "Bird"
-      ],
-      [
-        "Unicorn",
-        "Sky"
       ]
     ]
   },
   "Pencil": {
     "tier": 11,
-    "recipes": [
-      [
-        "Wood",
-        "Coal"
-      ],
-      [
-        "Wood",
-        "Charcoal"
-      ]
-    ]
+    "recipes": null
   },
   "Pencil sharpener": {
     "tier": 12,
-    "recipes": [
-      [
-        "Pencil",
-        "Blade"
-      ],
-      [
-        "Pencil",
-        "Blender"
-      ],
-      [
-        "Pencil",
-        "Sword"
-      ]
-    ]
+    "recipes": null
   },
   "Penguin": {
     "tier": 9,
@@ -11439,10 +5527,6 @@
       [
         "Bird",
         "Snow"
-      ],
-      [
-        "Bird",
-        "Ice"
       ],
       [
         "Bird",
@@ -11487,10 +5571,6 @@
         "Steam"
       ],
       [
-        "Flower",
-        "Alcohol"
-      ],
-      [
         "Rose",
         "Water"
       ],
@@ -11499,20 +5579,12 @@
         "Steam"
       ],
       [
-        "Rose",
-        "Alcohol"
-      ],
-      [
         "Sunflower",
         "Water"
       ],
       [
         "Sunflower",
         "Steam"
-      ],
-      [
-        "Sunflower",
-        "Alcohol"
       ]
     ]
   },
@@ -11538,15 +5610,7 @@
     "recipes": [
       [
         "Human",
-        "Story"
-      ],
-      [
-        "Human",
         "Idea"
-      ],
-      [
-        "Egg",
-        "Chicken"
       ]
     ]
   },
@@ -11555,19 +5619,7 @@
     "recipes": [
       [
         "Fire",
-        "Bird"
-      ],
-      [
-        "Fire",
         "Life"
-      ],
-      [
-        "Fire",
-        "Death"
-      ],
-      [
-        "Fire",
-        "Egg"
       ]
     ]
   },
@@ -11604,20 +5656,8 @@
         "Fruit"
       ],
       [
-        "Cookie dough",
-        "Fruit"
-      ],
-      [
         "Dough",
         "Meat"
-      ],
-      [
-        "Fruit",
-        "Baker"
-      ],
-      [
-        "Fruit",
-        "Bakery"
       ]
     ]
   },
@@ -11626,15 +5666,7 @@
     "recipes": [
       [
         "Mud",
-        "Livestock"
-      ],
-      [
-        "Mud",
         "Animal"
-      ],
-      [
-        "Mud",
-        "Cow"
       ]
     ]
   },
@@ -11644,14 +5676,6 @@
       [
         "Bird",
         "City"
-      ],
-      [
-        "Bird",
-        "Letter"
-      ],
-      [
-        "Bird",
-        "Statue"
       ],
       [
         "Bird",
@@ -11668,14 +5692,6 @@
     "recipes": [
       [
         "Pig",
-        "Money"
-      ],
-      [
-        "Pig",
-        "Pottery"
-      ],
-      [
-        "Pig",
         "Gold"
       ]
     ]
@@ -11686,24 +5702,12 @@
       [
         "Human",
         "Airplane"
-      ],
-      [
-        "Human",
-        "Seaplane"
       ]
     ]
   },
   "Pinocchio": {
     "tier": 11,
     "recipes": [
-      [
-        "Wood",
-        "Life"
-      ],
-      [
-        "Wood",
-        "Story"
-      ],
       [
         "Golem",
         "Story"
@@ -11713,10 +5717,6 @@
   "Pipe": {
     "tier": 10,
     "recipes": [
-      [
-        "Tobacco",
-        "Wood"
-      ],
       [
         "Tobacco",
         "Tool"
@@ -11749,10 +5749,6 @@
       ],
       [
         "Sailor",
-        "Pirate ship"
-      ],
-      [
-        "Sailor",
         "Gun"
       ]
     ]
@@ -11760,22 +5756,6 @@
   "Pirate ship": {
     "tier": 10,
     "recipes": [
-      [
-        "Sailboat",
-        "Pirate"
-      ],
-      [
-        "Boat",
-        "Pirate"
-      ],
-      [
-        "Steam engine",
-        "Pirate"
-      ],
-      [
-        "Pirate",
-        "Container"
-      ],
       [
         "Pirate",
         "House"
@@ -11796,24 +5776,12 @@
       [
         "Hay",
         "Steel"
-      ],
-      [
-        "Tool",
-        "Demon"
       ]
     ]
   },
   "Pizza": {
     "tier": 12,
     "recipes": [
-      [
-        "Cheese",
-        "Dough"
-      ],
-      [
-        "Cheese",
-        "Bread"
-      ],
       [
         "Cheese",
         "Wheel"
@@ -11826,22 +5794,6 @@
       [
         "Continent",
         "Continent"
-      ],
-      [
-        "Continent",
-        "Ocean"
-      ],
-      [
-        "Earth",
-        "Space"
-      ],
-      [
-        "Earth",
-        "Solar system"
-      ],
-      [
-        "Earth",
-        "Sky"
       ]
     ]
   },
@@ -11859,56 +5811,12 @@
       [
         "Sea",
         "Life"
-      ],
-      [
-        "Bacteria",
-        "Water"
-      ],
-      [
-        "Bacteria",
-        "Ocean"
-      ],
-      [
-        "Bacteria",
-        "Sea"
       ]
     ]
   },
   "Plant": {
     "tier": 8,
     "recipes": [
-      [
-        "Tree",
-        "Small"
-      ],
-      [
-        "Seed",
-        "Water"
-      ],
-      [
-        "Seed",
-        "Soil"
-      ],
-      [
-        "Seed",
-        "Land"
-      ],
-      [
-        "Seed",
-        "Earth"
-      ],
-      [
-        "Grass",
-        "Big"
-      ],
-      [
-        "Algae",
-        "Land"
-      ],
-      [
-        "Algae",
-        "Earth"
-      ],
       [
         "Life",
         "Soil"
@@ -11922,14 +5830,6 @@
   "Plasma": {
     "tier": 3,
     "recipes": [
-      [
-        "Science",
-        "Star"
-      ],
-      [
-        "Science",
-        "Sun"
-      ],
       [
         "Heat",
         "Heat"
@@ -11945,15 +5845,7 @@
     "recipes": [
       [
         "Beaver",
-        "Duck"
-      ],
-      [
-        "Beaver",
         "Bird"
-      ],
-      [
-        "Beaver",
-        "Seagull"
       ]
     ]
   },
@@ -11963,30 +5855,6 @@
       [
         "Earth",
         "Metal"
-      ],
-      [
-        "Earth",
-        "Steel"
-      ],
-      [
-        "Earth",
-        "Wood"
-      ],
-      [
-        "Field",
-        "Metal"
-      ],
-      [
-        "Field",
-        "Steel"
-      ],
-      [
-        "Field",
-        "Wood"
-      ],
-      [
-        "Field",
-        "Tool"
       ]
     ]
   },
@@ -12013,14 +5881,6 @@
       [
         "Plant",
         "Wind"
-      ],
-      [
-        "Flower",
-        "Dust"
-      ],
-      [
-        "Flower",
-        "Wind"
       ]
     ]
   },
@@ -12034,14 +5894,6 @@
       [
         "Puddle",
         "Water"
-      ],
-      [
-        "Puddle",
-        "Big"
-      ],
-      [
-        "Lake",
-        "Small"
       ]
     ]
   },
@@ -12059,45 +5911,12 @@
       [
         "Juice",
         "Snow"
-      ],
-      [
-        "Juice",
-        "Wood"
       ]
     ]
   },
   "Post office": {
     "tier": 13,
-    "recipes": [
-      [
-        "Mailman",
-        "House"
-      ],
-      [
-        "Mailman",
-        "Wall"
-      ],
-      [
-        "Mailman",
-        "Container"
-      ],
-      [
-        "Mailman",
-        "Letter"
-      ],
-      [
-        "Letter",
-        "Letter"
-      ],
-      [
-        "Letter",
-        "House"
-      ],
-      [
-        "Letter",
-        "Wall"
-      ]
-    ]
+    "recipes": null
   },
   "Potato": {
     "tier": 10,
@@ -12114,20 +5933,12 @@
       [
         "Human",
         "Clay"
-      ],
-      [
-        "Human",
-        "Pottery"
       ]
     ]
   },
   "Pottery": {
     "tier": 9,
     "recipes": [
-      [
-        "Clay",
-        "Wheel"
-      ],
       [
         "Clay",
         "Tool"
@@ -12140,22 +5951,6 @@
       [
         "Air",
         "Air"
-      ],
-      [
-        "Air",
-        "Atmosphere"
-      ],
-      [
-        "Atmosphere",
-        "Atmosphere"
-      ],
-      [
-        "Geyser",
-        "Science"
-      ],
-      [
-        "Ocean",
-        "Ocean"
       ]
     ]
   },
@@ -12164,23 +5959,11 @@
     "recipes": [
       [
         "Lava",
-        "Ocean"
-      ],
-      [
-        "Lava",
         "Sea"
       ],
       [
         "Planet",
-        "Ocean"
-      ],
-      [
-        "Planet",
         "Sea"
-      ],
-      [
-        "Earth",
-        "Ocean"
       ],
       [
         "Earth",
@@ -12190,16 +5973,7 @@
   },
   "Printer": {
     "tier": 12,
-    "recipes": [
-      [
-        "Computer",
-        "Paper"
-      ],
-      [
-        "Computer",
-        "Newspaper"
-      ]
-    ]
+    "recipes": null
   },
   "Prism": {
     "tier": 6,
@@ -12207,49 +5981,12 @@
       [
         "Glass",
         "Rainbow"
-      ],
-      [
-        "Glass",
-        "Double rainbow!"
-      ],
-      [
-        "Crystal ball",
-        "Rainbow"
-      ],
-      [
-        "Crystal ball",
-        "Double rainbow!"
       ]
     ]
   },
   "Pterodactyl": {
     "tier": 10,
-    "recipes": [
-      [
-        "Dinosaur",
-        "Air"
-      ],
-      [
-        "Dinosaur",
-        "Sky"
-      ],
-      [
-        "Dinosaur",
-        "Bird"
-      ],
-      [
-        "Dinosaur",
-        "Eagle"
-      ],
-      [
-        "Dinosaur",
-        "Vulture"
-      ],
-      [
-        "Dinosaur",
-        "Airplane"
-      ]
-    ]
+    "recipes": null
   },
   "Puddle": {
     "tier": 1,
@@ -12257,10 +5994,6 @@
       [
         "Water",
         "Water"
-      ],
-      [
-        "Pond",
-        "Small"
       ]
     ]
   },
@@ -12274,14 +6007,6 @@
       [
         "Vegetable",
         "Farmer"
-      ],
-      [
-        "Vegetable",
-        "Jack-o'-lantern"
-      ],
-      [
-        "Plant",
-        "Jack-o'-lantern"
       ]
     ]
   },
@@ -12294,31 +6019,7 @@
       ],
       [
         "Desert",
-        "Grave"
-      ],
-      [
-        "Desert",
-        "Graveyard"
-      ],
-      [
-        "Desert",
-        "Gravestone"
-      ],
-      [
-        "Desert",
         "Mountain"
-      ],
-      [
-        "Desert",
-        "Hill"
-      ],
-      [
-        "Mummy",
-        "Container"
-      ],
-      [
-        "Container",
-        "Book of the dead"
       ]
     ]
   },
@@ -12346,10 +6047,6 @@
       [
         "Animal",
         "Carrot"
-      ],
-      [
-        "Rabbit",
-        "Rabbit"
       ]
     ]
   },
@@ -12374,43 +6071,14 @@
     "tier": 5,
     "recipes": [
       [
-        "Rain",
-        "Sun"
-      ],
-      [
-        "Rain",
-        "Light"
-      ],
-      [
-        "Water",
-        "Light"
-      ],
-      [
         "Water",
         "Sun"
-      ],
-      [
-        "Cloud",
-        "Light"
-      ],
-      [
-        "Prism",
-        "Sun"
-      ],
-      [
-        "Prism",
-        "Light"
       ]
     ]
   },
   "Rainforest": {
     "tier": 11,
-    "recipes": [
-      [
-        "Rain",
-        "Forest"
-      ]
-    ]
+    "recipes": null
   },
   "Rat": {
     "tier": 11,
@@ -12418,93 +6086,12 @@
       [
         "Animal",
         "Pirate ship"
-      ],
-      [
-        "Animal",
-        "Sailboat"
-      ],
-      [
-        "Mouse",
-        "Pirate ship"
-      ],
-      [
-        "Mouse",
-        "Sailboat"
-      ],
-      [
-        "Mouse",
-        "City"
-      ],
-      [
-        "Mouse",
-        "Skyscraper"
-      ],
-      [
-        "Mouse",
-        "Village"
-      ],
-      [
-        "Mouse",
-        "Big"
       ]
     ]
   },
   "Recipe": {
     "tier": 12,
-    "recipes": [
-      [
-        "Paper",
-        "Flour"
-      ],
-      [
-        "Paper",
-        "Meat"
-      ],
-      [
-        "Paper",
-        "Baker"
-      ],
-      [
-        "Paper",
-        "Bakery"
-      ],
-      [
-        "Paper",
-        "Vegetable"
-      ],
-      [
-        "Paper",
-        "Fruit"
-      ],
-      [
-        "Paper",
-        "Cook"
-      ],
-      [
-        "Newspaper",
-        "Flour"
-      ],
-      [
-        "Newspaper",
-        "Meat"
-      ],
-      [
-        "Newspaper",
-        "Baker"
-      ],
-      [
-        "Newspaper",
-        "Bakery"
-      ],
-      [
-        "Newspaper",
-        "Vegetable"
-      ],
-      [
-        "Newspaper",
-        "Fruit"
-      ]
-    ]
+    "recipes": null
   },
   "Reed": {
     "tier": 9,
@@ -12519,54 +6106,13 @@
       ],
       [
         "Plant",
-        "Swamp"
-      ],
-      [
-        "Plant",
-        "River"
-      ],
-      [
-        "Grass",
-        "Pond"
-      ],
-      [
-        "Grass",
-        "Puddle"
-      ],
-      [
-        "Grass",
-        "Swamp"
-      ],
-      [
-        "Grass",
         "River"
       ]
     ]
   },
   "Reindeer": {
     "tier": 11,
-    "recipes": [
-      [
-        "Animal",
-        "Santa"
-      ],
-      [
-        "Livestock",
-        "Santa"
-      ],
-      [
-        "Animal",
-        "Christmas tree"
-      ],
-      [
-        "Livestock",
-        "Christmas tree"
-      ],
-      [
-        "Animal",
-        "Christmas stocking"
-      ]
-    ]
+    "recipes": null
   },
   "Restaurant": {
     "tier": 11,
@@ -12581,32 +6127,12 @@
     "tier": 9,
     "recipes": [
       [
-        "Diamond",
-        "Metal"
-      ],
-      [
-        "Diamond",
-        "Steel"
-      ],
-      [
-        "Diamond",
-        "Gold"
-      ],
-      [
         "Love",
         "Gold"
       ],
       [
         "Love",
-        "Diamond"
-      ],
-      [
-        "Love",
         "Metal"
-      ],
-      [
-        "Love",
-        "Steel"
       ]
     ]
   },
@@ -12614,34 +6140,14 @@
     "tier": 4,
     "recipes": [
       [
-        "Lake",
-        "Motion"
-      ],
-      [
-        "Stream",
-        "Big"
-      ],
-      [
         "Water",
         "Mountain"
-      ],
-      [
-        "Rain",
-        "Mountain"
-      ],
-      [
-        "Rain",
-        "Hill"
       ]
     ]
   },
   "Rivulet": {
     "tier": 10,
     "recipes": [
-      [
-        "Stream",
-        "Small"
-      ],
       [
         "Puddle",
         "Motion"
@@ -12653,50 +6159,13 @@
     "recipes": [
       [
         "Life",
-        "Armor"
-      ],
-      [
-        "Life",
         "Metal"
-      ],
-      [
-        "Life",
-        "Steel"
-      ],
-      [
-        "Golem",
-        "Armor"
-      ],
-      [
-        "Golem",
-        "Metal"
-      ],
-      [
-        "Golem",
-        "Steel"
       ]
     ]
   },
   "Robot vacuum": {
     "tier": 12,
-    "recipes": [
-      [
-        "Robot",
-        "Vacuum cleaner"
-      ],
-      [
-        "Robot",
-        "Broom"
-      ],
-      [
-        "Computer",
-        "Vacuum cleaner"
-      ],
-      [
-        "Computer",
-        "Broom"
-      ]
-    ]
+    "recipes": null
   },
   "Rock": {
     "tier": 12,
@@ -12720,39 +6189,7 @@
     "recipes": [
       [
         "Atmosphere",
-        "Airplane"
-      ],
-      [
-        "Atmosphere",
         "Metal"
-      ],
-      [
-        "Atmosphere",
-        "Steel"
-      ],
-      [
-        "Atmosphere",
-        "Train"
-      ],
-      [
-        "Atmosphere",
-        "Machine"
-      ],
-      [
-        "Atmosphere",
-        "Car"
-      ],
-      [
-        "Atmosphere",
-        "Boat"
-      ],
-      [
-        "Atmosphere",
-        "Steamboat"
-      ],
-      [
-        "Atmosphere",
-        "Pirate ship"
       ]
     ]
   },
@@ -12778,10 +6215,6 @@
       [
         "Egg",
         "Lake"
-      ],
-      [
-        "Egg",
-        "Flying fish"
       ]
     ]
   },
@@ -12790,19 +6223,7 @@
     "recipes": [
       [
         "Park",
-        "Train"
-      ],
-      [
-        "Park",
         "Car"
-      ],
-      [
-        "Park",
-        "Cart"
-      ],
-      [
-        "Park",
-        "Wagon"
       ]
     ]
   },
@@ -12810,28 +6231,8 @@
     "tier": 9,
     "recipes": [
       [
-        "Thread",
-        "Thread"
-      ],
-      [
-        "Thread",
-        "Wire"
-      ],
-      [
         "Wire",
         "Tool"
-      ],
-      [
-        "Tool",
-        "Boat"
-      ],
-      [
-        "Tool",
-        "Sailboat"
-      ],
-      [
-        "Tool",
-        "Pirate ship"
       ]
     ]
   },
@@ -12843,27 +6244,14 @@
         "Plant"
       ],
       [
-        "Love",
-        "Flower"
-      ],
-      [
         "Blade",
         "Plant"
-      ],
-      [
-        "Blade",
-        "Flower"
       ]
     ]
   },
   "Ruler": {
     "tier": 12,
-    "recipes": [
-      [
-        "Wood",
-        "Pencil"
-      ]
-    ]
+    "recipes": null
   },
   "Rust": {
     "tier": 4,
@@ -12871,18 +6259,6 @@
       [
         "Air",
         "Metal"
-      ],
-      [
-        "Air",
-        "Steel"
-      ],
-      [
-        "Metal",
-        "Oxygen"
-      ],
-      [
-        "Steel",
-        "Oxygen"
       ]
     ]
   },
@@ -12892,10 +6268,6 @@
       [
         "House",
         "Car"
-      ],
-      [
-        "House",
-        "Bus"
       ]
     ]
   },
@@ -12904,15 +6276,7 @@
     "recipes": [
       [
         "Container",
-        "Flour"
-      ],
-      [
-        "Container",
         "Salt"
-      ],
-      [
-        "Container",
-        "Letter"
       ]
     ]
   },
@@ -12921,15 +6285,7 @@
     "recipes": [
       [
         "Horse",
-        "Leather"
-      ],
-      [
-        "Horse",
         "Tool"
-      ],
-      [
-        "Horse",
-        "Fabric"
       ]
     ]
   },
@@ -12938,26 +6294,6 @@
     "recipes": [
       [
         "Metal",
-        "Money"
-      ],
-      [
-        "Metal",
-        "Gold"
-      ],
-      [
-        "Steel",
-        "Money"
-      ],
-      [
-        "Steel",
-        "Gold"
-      ],
-      [
-        "Container",
-        "Gun"
-      ],
-      [
-        "Container",
         "Gold"
       ]
     ]
@@ -12967,37 +6303,13 @@
     "recipes": [
       [
         "Glasses",
-        "Tool"
-      ],
-      [
-        "Glasses",
         "Explosion"
-      ],
-      [
-        "Glasses",
-        "Engineer"
-      ],
-      [
-        "Glasses",
-        "Bulletproof vest"
-      ],
-      [
-        "Glasses",
-        "Armor"
       ]
     ]
   },
   "Sailboat": {
     "tier": 12,
     "recipes": [
-      [
-        "Boat",
-        "Wind"
-      ],
-      [
-        "Boat",
-        "Fabric"
-      ],
       [
         "Steamboat",
         "Wind"
@@ -13011,18 +6323,6 @@
   "Sailor": {
     "tier": 8,
     "recipes": [
-      [
-        "Human",
-        "Boat"
-      ],
-      [
-        "Human",
-        "Sailboat"
-      ],
-      [
-        "Human",
-        "Steamboat"
-      ],
       [
         "Human",
         "Sea"
@@ -13047,22 +6347,6 @@
       [
         "Sea",
         "Fire"
-      ],
-      [
-        "Sea",
-        "Mineral"
-      ],
-      [
-        "Ocean",
-        "Sun"
-      ],
-      [
-        "Ocean",
-        "Fire"
-      ],
-      [
-        "Ocean",
-        "Mineral"
       ]
     ]
   },
@@ -13085,26 +6369,6 @@
       [
         "Stone",
         "Wind"
-      ],
-      [
-        "Air",
-        "Rock"
-      ],
-      [
-        "Wind",
-        "Rock"
-      ],
-      [
-        "Pebble",
-        "Air"
-      ],
-      [
-        "Pebble",
-        "Wind"
-      ],
-      [
-        "Pebble",
-        "Small"
       ]
     ]
   },
@@ -13134,10 +6398,6 @@
     "recipes": [
       [
         "Sand",
-        "Paper"
-      ],
-      [
-        "Sand",
         "Fabric"
       ]
     ]
@@ -13151,10 +6411,6 @@
       ],
       [
         "Sand",
-        "Rock"
-      ],
-      [
-        "Sand",
         "Earth"
       ]
     ]
@@ -13164,31 +6420,7 @@
     "recipes": [
       [
         "Sand",
-        "Storm"
-      ],
-      [
-        "Sand",
         "Tornado"
-      ],
-      [
-        "Sand",
-        "Motion"
-      ],
-      [
-        "Desert",
-        "Storm"
-      ],
-      [
-        "Desert",
-        "Tornado"
-      ],
-      [
-        "Desert",
-        "Motion"
-      ],
-      [
-        "Desert",
-        "Wind"
       ]
     ]
   },
@@ -13219,41 +6451,11 @@
   },
   "Santa": {
     "tier": 11,
-    "recipes": [
-      [
-        "Christmas tree",
-        "Human"
-      ],
-      [
-        "Christmas tree",
-        "Legend"
-      ],
-      [
-        "Christmas tree",
-        "Story"
-      ],
-      [
-        "Christmas stocking",
-        "Human"
-      ],
-      [
-        "Christmas stocking",
-        "Legend"
-      ],
-      [
-        "Christmas stocking",
-        "Story"
-      ]
-    ]
+    "recipes": null
   },
   "Sap": {
     "tier": 10,
-    "recipes": [
-      [
-        "Tree",
-        "Blade"
-      ]
-    ]
+    "recipes": null
   },
   "Saturn": {
     "tier": 10,
@@ -13261,10 +6463,6 @@
       [
         "Ring",
         "Planet"
-      ],
-      [
-        "Jupiter",
-        "Small"
       ]
     ]
   },
@@ -13273,27 +6471,11 @@
     "recipes": [
       [
         "Blade",
-        "Doctor"
-      ],
-      [
-        "Blade",
-        "Hospital"
-      ],
-      [
-        "Blade",
-        "Ambulance"
-      ],
-      [
-        "Sword",
-        "Doctor"
-      ],
-      [
-        "Sword",
         "Hospital"
       ],
       [
         "Sword",
-        "Ambulance"
+        "Hospital"
       ]
     ]
   },
@@ -13313,24 +6495,12 @@
         "Golem"
       ],
       [
-        "Hay",
-        "Sack"
-      ],
-      [
         "Farm",
         "Statue"
       ],
       [
         "Barn",
         "Statue"
-      ],
-      [
-        "Pumpkin",
-        "Sack"
-      ],
-      [
-        "Jack-o'-lantern",
-        "Sack"
       ]
     ]
   },
@@ -13340,10 +6510,6 @@
       [
         "Human",
         "Telescope"
-      ],
-      [
-        "Human",
-        "Microscope"
       ],
       [
         "Human",
@@ -13357,22 +6523,6 @@
       [
         "Blade",
         "Blade"
-      ],
-      [
-        "Blade",
-        "Paper"
-      ],
-      [
-        "Blade",
-        "Sword"
-      ],
-      [
-        "Sword",
-        "Sword"
-      ],
-      [
-        "Sword",
-        "Paper"
       ]
     ]
   },
@@ -13386,18 +6536,6 @@
       [
         "Animal",
         "Dune"
-      ],
-      [
-        "Spider",
-        "Sand"
-      ],
-      [
-        "Spider",
-        "Dune"
-      ],
-      [
-        "Spider",
-        "Desert"
       ]
     ]
   },
@@ -13426,24 +6564,8 @@
         "Grass"
       ],
       [
-        "Blade",
-        "Wheat"
-      ],
-      [
         "Sword",
         "Grass"
-      ],
-      [
-        "Sword",
-        "Wheat"
-      ],
-      [
-        "Axe",
-        "Grass"
-      ],
-      [
-        "Axe",
-        "Wheat"
       ]
     ]
   },
@@ -13457,14 +6579,6 @@
       [
         "Lake",
         "Water"
-      ],
-      [
-        "Lake",
-        "Big"
-      ],
-      [
-        "Ocean",
-        "Small"
       ]
     ]
   },
@@ -13481,30 +6595,6 @@
       ],
       [
         "Bird",
-        "Beach"
-      ],
-      [
-        "Pigeon",
-        "Sea"
-      ],
-      [
-        "Pigeon",
-        "Ocean"
-      ],
-      [
-        "Pigeon",
-        "Beach"
-      ],
-      [
-        "Rat",
-        "Sea"
-      ],
-      [
-        "Rat",
-        "Ocean"
-      ],
-      [
-        "Rat",
         "Beach"
       ]
     ]
@@ -13594,18 +6684,6 @@
       [
         "Sickness",
         "Lake"
-      ],
-      [
-        "Sickness",
-        "Boat"
-      ],
-      [
-        "Sickness",
-        "Sailboat"
-      ],
-      [
-        "Sickness",
-        "Steamboat"
       ]
     ]
   },
@@ -13623,14 +6701,6 @@
       [
         "Plant",
         "Lake"
-      ],
-      [
-        "Grass",
-        "Sea"
-      ],
-      [
-        "Grass",
-        "Ocean"
       ]
     ]
   },
@@ -13640,28 +6710,12 @@
       [
         "Pollen",
         "Plant"
-      ],
-      [
-        "Pollen",
-        "Bee"
       ]
     ]
   },
   "Sewing machine": {
     "tier": 11,
     "recipes": [
-      [
-        "Needle",
-        "Machine"
-      ],
-      [
-        "Needle",
-        "Electricity"
-      ],
-      [
-        "Needle",
-        "Robot"
-      ],
       [
         "Thread",
         "Machine"
@@ -13710,42 +6764,17 @@
     "recipes": [
       [
         "Livestock",
-        "Wool"
-      ],
-      [
-        "Livestock",
-        "Hill"
-      ],
-      [
-        "Livestock",
         "Land"
       ],
       [
         "Livestock",
         "Cloud"
-      ],
-      [
-        "Goat",
-        "Domestication"
-      ],
-      [
-        "Mountain goat",
-        "Domestication"
       ]
     ]
   },
   "Sheet music": {
     "tier": 14,
-    "recipes": [
-      [
-        "Music",
-        "Paper"
-      ],
-      [
-        "Music",
-        "Book"
-      ]
-    ]
+    "recipes": null
   },
   "Shovel": {
     "tier": 11,
@@ -13770,14 +6799,6 @@
       [
         "Star",
         "Metal"
-      ],
-      [
-        "Star",
-        "Steel"
-      ],
-      [
-        "Ninja",
-        "Blade"
       ]
     ]
   },
@@ -13787,14 +6808,6 @@
       [
         "Human",
         "Bacteria"
-      ],
-      [
-        "Human",
-        "Swamp"
-      ],
-      [
-        "Human",
-        "Sickness"
       ]
     ]
   },
@@ -13850,16 +6863,7 @@
   },
   "Skeleton": {
     "tier": 9,
-    "recipes": [
-      [
-        "Bone",
-        "Bone"
-      ],
-      [
-        "Bone",
-        "Corpse"
-      ]
-    ]
+    "recipes": null
   },
   "Ski goggles": {
     "tier": 8,
@@ -13871,40 +6875,12 @@
       [
         "Snow",
         "Sunglasses"
-      ],
-      [
-        "Cold",
-        "Glasses"
-      ],
-      [
-        "Cold",
-        "Sunglasses"
-      ],
-      [
-        "Glacier",
-        "Glasses"
-      ],
-      [
-        "Glacier",
-        "Sunglasses"
-      ],
-      [
-        "Skier",
-        "Glasses"
-      ],
-      [
-        "Skier",
-        "Sunglasses"
       ]
     ]
   },
   "Skier": {
     "tier": 8,
     "recipes": [
-      [
-        "Human",
-        "Ski goggles"
-      ],
       [
         "Human",
         "Mountain"
@@ -13919,20 +6895,12 @@
     "tier": 5,
     "recipes": [
       [
-        "Air",
-        "Cloud"
-      ],
-      [
         "Sun",
         "Atmosphere"
       ],
       [
         "Sun",
         "Moon"
-      ],
-      [
-        "Cloud",
-        "Atmosphere"
       ]
     ]
   },
@@ -13942,10 +6910,6 @@
       [
         "House",
         "Sky"
-      ],
-      [
-        "House",
-        "Big"
       ],
       [
         "House",
@@ -13959,49 +6923,11 @@
   },
   "Sleigh": {
     "tier": 12,
-    "recipes": [
-      [
-        "Cart",
-        "Snow"
-      ],
-      [
-        "Cart",
-        "Ice"
-      ],
-      [
-        "Cart",
-        "Arctic"
-      ],
-      [
-        "Cart",
-        "Antarctica"
-      ],
-      [
-        "Wagon",
-        "Snow"
-      ],
-      [
-        "Wagon",
-        "Ice"
-      ],
-      [
-        "Wagon",
-        "Arctic"
-      ],
-      [
-        "Wagon",
-        "Antarctica"
-      ]
-    ]
+    "recipes": null
   },
   "Sloth": {
     "tier": 8,
-    "recipes": [
-      [
-        "Tree",
-        "Manatee"
-      ]
-    ]
+    "recipes": null
   },
   "Small": {
     "tier": 10,
@@ -14024,31 +6950,7 @@
       ],
       [
         "Philosophy",
-        "Pebble"
-      ],
-      [
-        "Philosophy",
-        "Rivulet"
-      ],
-      [
-        "Philosophy",
-        "Ant"
-      ],
-      [
-        "Philosophy",
-        "Spider"
-      ],
-      [
-        "Philosophy",
-        "Bee"
-      ],
-      [
-        "Philosophy",
         "Scorpion"
-      ],
-      [
-        "Philosophy",
-        "Confetti"
       ],
       [
         "Philosophy",
@@ -14094,34 +6996,6 @@
     "tier": 1,
     "recipes": [
       [
-        "Earth",
-        "Gas"
-      ],
-      [
-        "Campfire",
-        "Water"
-      ],
-      [
-        "Campfire",
-        "Storm"
-      ],
-      [
-        "Fire",
-        "Plant"
-      ],
-      [
-        "Fire",
-        "Grass"
-      ],
-      [
-        "Fire",
-        "Tree"
-      ],
-      [
-        "Fire",
-        "Wood"
-      ],
-      [
         "Fire",
         "Air"
       ]
@@ -14132,15 +7006,7 @@
     "recipes": [
       [
         "Fabric",
-        "Campfire"
-      ],
-      [
-        "Fabric",
         "Smoke"
-      ],
-      [
-        "Smoke",
-        "Letter"
       ]
     ]
   },
@@ -14166,15 +7032,7 @@
     "recipes": [
       [
         "Animal",
-        "Rope"
-      ],
-      [
-        "Animal",
         "Wire"
-      ],
-      [
-        "Electric eel",
-        "Land"
       ]
     ]
   },
@@ -14183,19 +7041,11 @@
     "recipes": [
       [
         "Rain",
-        "Cold"
-      ],
-      [
-        "Rain",
         "Mountain"
       ],
       [
         "Rain",
         "Mountain range"
-      ],
-      [
-        "Steam",
-        "Cold"
       ]
     ]
   },
@@ -14203,76 +7053,8 @@
     "tier": 8,
     "recipes": [
       [
-        "Crystal ball",
-        "Ice"
-      ],
-      [
-        "Crystal ball",
-        "Cold"
-      ],
-      [
-        "Crystal ball",
-        "Snow"
-      ],
-      [
-        "Crystal ball",
-        "Snowman"
-      ],
-      [
-        "Crystal ball",
-        "Snowball"
-      ],
-      [
-        "Crystal ball",
-        "Snowmobile"
-      ],
-      [
-        "Crystal ball",
-        "Santa"
-      ],
-      [
-        "Crystal ball",
-        "Christmas tree"
-      ],
-      [
-        "Crystal ball",
-        "Christmas stocking"
-      ],
-      [
-        "Crystal ball",
-        "Blizzard"
-      ],
-      [
         "Glass",
         "Snow"
-      ],
-      [
-        "Glass",
-        "Snowman"
-      ],
-      [
-        "Glass",
-        "Snowball"
-      ],
-      [
-        "Glass",
-        "Snowmobile"
-      ],
-      [
-        "Glass",
-        "Santa"
-      ],
-      [
-        "Glass",
-        "Christmas tree"
-      ],
-      [
-        "Glass",
-        "Christmas stocking"
-      ],
-      [
-        "Glass",
-        "Blizzard"
       ]
     ]
   },
@@ -14289,10 +7071,6 @@
       ],
       [
         "Snow",
-        "Rock"
-      ],
-      [
-        "Snow",
         "Earth"
       ]
     ]
@@ -14302,18 +7080,6 @@
     "recipes": [
       [
         "Snow",
-        "Wood"
-      ],
-      [
-        "Snow",
-        "Surfer"
-      ],
-      [
-        "Ice",
-        "Wood"
-      ],
-      [
-        "Ice",
         "Surfer"
       ],
       [
@@ -14341,26 +7107,6 @@
       [
         "Snow",
         "Human"
-      ],
-      [
-        "Snow",
-        "Carrot"
-      ],
-      [
-        "Snow",
-        "Coal"
-      ],
-      [
-        "Snowball",
-        "Carrot"
-      ],
-      [
-        "Snowball",
-        "Coal"
-      ],
-      [
-        "Snowball",
-        "Snowball"
       ]
     ]
   },
@@ -14369,23 +7115,11 @@
     "recipes": [
       [
         "Snow",
-        "Motorcycle"
-      ],
-      [
-        "Snow",
         "Car"
       ],
       [
         "Glacier",
-        "Motorcycle"
-      ],
-      [
-        "Glacier",
         "Car"
-      ],
-      [
-        "Ice",
-        "Motorcycle"
       ],
       [
         "Ice",
@@ -14402,18 +7136,6 @@
       ],
       [
         "Oil",
-        "Wax"
-      ],
-      [
-        "Oil",
-        "Clay"
-      ],
-      [
-        "Wax",
-        "Ash"
-      ],
-      [
-        "Wax",
         "Clay"
       ]
     ]
@@ -14424,14 +7146,6 @@
       [
         "Carbon dioxide",
         "Water"
-      ],
-      [
-        "Carbon dioxide",
-        "Juice"
-      ],
-      [
-        "Carbon dioxide",
-        "Tea"
       ]
     ]
   },
@@ -14443,16 +7157,8 @@
         "Life"
       ],
       [
-        "Earth",
-        "Organic matter"
-      ],
-      [
         "Land",
         "Life"
-      ],
-      [
-        "Land",
-        "Organic matter"
       ]
     ]
   },
@@ -14461,23 +7167,7 @@
     "recipes": [
       [
         "Sun",
-        "Tool"
-      ],
-      [
-        "Sun",
-        "Machine"
-      ],
-      [
-        "Sun",
-        "Electricity"
-      ],
-      [
-        "Sun",
         "Energy"
-      ],
-      [
-        "Tool",
-        "Light"
       ]
     ]
   },
@@ -14487,38 +7177,6 @@
       [
         "Planet",
         "Planet"
-      ],
-      [
-        "Planet",
-        "Sun"
-      ],
-      [
-        "Planet",
-        "Container"
-      ],
-      [
-        "Sun",
-        "Container"
-      ],
-      [
-        "Mars",
-        "Container"
-      ],
-      [
-        "Mercury",
-        "Container"
-      ],
-      [
-        "Venus",
-        "Container"
-      ],
-      [
-        "Jupiter",
-        "Container"
-      ],
-      [
-        "Saturn",
-        "Container"
       ]
     ]
   },
@@ -14541,40 +7199,12 @@
       [
         "Wave",
         "Air"
-      ],
-      [
-        "Wave",
-        "Human"
-      ],
-      [
-        "Wave",
-        "Animal"
-      ],
-      [
-        "Wave",
-        "Wolf"
       ]
     ]
   },
   "Space": {
     "tier": 6,
     "recipes": [
-      [
-        "Star",
-        "Sky"
-      ],
-      [
-        "Star",
-        "Sun"
-      ],
-      [
-        "Star",
-        "Moon"
-      ],
-      [
-        "Solar system",
-        "Night"
-      ],
       [
         "Solar system",
         "Sky"
@@ -14585,28 +7215,12 @@
     "tier": 5,
     "recipes": [
       [
-        "Space",
-        "House"
-      ],
-      [
-        "Space",
-        "Wall"
-      ],
-      [
-        "Space",
-        "Village"
-      ],
-      [
         "Atmosphere",
         "House"
       ],
       [
         "Atmosphere",
         "Wall"
-      ],
-      [
-        "Atmosphere",
-        "Village"
       ]
     ]
   },
@@ -14615,35 +7229,7 @@
     "recipes": [
       [
         "Space",
-        "Airplane"
-      ],
-      [
-        "Space",
         "Metal"
-      ],
-      [
-        "Space",
-        "Steel"
-      ],
-      [
-        "Space",
-        "Pirate ship"
-      ],
-      [
-        "Space",
-        "Boat"
-      ],
-      [
-        "Space",
-        "Steamboat"
-      ],
-      [
-        "Space",
-        "Car"
-      ],
-      [
-        "Astronaut",
-        "Container"
       ]
     ]
   },
@@ -14668,18 +7254,6 @@
     "tier": 10,
     "recipes": [
       [
-        "Statue",
-        "Lion"
-      ],
-      [
-        "Statue",
-        "Desert"
-      ],
-      [
-        "Statue",
-        "Pyramid"
-      ],
-      [
         "Lion",
         "Stone"
       ]
@@ -14691,10 +7265,6 @@
       [
         "Animal",
         "Thread"
-      ],
-      [
-        "Animal",
-        "Web"
       ],
       [
         "Animal",
@@ -14716,25 +7286,13 @@
     "recipes": [
       [
         "Light",
-        "Machine"
-      ],
-      [
-        "Light",
         "Metal"
-      ],
-      [
-        "Light",
-        "Steel"
       ]
     ]
   },
   "Sprinkles": {
     "tier": 12,
     "recipes": [
-      [
-        "Sugar",
-        "Confetti"
-      ],
       [
         "Sugar",
         "Paint"
@@ -14751,24 +7309,7 @@
   },
   "Squirrel": {
     "tier": 11,
-    "recipes": [
-      [
-        "Mouse",
-        "Tree"
-      ],
-      [
-        "Mouse",
-        "Plant"
-      ],
-      [
-        "Mouse",
-        "Nuts"
-      ],
-      [
-        "Animal",
-        "Nuts"
-      ]
-    ]
+    "recipes": null
   },
   "Star": {
     "tier": 7,
@@ -14804,10 +7345,6 @@
     "recipes": [
       [
         "Star",
-        "Fish"
-      ],
-      [
-        "Star",
         "Ocean"
       ],
       [
@@ -14824,28 +7361,12 @@
         "Hammer"
       ],
       [
-        "Boulder",
-        "Hammer"
-      ],
-      [
         "Medusa",
         "Human"
       ],
       [
         "Medusa",
         "Hacker"
-      ],
-      [
-        "Medusa",
-        "Engineer"
-      ],
-      [
-        "Medusa",
-        "Lumberjack"
-      ],
-      [
-        "Medusa",
-        "Pilot"
       ],
       [
         "Medusa",
@@ -14873,86 +7394,6 @@
       ],
       [
         "Medusa",
-        "Doctor"
-      ],
-      [
-        "Medusa",
-        "Baker"
-      ],
-      [
-        "Medusa",
-        "Drunk"
-      ],
-      [
-        "Medusa",
-        "Mirror"
-      ],
-      [
-        "Troll",
-        "Sun"
-      ],
-      [
-        "Troll",
-        "Dawn"
-      ],
-      [
-        "Cockatrice",
-        "Human"
-      ],
-      [
-        "Cockatrice",
-        "Hacker"
-      ],
-      [
-        "Cockatrice",
-        "Engineer"
-      ],
-      [
-        "Cockatrice",
-        "Lumberjack"
-      ],
-      [
-        "Cockatrice",
-        "Pilot"
-      ],
-      [
-        "Cockatrice",
-        "Sailor"
-      ],
-      [
-        "Cockatrice",
-        "Farmer"
-      ],
-      [
-        "Cockatrice",
-        "Firefighter"
-      ],
-      [
-        "Cockatrice",
-        "Surfer"
-      ],
-      [
-        "Cockatrice",
-        "Astronaut"
-      ],
-      [
-        "Cockatrice",
-        "Butcher"
-      ],
-      [
-        "Cockatrice",
-        "Doctor"
-      ],
-      [
-        "Cockatrice",
-        "Baker"
-      ],
-      [
-        "Cockatrice",
-        "Drunk"
-      ],
-      [
-        "Cockatrice",
         "Mirror"
       ]
     ]
@@ -14962,18 +7403,6 @@
     "recipes": [
       [
         "Meat",
-        "Bbq"
-      ],
-      [
-        "Meat",
-        "Fire"
-      ],
-      [
-        "Cow",
-        "Bbq"
-      ],
-      [
-        "Cow",
         "Fire"
       ]
     ]
@@ -14983,19 +7412,7 @@
     "recipes": [
       [
         "Water",
-        "Heat"
-      ],
-      [
-        "Water",
         "Fire"
-      ],
-      [
-        "Water",
-        "Lava"
-      ],
-      [
-        "Water",
-        "Gas"
       ]
     ]
   },
@@ -15021,14 +7438,6 @@
     "recipes": [
       [
         "Steam engine",
-        "Boat"
-      ],
-      [
-        "Steam engine",
-        "Sailboat"
-      ],
-      [
-        "Steam engine",
         "Pirate ship"
       ],
       [
@@ -15046,15 +7455,7 @@
     "recipes": [
       [
         "Metal",
-        "Coal"
-      ],
-      [
-        "Metal",
         "Charcoal"
-      ],
-      [
-        "Metal",
-        "Mineral"
       ],
       [
         "Metal",
@@ -15083,24 +7484,8 @@
     "tier": 9,
     "recipes": [
       [
-        "Doctor",
-        "Tool"
-      ],
-      [
-        "Doctor",
-        "Drum"
-      ],
-      [
-        "Doctor",
-        "Sound"
-      ],
-      [
         "Tool",
         "Sound"
-      ],
-      [
-        "Tool",
-        "Hospital"
       ]
     ]
   },
@@ -15110,10 +7495,6 @@
       [
         "Earth",
         "Pressure"
-      ],
-      [
-        "Earth",
-        "Solid"
       ],
       [
         "Air",
@@ -15127,28 +7508,12 @@
       [
         "Cloud",
         "Cloud"
-      ],
-      [
-        "Electricity",
-        "Cloud"
-      ],
-      [
-        "Electricity",
-        "Atmosphere"
-      ],
-      [
-        "Rain",
-        "Wind"
       ]
     ]
   },
   "Story": {
     "tier": 9,
     "recipes": [
-      [
-        "Human",
-        "Campfire"
-      ],
       [
         "Human",
         "Hero"
@@ -15161,28 +7526,12 @@
       [
         "Pond",
         "Motion"
-      ],
-      [
-        "Rivulet",
-        "Big"
-      ],
-      [
-        "River",
-        "Small"
       ]
     ]
   },
   "String phone": {
     "tier": 13,
     "recipes": [
-      [
-        "Paper cup",
-        "Wire"
-      ],
-      [
-        "Paper cup",
-        "Thread"
-      ],
       [
         "Cup",
         "Wire"
@@ -15198,22 +7547,6 @@
     "recipes": [
       [
         "Gun",
-        "Electricity"
-      ],
-      [
-        "Gun",
-        "Wire"
-      ],
-      [
-        "Gun",
-        "Energy"
-      ],
-      [
-        "Bow",
-        "Electricity"
-      ],
-      [
-        "Bow",
         "Energy"
       ]
     ]
@@ -15236,30 +7569,6 @@
       [
         "Juice",
         "Energy"
-      ],
-      [
-        "Alcohol",
-        "Fire"
-      ],
-      [
-        "Alcohol",
-        "Energy"
-      ],
-      [
-        "Beer",
-        "Fire"
-      ],
-      [
-        "Beer",
-        "Energy"
-      ],
-      [
-        "Wine",
-        "Fire"
-      ],
-      [
-        "Wine",
-        "Energy"
       ]
     ]
   },
@@ -15267,79 +7576,14 @@
     "tier": 4,
     "recipes": [
       [
-        "Sky",
-        "Light"
-      ],
-      [
-        "Sky",
-        "Fire"
-      ],
-      [
-        "Day",
-        "Space"
-      ],
-      [
-        "Day",
-        "Sky"
-      ],
-      [
-        "Day",
-        "Light"
-      ],
-      [
         "Planet",
         "Fire"
-      ],
-      [
-        "Planet",
-        "Light"
       ]
     ]
   },
   "Sundial": {
     "tier": 8,
-    "recipes": [
-      [
-        "Sun",
-        "Wheel"
-      ],
-      [
-        "Sun",
-        "Tool"
-      ],
-      [
-        "Sun",
-        "Clock"
-      ],
-      [
-        "Sun",
-        "Watch"
-      ],
-      [
-        "Light",
-        "Wheel"
-      ],
-      [
-        "Light",
-        "Tool"
-      ],
-      [
-        "Light",
-        "Clock"
-      ],
-      [
-        "Light",
-        "Watch"
-      ],
-      [
-        "Day",
-        "Wheel"
-      ],
-      [
-        "Day",
-        "Tool"
-      ]
-    ]
+    "recipes": null
   },
   "Sunflower": {
     "tier": 9,
@@ -15347,10 +7591,6 @@
       [
         "Sun",
         "Plant"
-      ],
-      [
-        "Sun",
-        "Flower"
       ]
     ]
   },
@@ -15367,15 +7607,7 @@
       ],
       [
         "Glasses",
-        "Day"
-      ],
-      [
-        "Glasses",
         "Sky"
-      ],
-      [
-        "Glasses",
-        "Light"
       ]
     ]
   },
@@ -15384,19 +7616,7 @@
     "recipes": [
       [
         "Explosion",
-        "Star"
-      ],
-      [
-        "Explosion",
         "Sun"
-      ],
-      [
-        "Explosion",
-        "Galaxy"
-      ],
-      [
-        "Explosion",
-        "Space"
       ]
     ]
   },
@@ -15419,10 +7639,6 @@
       [
         "Fish",
         "Seaweed"
-      ],
-      [
-        "Caviar",
-        "Seaweed"
       ]
     ]
   },
@@ -15432,14 +7648,6 @@
       [
         "Mud",
         "Grass"
-      ],
-      [
-        "Mud",
-        "Tree"
-      ],
-      [
-        "Tree",
-        "Lake"
       ],
       [
         "Algae",
@@ -15498,26 +7706,6 @@
       [
         "Glasses",
         "River"
-      ],
-      [
-        "Sunglasses",
-        "Water"
-      ],
-      [
-        "Sunglasses",
-        "Lake"
-      ],
-      [
-        "Sunglasses",
-        "Sea"
-      ],
-      [
-        "Sunglasses",
-        "Ocean"
-      ],
-      [
-        "Sunglasses",
-        "River"
       ]
     ]
   },
@@ -15548,14 +7736,6 @@
       [
         "House",
         "Lake"
-      ],
-      [
-        "House",
-        "Swimmer"
-      ],
-      [
-        "Aquarium",
-        "Big"
       ]
     ]
   },
@@ -15565,14 +7745,6 @@
       [
         "Blade",
         "Metal"
-      ],
-      [
-        "Blade",
-        "Steel"
-      ],
-      [
-        "Blade",
-        "Wood"
       ]
     ]
   },
@@ -15585,14 +7757,6 @@
       ],
       [
         "Fish",
-        "Blade"
-      ],
-      [
-        "Shark",
-        "Sword"
-      ],
-      [
-        "Shark",
         "Blade"
       ]
     ]
@@ -15624,14 +7788,6 @@
     "recipes": [
       [
         "Human",
-        "Sewing machine"
-      ],
-      [
-        "Human",
-        "Needle"
-      ],
-      [
-        "Human",
         "Thread"
       ]
     ]
@@ -15639,10 +7795,6 @@
   "Tank": {
     "tier": 11,
     "recipes": [
-      [
-        "Car",
-        "Armor"
-      ],
       [
         "Car",
         "Gun"
@@ -15679,18 +7831,6 @@
     "recipes": [
       [
         "Glass",
-        "Sky"
-      ],
-      [
-        "Glass",
-        "Star"
-      ],
-      [
-        "Glass",
-        "Space"
-      ],
-      [
-        "Glass",
         "Moon"
       ],
       [
@@ -15699,49 +7839,17 @@
       ],
       [
         "Glass",
-        "Mars"
-      ],
-      [
-        "Glass",
         "Mercury"
       ],
       [
         "Glass",
         "Venus"
-      ],
-      [
-        "Glass",
-        "Saturn"
-      ],
-      [
-        "Glass",
-        "Jupiter"
-      ],
-      [
-        "Glass",
-        "Galaxy"
-      ],
-      [
-        "Glass",
-        "Galaxy cluster"
-      ],
-      [
-        "Glass",
-        "Universe"
-      ],
-      [
-        "Glass",
-        "Supernova"
       ]
     ]
   },
   "Tent": {
     "tier": 12,
     "recipes": [
-      [
-        "Fabric",
-        "Wood"
-      ],
       [
         "Fabric",
         "House"
@@ -15811,10 +7919,6 @@
     "tier": 5,
     "recipes": [
       [
-        "Ocean",
-        "Moon"
-      ],
-      [
         "Sea",
         "Moon"
       ]
@@ -15824,19 +7928,7 @@
     "tier": 11,
     "recipes": [
       [
-        "Boat",
-        "Iceberg"
-      ],
-      [
-        "Steamboat",
-        "Iceberg"
-      ],
-      [
         "Iceberg",
-        "Legend"
-      ],
-      [
-        "Steamboat",
         "Legend"
       ]
     ]
@@ -15844,10 +7936,6 @@
   "Toast": {
     "tier": 14,
     "recipes": [
-      [
-        "Sandwich",
-        "Fire"
-      ],
       [
         "Bread",
         "Fire"
@@ -15864,10 +7952,6 @@
       [
         "Plant",
         "Smoke"
-      ],
-      [
-        "Grass",
-        "Smoke"
       ]
     ]
   },
@@ -15880,35 +7964,7 @@
       ],
       [
         "Human",
-        "Steel"
-      ],
-      [
-        "Human",
-        "Wood"
-      ],
-      [
-        "Human",
         "Stone"
-      ],
-      [
-        "Human",
-        "Rock"
-      ],
-      [
-        "Wood",
-        "Metal"
-      ],
-      [
-        "Wood",
-        "Steel"
-      ],
-      [
-        "Wood",
-        "Stone"
-      ],
-      [
-        "Wood",
-        "Rock"
       ]
     ]
   },
@@ -15917,47 +7973,7 @@
     "recipes": [
       [
         "Tool",
-        "Container"
-      ],
-      [
-        "Tool",
         "Safe"
-      ],
-      [
-        "Tool",
-        "Box"
-      ],
-      [
-        "Hammer",
-        "Container"
-      ],
-      [
-        "Hammer",
-        "Box"
-      ],
-      [
-        "Ruler",
-        "Container"
-      ],
-      [
-        "Ruler",
-        "Box"
-      ],
-      [
-        "Steel wool",
-        "Container"
-      ],
-      [
-        "Steel wool",
-        "Box"
-      ],
-      [
-        "Chain",
-        "Box"
-      ],
-      [
-        "Chain",
-        "Container"
       ]
     ]
   },
@@ -15965,28 +7981,8 @@
     "tier": 3,
     "recipes": [
       [
-        "Storm",
-        "Storm"
-      ],
-      [
-        "Storm",
-        "Wind"
-      ],
-      [
-        "Storm",
-        "Motion"
-      ],
-      [
-        "Wind",
-        "Big"
-      ],
-      [
         "Wind",
         "Wind"
-      ],
-      [
-        "Wind",
-        "Motion"
       ]
     ]
   },
@@ -16000,22 +7996,6 @@
       [
         "Bird",
         "Double rainbow!"
-      ],
-      [
-        "Bird",
-        "Palm"
-      ],
-      [
-        "Palm",
-        "Owl"
-      ],
-      [
-        "Palm",
-        "Seagull"
-      ],
-      [
-        "Palm",
-        "Pigeon"
       ]
     ]
   },
@@ -16032,18 +8012,6 @@
       ],
       [
         "Car",
-        "Cow"
-      ],
-      [
-        "Wagon",
-        "Farmer"
-      ],
-      [
-        "Wagon",
-        "Field"
-      ],
-      [
-        "Wagon",
         "Cow"
       ]
     ]
@@ -16062,10 +8030,6 @@
       [
         "Steam engine",
         "Wheel"
-      ],
-      [
-        "Steam engine",
-        "Wagon"
       ]
     ]
   },
@@ -16092,90 +8056,26 @@
   },
   "Treasure": {
     "tier": 14,
-    "recipes": [
-      [
-        "Treasure map",
-        "Pirate"
-      ],
-      [
-        "Treasure map",
-        "Pirate ship"
-      ],
-      [
-        "Treasure map",
-        "Island"
-      ],
-      [
-        "Treasure map",
-        "Sailor"
-      ]
-    ]
+    "recipes": null
   },
   "Treasure map": {
     "tier": 13,
-    "recipes": [
-      [
-        "Map",
-        "Pirate"
-      ],
-      [
-        "Map",
-        "Pirate ship"
-      ],
-      [
-        "Map",
-        "Treasure"
-      ],
-      [
-        "Map",
-        "Island"
-      ]
-    ]
+    "recipes": null
   },
   "Tree": {
     "tier": 9,
-    "recipes": [
-      [
-        "Plant",
-        "Big"
-      ],
-      [
-        "Plant",
-        "Wood"
-      ],
-      [
-        "Nest",
-        "Container"
-      ]
-    ]
+    "recipes": null
   },
   "Treehouse": {
     "tier": 10,
-    "recipes": [
-      [
-        "Tree",
-        "House"
-      ],
-      [
-        "Tree",
-        "Wood"
-      ]
-    ]
+    "recipes": null
   },
   "Trojan horse": {
     "tier": 10,
     "recipes": [
       [
         "Horse",
-        "Wood"
-      ],
-      [
-        "Horse",
         "Machine"
-      ],
-      [
-        "Horse",
-        "Statue"
       ]
     ]
   },
@@ -16189,22 +8089,6 @@
       [
         "Sea",
         "Explosion"
-      ],
-      [
-        "Sea",
-        "Meteor"
-      ],
-      [
-        "Ocean",
-        "Earthquake"
-      ],
-      [
-        "Ocean",
-        "Explosion"
-      ],
-      [
-        "Ocean",
-        "Meteor"
       ]
     ]
   },
@@ -16212,54 +8096,18 @@
     "tier": 10,
     "recipes": [
       [
-        "Engineer",
-        "Mountain"
-      ],
-      [
-        "Engineer",
-        "Mountain range"
-      ],
-      [
-        "Engineer",
-        "Hill"
-      ],
-      [
-        "Train",
-        "Mountain"
-      ],
-      [
-        "Train",
-        "Mountain range"
-      ],
-      [
-        "Train",
-        "Hill"
-      ],
-      [
         "Cave",
         "Mountain"
       ],
       [
         "Cave",
         "Mountain range"
-      ],
-      [
-        "Cave",
-        "Hill"
       ]
     ]
   },
   "Turtle": {
     "tier": 8,
     "recipes": [
-      [
-        "Egg",
-        "Sand"
-      ],
-      [
-        "Egg",
-        "Beach"
-      ],
       [
         "Animal",
         "Beach"
@@ -16277,20 +8125,7 @@
   },
   "Tyrannosaurus rex": {
     "tier": 10,
-    "recipes": [
-      [
-        "Dinosaur",
-        "Meat"
-      ],
-      [
-        "Dinosaur",
-        "Blood"
-      ],
-      [
-        "Dinosaur",
-        "Monarch"
-      ]
-    ]
+    "recipes": null
   },
   "Ufo": {
     "tier": 8,
@@ -16298,10 +8133,6 @@
       [
         "Alien",
         "Rocket"
-      ],
-      [
-        "Alien",
-        "Airplane"
       ],
       [
         "Alien",
@@ -16314,10 +8145,6 @@
       [
         "Alien",
         "Sky"
-      ],
-      [
-        "Alien",
-        "Container"
       ]
     ]
   },
@@ -16329,30 +8156,14 @@
         "Tool"
       ],
       [
-        "Rain",
-        "Fabric"
-      ],
-      [
         "Storm",
         "Tool"
-      ],
-      [
-        "Storm",
-        "Fabric"
       ]
     ]
   },
   "Unicorn": {
     "tier": 9,
     "recipes": [
-      [
-        "Horse",
-        "Legend"
-      ],
-      [
-        "Horse",
-        "Story"
-      ],
       [
         "Horse",
         "Magic"
@@ -16371,35 +8182,14 @@
     "tier": 7,
     "recipes": [
       [
-        "Space",
-        "Container"
-      ],
-      [
         "Galaxy cluster",
         "Galaxy cluster"
-      ],
-      [
-        "Galaxy cluster",
-        "Container"
-      ],
-      [
-        "Primordial soup",
-        "Cosmic egg"
       ]
     ]
   },
   "Vacuum cleaner": {
     "tier": 12,
-    "recipes": [
-      [
-        "Broom",
-        "Electricity"
-      ],
-      [
-        "Broom",
-        "Machine"
-      ]
-    ]
+    "recipes": null
   },
   "Vampire": {
     "tier": 9,
@@ -16407,14 +8197,6 @@
       [
         "Human",
         "Blood"
-      ],
-      [
-        "Human",
-        "Vampire"
-      ],
-      [
-        "Human",
-        "Bat"
       ]
     ]
   },
@@ -16431,26 +8213,6 @@
       ],
       [
         "Pottery",
-        "Rose"
-      ],
-      [
-        "Container",
-        "Flower"
-      ],
-      [
-        "Container",
-        "Rose"
-      ],
-      [
-        "Bottle",
-        "Plant"
-      ],
-      [
-        "Bottle",
-        "Flower"
-      ],
-      [
-        "Bottle",
         "Rose"
       ]
     ]
@@ -16473,10 +8235,6 @@
       ],
       [
         "Farmer",
-        "Forest"
-      ],
-      [
-        "Farmer",
         "Plant"
       ],
       [
@@ -16494,14 +8252,6 @@
     "recipes": [
       [
         "Planet",
-        "Acid rain"
-      ],
-      [
-        "Planet",
-        "Smog"
-      ],
-      [
-        "Planet",
         "Volcano"
       ]
     ]
@@ -16512,41 +8262,12 @@
       [
         "House",
         "House"
-      ],
-      [
-        "Family",
-        "Family"
-      ],
-      [
-        "House",
-        "Container"
-      ],
-      [
-        "House",
-        "Bakery"
-      ],
-      [
-        "Bakery",
-        "Container"
       ]
     ]
   },
   "Vine": {
     "tier": 12,
-    "recipes": [
-      [
-        "Rainforest",
-        "Rope"
-      ],
-      [
-        "Rainforest",
-        "Thread"
-      ],
-      [
-        "Rainforest",
-        "Wire"
-      ]
-    ]
+    "recipes": null
   },
   "Vinegar": {
     "tier": 13,
@@ -16567,34 +8288,6 @@
       [
         "Lava",
         "Earth"
-      ],
-      [
-        "Lava",
-        "Mountain"
-      ],
-      [
-        "Lava",
-        "Hill"
-      ],
-      [
-        "Lava",
-        "Container"
-      ],
-      [
-        "Fire",
-        "Mountain"
-      ],
-      [
-        "Fire",
-        "Hill"
-      ],
-      [
-        "Pressure",
-        "Mountain"
-      ],
-      [
-        "Pressure",
-        "Hill"
       ]
     ]
   },
@@ -16606,87 +8299,14 @@
         "Bird"
       ],
       [
-        "Corpse",
-        "Eagle"
-      ],
-      [
-        "Corpse",
-        "Owl"
-      ],
-      [
-        "Corpse",
-        "Hummingbird"
-      ],
-      [
-        "Corpse",
-        "Pigeon"
-      ],
-      [
-        "Corpse",
-        "Penguin"
-      ],
-      [
-        "Corpse",
-        "Chicken"
-      ],
-      [
-        "Corpse",
-        "Duck"
-      ],
-      [
         "Desert",
         "Bird"
-      ],
-      [
-        "Desert",
-        "Eagle"
-      ],
-      [
-        "Desert",
-        "Owl"
-      ],
-      [
-        "Desert",
-        "Hummingbird"
-      ],
-      [
-        "Desert",
-        "Pigeon"
-      ],
-      [
-        "Desert",
-        "Penguin"
-      ],
-      [
-        "Desert",
-        "Duck"
       ]
     ]
   },
   "Wagon": {
     "tier": 12,
-    "recipes": [
-      [
-        "Cart",
-        "Horse"
-      ],
-      [
-        "Cart",
-        "Fabric"
-      ],
-      [
-        "Cart",
-        "House"
-      ],
-      [
-        "Cart",
-        "Wall"
-      ],
-      [
-        "Cart",
-        "Cow"
-      ]
-    ]
+    "recipes": null
   },
   "Wall": {
     "tier": 3,
@@ -16694,10 +8314,6 @@
       [
         "Brick",
         "Brick"
-      ],
-      [
-        "Wood",
-        "Wood"
       ],
       [
         "Stone",
@@ -16710,19 +8326,11 @@
     "recipes": [
       [
         "Wizard",
-        "Wood"
-      ],
-      [
-        "Wizard",
         "Sword"
       ],
       [
         "Wizard",
         "Tool"
-      ],
-      [
-        "Wizard",
-        "Pencil"
       ]
     ]
   },
@@ -16732,10 +8340,6 @@
       [
         "Heat",
         "Air"
-      ],
-      [
-        "Heat",
-        "Human"
       ]
     ]
   },
@@ -16745,38 +8349,16 @@
       [
         "Human",
         "Sword"
-      ],
-      [
-        "Human",
-        "Bow"
       ]
     ]
   },
   "Watch": {
     "tier": 8,
-    "recipes": [
-      [
-        "Clock",
-        "Human"
-      ],
-      [
-        "Clock",
-        "Small"
-      ]
-    ]
+    "recipes": null
   },
   "Water": {
     "tier": 0,
-    "recipes": [
-      [
-        "Heat",
-        "Ice"
-      ],
-      [
-        "Heat",
-        "Snow"
-      ]
-    ]
+    "recipes": null
   },
   "Water gun": {
     "tier": 6,
@@ -16784,10 +8366,6 @@
       [
         "Gun",
         "Water"
-      ],
-      [
-        "Gun",
-        "Stream"
       ],
       [
         "Gun",
@@ -16809,10 +8387,6 @@
       [
         "Flower",
         "Lake"
-      ],
-      [
-        "Flower",
-        "Stream"
       ]
     ]
   },
@@ -16829,28 +8403,8 @@
     "tier": 4,
     "recipes": [
       [
-        "River",
-        "Mountain"
-      ],
-      [
-        "River",
-        "Mountain range"
-      ],
-      [
-        "River",
-        "Hill"
-      ],
-      [
         "Lake",
         "Mountain"
-      ],
-      [
-        "Lake",
-        "Mountain range"
-      ],
-      [
-        "Lake",
-        "Hill"
       ]
     ]
   },
@@ -16858,40 +8412,8 @@
     "tier": 4,
     "recipes": [
       [
-        "Ocean",
-        "Wind"
-      ],
-      [
-        "Ocean",
-        "Storm"
-      ],
-      [
-        "Ocean",
-        "Hurricane"
-      ],
-      [
-        "Sea",
-        "Wind"
-      ],
-      [
-        "Sea",
-        "Storm"
-      ],
-      [
-        "Sea",
-        "Hurricane"
-      ],
-      [
         "Lake",
         "Wind"
-      ],
-      [
-        "Lake",
-        "Storm"
-      ],
-      [
-        "Lake",
-        "Hurricane"
       ]
     ]
   },
@@ -16951,14 +8473,6 @@
       [
         "Human",
         "Wolf"
-      ],
-      [
-        "Human",
-        "Werewolf"
-      ],
-      [
-        "Wolf",
-        "Monster"
       ]
     ]
   },
@@ -16983,28 +8497,8 @@
     "tier": 9,
     "recipes": [
       [
-        "Motion",
-        "Tool"
-      ],
-      [
-        "Motion",
-        "Stone"
-      ],
-      [
-        "Motion",
-        "Metal"
-      ],
-      [
-        "Motion",
-        "Steel"
-      ],
-      [
         "Tool",
         "Water"
-      ],
-      [
-        "Tool",
-        "Stream"
       ],
       [
         "Tool",
@@ -17018,28 +8512,12 @@
       [
         "Pig",
         "Animal"
-      ],
-      [
-        "Pig",
-        "Forest"
-      ],
-      [
-        "Pig",
-        "Hill"
       ]
     ]
   },
   "Wind": {
     "tier": 2,
     "recipes": [
-      [
-        "Motion",
-        "Air"
-      ],
-      [
-        "Motion",
-        "Atmosphere"
-      ],
       [
         "Air",
         "Pressure"
@@ -17054,14 +8532,6 @@
         "Electricity"
       ],
       [
-        "Windmill",
-        "Machine"
-      ],
-      [
-        "Windmill",
-        "Electrician"
-      ],
-      [
         "Wind",
         "Electricity"
       ]
@@ -17073,22 +8543,6 @@
       [
         "Wind",
         "House"
-      ],
-      [
-        "Wind",
-        "Wheel"
-      ],
-      [
-        "Wind",
-        "Wheat"
-      ],
-      [
-        "Wind",
-        "Flour"
-      ],
-      [
-        "Wheel",
-        "Wall"
       ]
     ]
   },
@@ -17111,10 +8565,6 @@
       [
         "Alcohol",
         "Juice"
-      ],
-      [
-        "Tool",
-        "Dionysus"
       ]
     ]
   },
@@ -17124,52 +8574,12 @@
       [
         "Metal",
         "Electricity"
-      ],
-      [
-        "Metal",
-        "Rope"
-      ],
-      [
-        "Steel",
-        "Electricity"
-      ],
-      [
-        "Steel",
-        "Rope"
-      ],
-      [
-        "Electricity",
-        "Rope"
       ]
     ]
   },
   "Witch": {
     "tier": 11,
     "recipes": [
-      [
-        "Broom",
-        "Wizard"
-      ],
-      [
-        "Broom",
-        "Human"
-      ],
-      [
-        "Broom",
-        "Legend"
-      ],
-      [
-        "Broom",
-        "Story"
-      ],
-      [
-        "Broom",
-        "Magic"
-      ],
-      [
-        "Broom",
-        "Cauldron"
-      ],
       [
         "Cauldron",
         "Story"
@@ -17189,10 +8599,6 @@
       ],
       [
         "Human",
-        "Unicorn"
-      ],
-      [
-        "Human",
         "Rainbow"
       ],
       [
@@ -17207,90 +8613,16 @@
       [
         "Animal",
         "Moon"
-      ],
-      [
-        "Animal",
-        "Dog"
-      ],
-      [
-        "Dog",
-        "Forest"
-      ],
-      [
-        "Dog",
-        "Blood"
       ]
     ]
   },
   "Wood": {
     "tier": 10,
-    "recipes": [
-      [
-        "Tree",
-        "Tool"
-      ],
-      [
-        "Tree",
-        "Axe"
-      ],
-      [
-        "Tree",
-        "Chainsaw"
-      ],
-      [
-        "Tree",
-        "Sword"
-      ],
-      [
-        "Tree",
-        "Lumberjack"
-      ],
-      [
-        "Forest",
-        "Tool"
-      ],
-      [
-        "Forest",
-        "Axe"
-      ],
-      [
-        "Forest",
-        "Chainsaw"
-      ],
-      [
-        "Forest",
-        "Sword"
-      ],
-      [
-        "Forest",
-        "Lumberjack"
-      ],
-      [
-        "Tree",
-        "Paul bunyan"
-      ],
-      [
-        "Forest",
-        "Paul bunyan"
-      ]
-    ]
+    "recipes": null
   },
   "Woodpecker": {
     "tier": 10,
-    "recipes": [
-      [
-        "Bird",
-        "Wood"
-      ],
-      [
-        "Bird",
-        "Tree"
-      ],
-      [
-        "Bird",
-        "Forest"
-      ]
-    ]
+    "recipes": null
   },
   "Wool": {
     "tier": 10,
@@ -17311,24 +8643,7 @@
   },
   "Wrapping paper": {
     "tier": 12,
-    "recipes": [
-      [
-        "Paper",
-        "Gift"
-      ],
-      [
-        "Paper",
-        "Christmas tree"
-      ],
-      [
-        "Paper",
-        "Christmas stocking"
-      ],
-      [
-        "Paper",
-        "Santa"
-      ]
-    ]
+    "recipes": null
   },
   "Writer": {
     "tier": 12,
@@ -17336,10 +8651,6 @@
       [
         "Human",
         "Book"
-      ],
-      [
-        "Human",
-        "Pencil"
       ]
     ]
   },
@@ -17351,48 +8662,16 @@
         "Story"
       ],
       [
-        "Mountain",
-        "Legend"
-      ],
-      [
         "Mountain range",
         "Story"
-      ],
-      [
-        "Mountain range",
-        "Legend"
       ],
       [
         "Glacier",
         "Story"
       ],
       [
-        "Glacier",
-        "Legend"
-      ],
-      [
         "Antarctica",
         "Story"
-      ],
-      [
-        "Antarctica",
-        "Legend"
-      ],
-      [
-        "Monster",
-        "Mountain"
-      ],
-      [
-        "Monster",
-        "Mountain range"
-      ],
-      [
-        "Monster",
-        "Glacier"
-      ],
-      [
-        "Monster",
-        "Antarctica"
       ]
     ]
   },
@@ -17402,10 +8681,6 @@
       [
         "Bacteria",
         "Milk"
-      ],
-      [
-        "Bacteria",
-        "Ice cream"
       ]
     ]
   },
@@ -17418,29 +8693,13 @@
       ],
       [
         "Corpse",
-        "Story"
-      ],
-      [
-        "Corpse",
         "Bacteria"
-      ],
-      [
-        "Human",
-        "Zombie"
-      ],
-      [
-        "Corpse",
-        "Necromancer"
       ]
     ]
   },
   "Zoo": {
     "tier": 10,
     "recipes": [
-      [
-        "Animal",
-        "Container"
-      ],
       [
         "Animal",
         "Cage"
