@@ -9,6 +9,7 @@ import (
 	"sync"
 	"time"
 	"runtime"
+	"sort"
 
 
 )
@@ -214,9 +215,15 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 		defer activeWorkersMutex.Unlock()
 		return activeWorkers
 	}
-
+	seenRecipes := make(map[string]bool)
+	var seenMutex sync.Mutex
 	go func() {
-		for r := range resultChan {
+	for r := range resultChan {
+		serialized := serializeRecipe(r)
+
+		seenMutex.Lock()
+		if !seenRecipes[serialized] {
+			seenRecipes[serialized] = true
 			resultMutex.Lock()
 			result = append(result, r)
 			if len(result) >= maxRecipe {
@@ -224,7 +231,9 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 			}
 			resultMutex.Unlock()
 		}
-	}()
+		seenMutex.Unlock()
+	}
+}()
 
 	for i := 0; i < numWorkers; i++ {
 		wg.Add(1)
@@ -359,6 +368,22 @@ func SearchBFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 	log.Printf("BFS took %s", duration)
 
 	return result, float64(duration.Seconds()), nodeCount
+}
+
+
+func serializeRecipe(r map[string][]string) string {
+	var sb strings.Builder
+	keys := make([]string, 0, len(r))
+	for k := range r {
+		keys = append(keys, k)
+	}
+	sort.Strings(keys)
+	for _, k := range keys {
+		v := r[k]
+		sort.Strings(v)
+		sb.WriteString(k + ":" + strings.Join(v, ",") + ";")
+	}
+	return sb.String()
 }
 
 
