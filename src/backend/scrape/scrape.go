@@ -149,7 +149,7 @@ func CleanRecipes(itemsMap map[string]ElementData) map[string]ElementData {
 			for _, ingredient := range recipe {
 				if _, exists := itemsMap[ingredient]; !exists {
 					valid = false
-					fmt.Printf("Removing recipe for %s: ingredient %s doesn't exist\n", itemName, ingredient)
+					// fmt.Printf("Removing recipe for %s: ingredient %s doesn't exist\n", itemName, ingredient)
 					break
 				}
 			}
@@ -179,12 +179,12 @@ func filterRecipes(itemsMap map[string]ElementData, name string) ElementData {
 		for _, ing := range recipe {
 			ingData, ok := itemsMap[ing]
 			if !ok {
-				fmt.Printf("Bahan tidak ditemukan: %s\n", ing)
+				// fmt.Printf("Bahan tidak ditemukan: %s\n", ing)
 				valid = false
 				break
 			}
 			if ingData.Tier >= element.Tier {
-				fmt.Printf("Bahan %s dengan Tier %d tidak valid untuk %s (Tier %d)\n", ing, ingData.Tier, name, element.Tier)
+				// fmt.Printf("Bahan %s dengan Tier %d tidak valid untuk %s (Tier %d)\n", ing, ingData.Tier, name, element.Tier)
 				valid = false
 				break
 			}
