@@ -16,10 +16,6 @@
     "ImageURL": "/images/Water.svg"
   },
   {
-    "Name": "Time",
-    "ImageURL": "/images/Time.svg"
-  },
-  {
     "Name": "Dust",
     "ImageURL": "/images/Dust.svg"
   },
@@ -558,10 +554,6 @@
   {
     "Name": "Rain",
     "ImageURL": "/images/Rain.svg"
-  },
-  {
-    "Name": "Ruins",
-    "ImageURL": "/images/Ruins.svg"
   },
   {
     "Name": "Safety glasses",
