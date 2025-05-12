@@ -163,11 +163,11 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 			currentState := make(map[string][]string)
 			currentState[element] = recipe
 
-			// Create a stack for elements to process (DFS stack)
+			// Membuat stack untuk elemen-elemen diproses
 			stack := list.New()
 
 			recipeDataMutex.RLock()
-			// Add elements to process in reverse order for DFS (so first element is processed first)
+			// Menambah elemen untuk di proses dengan urutan terbalik sehingga elemen pertama diproses duluan
 			if RecipeData[recipe[1]].Tier > 0 {
 				stack.PushFront(recipe[1])
 			}
@@ -181,7 +181,7 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 				"stack":     stack,
 			}
 
-			recipeStack.PushFront(state) // Push to front for DFS
+			recipeStack.PushFront(state)
 		}
 	}
 
@@ -270,7 +270,7 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 				}
 
 				increaseActive()
-				// In DFS, we take from the front of the stack
+				// Mengambil dari depan stack
 				currentStateElement := recipeStack.Front()
 				recipeStack.Remove(currentStateElement)
 				stackMutex.Unlock()
@@ -279,7 +279,7 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 				currentRecipeMap := currentState["recipeMap"].(map[string][]string)
 				currentStack := currentState["stack"].(*list.List)
 
-				// Only consider as a result if all non-base elements have recipes defined
+				// Dianggap resep jika semua elemen bukan dasar masing-masing ditemukan resepnya juga
 				if currentStack.Len() == 0 && isRecipeComplete(currentRecipeMap) {
 					recipeDone := make(map[string][]string)
 					for key, value := range currentRecipeMap {
@@ -297,7 +297,7 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 					continue
 				}
 
-				// In DFS, we take from the front of the stack
+				// Elemen selanjutnya diambil dari depan
 				nextElement := currentStack.Front()
 				currentStack.Remove(nextElement)
 				elementToExpand := nextElement.Value.(string)
@@ -345,15 +345,15 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 						}
 						newRecipeMap[elementToExpand] = recipe
 
-						// Create a new stack with the remaining elements
+						// Membuat stack baru dengan elemen yang tersisa
 						newStack := list.New()
 						for el := currentStack.Front(); el != nil; el = el.Next() {
 							newStack.PushBack(el.Value)
 						}
 
 						recipeDataMutex.RLock()
-						// For DFS, we add the deeper elements first (they'll be processed first)
-						// This is the key difference from BFS - adding to front instead of back
+						// Melakukan proses untuk elemen terdalam lebih dulu, hasil ditambahkan ke depan
+
 						if _, ok := newRecipeMap[recipe[1]]; recipe[0] != recipe[1] && !ok && RecipeData[recipe[1]].Tier > 0 {
 							newStack.PushFront(recipe[1])
 						}
@@ -362,8 +362,8 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 						}
 						recipeDataMutex.RUnlock()
 
-						// If both components are base elements (Tier 0), and we have no more elements in stack,
-						// this is a complete recipe path
+						// Jika kedua komponen merupakan elemen dasar, dan tidak ada elemen lain di stack
+						// maka merupakan peta resep lengkap
 						recipeDataMutex.RLock()
 						isRecipe0Base := RecipeData[recipe[0]].Tier == 0
 						isRecipe1Base := RecipeData[recipe[1]].Tier == 0
@@ -374,7 +374,7 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 							case <-done:
 								return
 							case resultChan <- newRecipeMap:
-								// Found a complete recipe where both components are base elements
+								// Resep lengkap dengan kedua komponen adalah elemen dasar
 							}
 						}
 
@@ -403,6 +403,7 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 	return result, float64(duration.Seconds()), nodeCount
 }
 
+// Mengubah peta resep ke bentuk string
 func serializeRecipe(r map[string][]string) string {
 	var sb strings.Builder
 	keys := make([]string, 0, len(r))
@@ -416,183 +417,4 @@ func serializeRecipe(r map[string][]string) string {
 		sb.WriteString(k + ":" + strings.Join(v, ",") + ";")
 	}
 	return sb.String()
-}
-
-// Helper functions for limiting workers
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
-// DebugRecipe takes a recipe map and prints it in a readable format
-func DebugRecipe(recipeMap map[string][]string) {
-	// First, find the root element (usually the target element)
-	rootElements := findRootElements(recipeMap)
-
-	for _, root := range rootElements {
-		printRecipeTree(recipeMap, root, 1)
-	}
-}
-
-// findRootElements attempts to identify root elements in the recipe
-func findRootElements(recipeMap map[string][]string) []string {
-	// Create a set of all elements that appear as components
-	componentsSet := make(map[string]bool)
-	for _, components := range recipeMap {
-		for _, component := range components {
-			componentsSet[component] = true
-		}
-	}
-
-	// Find elements that are not components of other elements
-	var roots []string
-	for element := range recipeMap {
-		if !componentsSet[element] {
-			roots = append(roots, element)
-		}
-	}
-
-	// If no clear roots, just return all elements
-	if len(roots) == 0 {
-		for element := range recipeMap {
-			roots = append(roots, element)
-		}
-	}
-
-	return roots
-}
-
-// printRecipeTree recursively prints the recipe tree
-func printRecipeTree(recipeMap map[string][]string, element string, depth int) {
-	components := recipeMap[element]
-
-	// Add debug output to see the element and its components
-	indent := strings.Repeat("  ", depth)
-	log.Printf("%s%s -> %v", indent, element, components)
-
-	if len(components) == 0 {
-		return
-	}
-
-	for _, component := range components {
-		// Recursively print components that have recipes
-		if subComponents, hasRecipe := recipeMap[component]; hasRecipe && len(subComponents) > 0 {
-			printRecipeTree(recipeMap, component, depth+1)
-		}
-	}
-}
-
-// CountUniqueRecipes eliminates duplicates and returns actual unique recipes
-func CountUniqueRecipes(recipes []map[string][]string) int {
-	// Create a set of recipe fingerprints
-	uniqueFingerprints := make(map[string]bool)
-
-	for _, recipe := range recipes {
-		fingerprint := createRecipeFingerprint(recipe)
-		uniqueFingerprints[fingerprint] = true
-	}
-
-	return len(uniqueFingerprints)
-}
-
-// Creates a canonical string representation of a recipe for deduplication
-func createRecipeFingerprint(recipe map[string][]string) string {
-	// Sort elements first to ensure consistent ordering
-	elements := make([]string, 0, len(recipe))
-	for element := range recipe {
-		elements = append(elements, element)
-	}
-
-	// Simple bubble sort
-	for i := 0; i < len(elements); i++ {
-		for j := i + 1; j < len(elements); j++ {
-			if elements[i] > elements[j] {
-				elements[i], elements[j] = elements[j], elements[i]
-			}
-		}
-	}
-
-	// Build fingerprint
-	var fingerprint strings.Builder
-	for _, element := range elements {
-		fingerprint.WriteString(element)
-		fingerprint.WriteString(":[")
-
-		components := recipe[element]
-		// Also sort components for consistency
-		for i := 0; i < len(components); i++ {
-			for j := i + 1; j < len(components); j++ {
-				if components[i] > components[j] {
-					components[i], components[j] = components[j], components[i]
-				}
-			}
-		}
-
-		for i, component := range components {
-			if i > 0 {
-				fingerprint.WriteString(",")
-			}
-			fingerprint.WriteString(component)
-		}
-		fingerprint.WriteString("]")
-	}
-
-	return fingerprint.String()
-}
-
-// FindMissingRecipe checks if specific recipes are present in the results
-func FindMissingRecipe(recipes []map[string][]string, targetElement string, knownRecipes [][]string) [][]string {
-	// Convert recipes to a set of fingerprints
-	recipeFingerprints := make(map[string]bool)
-
-	for _, recipe := range recipes {
-		if components, exists := recipe[targetElement]; exists {
-			// Sort components for consistent comparison
-			sortedComponents := make([]string, len(components))
-			copy(sortedComponents, components)
-			for i := 0; i < len(sortedComponents); i++ {
-				for j := i + 1; j < len(sortedComponents); j++ {
-					if sortedComponents[i] > sortedComponents[j] {
-						sortedComponents[i], sortedComponents[j] = sortedComponents[j], sortedComponents[i]
-					}
-				}
-			}
-
-			// Create fingerprint for this recipe's components
-			fingerprint := strings.Join(sortedComponents, ",")
-			recipeFingerprints[fingerprint] = true
-		}
-	}
-
-	// Check which known recipes are missing
-	var missingRecipes [][]string
-
-	for _, knownRecipe := range knownRecipes {
-		// Sort for consistent comparison
-		sortedRecipe := make([]string, len(knownRecipe))
-		copy(sortedRecipe, knownRecipe)
-		for i := 0; i < len(sortedRecipe); i++ {
-			for j := i + 1; j < len(sortedRecipe); j++ {
-				if sortedRecipe[i] > sortedRecipe[j] {
-					sortedRecipe[i], sortedRecipe[j] = sortedRecipe[j], sortedRecipe[i]
-				}
-			}
-		}
-
-		fingerprint := strings.Join(sortedRecipe, ",")
-		if !recipeFingerprints[fingerprint] {
-			missingRecipes = append(missingRecipes, knownRecipe)
-		}
-	}
-
-	return missingRecipes
 }
