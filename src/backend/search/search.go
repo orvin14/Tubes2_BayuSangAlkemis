@@ -4,17 +4,18 @@ import (
 	"encoding/json"
 	"log"
 	"os"
-	"time"
 	"recipe-finder/bfs"
-	"strings"
+	"recipe-finder/dfs"
 	"sort"
+	"strings"
+	"time"
 )
 
 // Dummy data untuk testing
 // TODO : Set Recipes to the real data
 var DummyRecipe1 = map[string][]string{
-	"Brick":    {"Mud", "Fire"},
-	"Mud":      {"Water", "Earth"},
+	"Brick": {"Mud", "Fire"},
+	"Mud":   {"Water", "Earth"},
 }
 var DummyRecipe2 = map[string][]string{
 	"Brick": {"Clay", "Fire"},
@@ -23,25 +24,7 @@ var DummyRecipe2 = map[string][]string{
 
 // DFS
 func DFS(element string, maxRecipe int) ([]map[string][]string, float64, int) {
-	var results []map[string][]string
-	start := time.Now()
-	visitedNode := 0
-
-	// Contoh 2 resep hasil BFS
-	recipe1 := map[string][]string{
-		"Brick": {"Mud", "Fire"},
-		"Mud":   {"Water", "Earth"},
-	}
-	recipe2 := map[string][]string{
-		"Brick": {"Clay", "Fire"},
-		"Clay":  {"Air", "Earth"},
-	}
-
-	results = append(results, recipe1, recipe2)
-	duration := time.Since(start).Seconds()
-	visitedNode += 3 // Simulasi jumlah node yang dikunjungi
-	duration += 1.5
-	return results, duration, visitedNode
+	return dfs.SearchDFS(element, maxRecipe)
 }
 
 // BFS
@@ -121,6 +104,7 @@ func allLeavesAreBaseElements(path map[string][][]string, base map[string]bool) 
 	}
 	return true
 }
+
 // seseorang benerin ini
 // 11:15 10 Mei 2025: Gamau, lagi CTF
 func BidirectionalSearch(target string, maxRecipe int) ([]map[string][][]string, float64, int) {
@@ -256,4 +240,3 @@ func BidirectionalSearch(target string, maxRecipe int) ([]map[string][][]string,
 	visitedNode = forwardVisitedCount + backwardVisitedCount
 	return results, duration, visitedNode
 }
-
