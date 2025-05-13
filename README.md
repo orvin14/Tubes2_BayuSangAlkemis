@@ -22,5 +22,8 @@ Pencarian elemen Little Alchemy 2 berdasarkan nama
 Menampilkan resep dalam bentuk tree
 
 
-## Cara Menjalankan Program (Windows)
-Buka alamat https://recipe-finder-production-6d64.up.railway.app/
+## Cara Menjalankan Program 
+1. Buka alamat https://recipe-finder-production-6d64.up.railway.app/
+2. Pilih mode
+3. Pilih algoritma
+4. Tekan elemen yang diingikan
