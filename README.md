@@ -39,3 +39,11 @@ Menampilkan resep dalam bentuk tree
 4. Setiap elemen pada queue internal pada setiap state akan diproses hingga queue kosong. Jika queue kosong berarti resep sudah jadi dan bisa dipush ke slice/list result.
 5. Semua state pada recipeQueue akan diproses hingga queue kosong atau jumlah resep mencapai maxRecipe.
 6. Diterapkan beberapa batasan yang mengurangi kemampuan BFS tetapi diperlukan karena penggunaan space memory tumbuh sangat cepat.
+
+## Cara Kerja BFS
+1. Telusuri semua kemungkinan resep untuk membuat elemen target, masing-masing dimasukkan ke sebuah state yang di push ke stack of recipe state, kemudian kedua bahan penyusun dimasukkan ke stack of element di masing-masing state.
+2. Setiap state terdiri dari map untuk menyimpan kombinasi resep yang sudah ditemukan sejauh ini dan stack untuk menyimpan elemen selanjutnya yang harus diexpand untuk state tersebut.
+3. Masing-masing state di-expand elemen teratas dari stack internal tersebut, kemudian dicari kemungkinan resep untuk masing-masing. State dari setiap variasi resep diduplikasi lalu resep dari elemen yang diexpand ditambahkan ke recipeMap state tersebut sementara elemen ditambah ke stack elemen. Dengan menambahkan state baru ke depan stack, state baru akan diproses terlebih dahulu sebelum state lama.
+4. Elemen pada stack internal pada setiap state diproses mulai dari yang teratas hingga stack kosong.
+5. Semua state pada recipeStack akan diproses hingga stack kosong atau jumlah recipe mencapai maxRecipe.
+6. Konkurensi diimplementasikan dengan multiple workers yang mengambil dan memproses state secara paralel dari stack global.
