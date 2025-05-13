@@ -94,7 +94,6 @@ func isRecipeComplete(recipeMap map[string][]string) bool {
 func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, int) {
 	progressLogInterval := 500
 	lastLogTime := time.Now()
-	debugEnabled := true // Set this to true to enable more verbose logging
 
 	recipeDataMutex.Lock()
 	if RecipeData == nil {
@@ -105,10 +104,6 @@ func SearchDFS(element string, maxRecipe int) ([]map[string][]string, float64, i
 		}
 	} else {
 		recipeDataMutex.Unlock()
-	}
-
-	if debugEnabled {
-		log.Println("[DFS-DEBUG] Starting search with max recipes:", maxRecipe)
 	}
 
 	element = strings.TrimSpace(element)
