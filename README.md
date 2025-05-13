@@ -34,7 +34,7 @@ Menampilkan resep dalam bentuk tree
 
 ## Cara Kerja BFS
 1. Telusuri semua kemungkinan resep untuk membuat elemen target, masing-masing kemungkinan dimasukkan ke dalam sebuah state yang dipush ke queue of recipe state, kedua (atau salah satu) ingredients penyusunnya kemudian dimasukkan ke dalam queue of element di masing-masing state
-2. Setiap state terdiri dari map untuk menyimpan kombinasi resep yang sudah ditemukan sejauh ini, (misal Brick:[Mud, Fire], Mud:[Water, Soil]) dan queue untuk menyimpan elemen yang selanjutnya harus diexpand untuk stat tersebut (misal [Bread, Vegetables])
+2. Setiap state terdiri dari map untuk menyimpan kombinasi resep yang sudah ditemukan sejauh ini, (misal `Brick:[Mud, Fire], Mud:[Water, Soil]`) dan queue untuk menyimpan elemen yang selanjutnya harus diexpand untuk stat tersebut (misal `[Bread, Vegetables]`)
 3. Untuk masing-masing state, akan di-expand setiap elemen dalam queue internal state tersebut (queue of element), kemudian dicari kemungkinan resep untuk masing-masing, untuk setiap variasi resep, kita duplikat state saat ini dan menambahkan resep dari elemen yang diexpand ke dalam recipeMap milik state tersebut dan menambahkan elemen ke queue elemen milik state tersebut (jika ada yang bisa dipush)
 4. Setiap elemen pada queue internal pada setiap state akan diproses hingga queue kosong. Jika queue kosong berarti resep sudah jadi dan bisa dipush ke slice/list result.
 5. Semua state pada recipeQueue akan diproses hingga queue kosong atau jumlah resep mencapai maxRecipe.
